@@ -21,6 +21,19 @@ The repository consists of the following files and directories:
 - `data/`: Contains the CSV files with the data used for the analysis.
   - `all_exp_fixations_original2.csv`: Original fixation data.
   - `answers_experiments.tsv`: Developers' answers during the experiment.
+  - `code_smell_comprehension_data_rq1.xlsx`: Contains data and analyses directly supporting Research Question 1. Includes both raw data and processed tables used in the study, with each sheet contributing to the analysis of how code smells affect developers' perception of comprehension difficulty.
+    - Key Tables:
+        - Levels_of_Understanding (Table 1 in the paper): Categorizes participants' comprehension levels, providing a framework for analysis.
+        - Difficulty_Categories (Table 2 in the paper): Lists categories of difficulties perceived by developers, such as Logical Complexity and Confusing Names.
+        - Code_Smell_Distribution_by_Category_Paper (Table 3 in the paper): Relates difficulty categories to the presence of code smells, highlighting their specific impacts.
+        - Smell_Count_By_Level (Table 4 in the paper): Links comprehension levels with the identification of code smells, detailing the frequency of recognized and unrecognized smells.
+    - Supplementary Tables:
+        - Code_Smell_Distribution_by_Category_v1 and Code_Smell_Distribution_by_Category_v2: Exploratory versions of the distribution of difficulties by categories and code smells.
+        - General_Table: Consolidates qualitative and quantitative data, serving as a basis for cross-analyses.
+        - General_Table_Translated: Adjusted version of General_Table, translated and prepared for presentation.
+        - General_Table_Structured: Refined structure of the general table, facilitating programmatic analyses.
+    - Reference Tables for Analysis:
+        - the other sheets presented, such as Total_Compre_Yes, Analysis_Total_Compre_Yes, Total_Compre_No and similar ones, represent intermediate data used for building the final tables. These sheets contain segmentations of responses by comprehension levels (e.g., Total Comprehension, No Comprehension) and associated qualitative analyses. Although not directly presented in the paper, they document the analytical process and are available for future exploration.
   
 - `notebooks/`: Contains the Jupyter Notebooks for data analysis.
   - `fixation_analisysRQ2.ipynb`: Cognitive effort analysis (RQ2).
