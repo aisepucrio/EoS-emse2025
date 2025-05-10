@@ -1,8 +1,6 @@
 # Reading between the Smells: Investigating Developer Responses to Code Smells
 
-This repository contains supplementary results and the data used in the study "Reading between the Smells: Investigating Developer Responses to Code Smells". The study investigates how code smells affect developers' cognitive load, program comprehension, and reading behaviors using eye-tracking technology.
-
-The accepted paper can be accessed here.
+This repository contains supplementary results and the data presented in the paper "Reading between the Smells: Investigating Developer Responses to Code Smells". The study investigates how code smells affect developers' cognitive load, program comprehension, and reading behaviors using eye-tracking technology.
 
 ## Overview
 
@@ -10,7 +8,7 @@ This study examines the cognitive and perceptual responses of developers to code
 
 To explore these impacts, we conducted an experiment using the Tobii TX300 eye tracker to measure developers' visual engagement. Metrics such as fixation count (FC) and average fixation duration (AFD) were used to evaluate cognitive load, while qualitative feedback was gathered through developer questionnaires.
 
-The study involved 27 participants, who analyzed 13 Java code snippets selected from the MLCQ dataset. These snippets were manually reviewed and labeled by 26 professional developers from the software industry. Participants identified the presence, type, and severity of code smells, as well as their perceived comprehension difficulty for each snippet.
+The study involved 27 professional developers from the software industry, who analyzed 13 Java code snippets selected from the MLCQ dataset. Developers identified the presence, type, and severity of code smells, as well as their perceived comprehension difficulty for each snippet.
 
 This repository provides access to the data collected, the analysis scripts, and the code snippets used in the study. The findings aim to inform refactoring strategies, improve developer training, and enhance tools for program comprehension.
 
@@ -56,10 +54,19 @@ The artifacts can be reviewed and executed on any standard computer system. Ther
 
 The dataset was sourced from the "MLCQ" dataset, which provides 4,770 manually reviewed code samples from 792 open-source projects. These samples were labeled by 26 professional developers, who provided detailed severity classifications for various code smells. This rigorous manual review process enhances the dataset's reliability and relevance.
 
+Link of the dataset: <add>
+
 ## Ethical and Legal Statements
 
-The study was approved by the research ethics committee (CAAE number omitted for anonymity). All participants signed a Free and Informed Consent Form (TCLE), ensuring their data remained anonymous and protected.
+The study was approved by the research ethics committee through the Brazil Platform under the Certificate of Presentation for Ethical Consideration (CAAE) number 74286223.4.0000.5235. All participants signed a Free and Informed Consent Form (TCLE), ensuring their data remained anonymous and protected.
 
 ## License
 
 This repository is licensed under the GNU License. Please see the LICENSE file for more details.
+
+## Contact
+
+For questions or further information about this dataset, please contact the corresponding authors:
+
+- [Vinícius Martins] – [vinicjp@gmail.com]
+- [Juliana Alves Pereira] – [juliana@inf.puc-rio.br]
