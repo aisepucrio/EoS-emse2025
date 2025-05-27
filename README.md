@@ -54,7 +54,7 @@ The artifacts can be reviewed and executed on any standard computer system. Ther
 
 The dataset was sourced from the "MLCQ" dataset, which provides 4,770 manually reviewed code samples from 792 open-source projects. These samples were labeled by 26 professional developers, who provided detailed severity classifications for various code smells. This rigorous manual review process enhances the dataset's reliability and relevance.
 
-Link of the dataset: <add>
+Link of the dataset: https://zenodo.org/records/3666840
 
 ## Ethical and Legal Statements
 
