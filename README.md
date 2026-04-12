@@ -18,7 +18,6 @@ The repository consists of the following files and directories:
 
 - `data/`: Contains the CSV files with the data used for the analysis.
   - `all_exp_fixations_original2.csv`: Original fixation data.
-  - `answers_experiments.tsv`: Developers' answers during the experiment.
   - `code_smell_comprehension_data_rq1.xlsx`: Contains data and analyses directly supporting RQ1. Includes both raw data and processed tables used in the study, with each sheet contributing to the analysis of how code smells affect developers' perception of comprehension difficulty.
     - Key Tables:
         - *Levels_of_Understanding* (Table 1 in the paper): Categorizes participants' comprehension levels, providing a framework for analysis.
@@ -34,12 +33,13 @@ The repository consists of the following files and directories:
         - The other tables presented, such as *Total_Compre_Yes*, *Analysis_Total_Compre_Yes*, *Total_Compre_No* and similar ones, represent intermediate data used for building the final tables. They contain segmentations of responses by comprehension levels (e.g., Total Comprehension, No Comprehension) and associated qualitative analyses. Although not directly presented in the paper, they document the analytical process and are available for future exploration.
   
 - `notebooks/`: Contains the Jupyter Notebooks for data analysis.
-  - `fixation_analisysRQ2.ipynb`: Cognitive effort analysis (RQ2).
-  - `fixation_analisysRQ3.ipynb`: Reading behavior analysis (RQ3).
+  - `fixation_analysisRQ2.ipynb`: Cognitive effort analysis (RQ2).
+  - `fixation_analysisRQ3.ipynb`: Reading behavior analysis (RQ3).
   
 - `supplementary/`: Contains additional resources.
-  - `data_dictionary.pdf`: Details on the collected data fields.
+  - `answers_experiments.tsv`: Developers' answers during the experiment.
   - `code_snippets.xlsx`: Description of the 13 analyzed code snippets.
+  - `data_dictionary.pdf`: Details on the collected data fields.
   - `survey.pdf`: The survey used for participant responses.
 
 ## Required Skills
@@ -48,7 +48,16 @@ The reviewer should have a basic understanding of Java programming to review and
 
 ## Required Resources
 
-The artifacts can be reviewed and executed on any standard computer system. There are no specific hardware requirements. The artifacts are compatible with any operating system. No additional software packages or specific devices are required.
+The artifacts can be reviewed and executed on any standard computer system. There are no specific hardware requirements. The artifacts are compatible with any operating system. The following software is required to run the notebooks:
+
+- Python 3.10+
+- Required packages: `pandas`, `polars`, `numpy`, `matplotlib`, `seaborn`, `scipy`, `statsmodels`, `openpyxl`
+
+Install dependencies with:
+
+```bash
+pip install -r requirements.txt
+```
 
 ## Data Provenance
 
@@ -62,7 +71,7 @@ The study was approved by the research ethics committee through the Brazil Platf
 
 ## License
 
-This repository is licensed under the GNU License. Please see the LICENSE file for more details.
+This repository is licensed under the GNU General Public License v3.0 (GPL-3.0). Please see the LICENSE file for more details.
 
 ## Contact
 
@@ -70,3 +79,4 @@ For questions or further information about this dataset, please contact the corr
 
 - [Vinícius Martins] – [vinicjp@gmail.com]
 - [Juliana Alves Pereira] – [juliana@inf.puc-rio.br]
+- [Mário Patrício] – [mariopatricio599@gmail.com]
