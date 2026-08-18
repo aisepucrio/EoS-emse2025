@@ -1,0 +1,125 @@
+fixation_id,experiment,fixation_order_number,duration,duration_clipped,source_file_line,source_file_col,token,line_text,match_type,bbox_x1,bbox_y1,bbox_x2,bbox_y2,center_x,center_y
+431b60bf-d97c-44cd-aa09-1d16ce06e5c6,2,66,178.0,178.0,21,17,XelatexRunner, public class XelatexRunner extends LatexRunner {,matched,218.79999999999998,20,338.4,40,278.59999999999997,30.0
+8c8a95d9-b07e-4f0a-b5d0-d6331add9a3b,2,25,92.0,92.0,21,18,XelatexRunner, public class XelatexRunner extends LatexRunner {,matched,218.79999999999998,20,338.4,40,278.59999999999997,30.0
+18f8e840-2b47-4328-b97d-57832c09c9b6,2,49,291.0,291.0,21,19,XelatexRunner, public class XelatexRunner extends LatexRunner {,matched,218.79999999999998,20,338.4,40,278.59999999999997,30.0
+e4831c2b-e41d-4068-856d-b544073b2213,2,15,577.0,577.0,21,20,XelatexRunner, public class XelatexRunner extends LatexRunner {,matched,218.79999999999998,20,338.4,40,278.59999999999997,30.0
+dc9afd83-1428-4cd1-a1c1-922ba065e256,2,55,594.0,594.0,21,20,XelatexRunner, public class XelatexRunner extends LatexRunner {,matched,218.79999999999998,20,338.4,40,278.59999999999997,30.0
+7942d8bb-9ef8-49f6-82ca-906845a10354,2,65,229.0,229.0,21,20,XelatexRunner, public class XelatexRunner extends LatexRunner {,matched,218.79999999999998,20,338.4,40,278.59999999999997,30.0
+726fc372-ebad-4ba9-9190-ed1965dd5f50,2,63,122.0,122.0,21,23,XelatexRunner, public class XelatexRunner extends LatexRunner {,matched,218.79999999999998,20,338.4,40,278.59999999999997,30.0
+2d9770df-8ee6-48e1-85a6-8e48d16adf17,2,26,93.0,93.0,21,27,XelatexRunner, public class XelatexRunner extends LatexRunner {,matched,218.79999999999998,20,338.4,40,278.59999999999997,30.0
+fae94591-5d07-4140-879a-9b9725ca9f40,2,75,339.0,339.0,24,14,WHITESPACE,     * Create a new ProgramRunner.,approx_whitespace,301.6,80,310.79999999999995,100,306.2,90.0
+7fb9a853-73da-493d-91ef-01ed6c83781a,2,92,99.0,99.0,24,15,a,     * Create a new ProgramRunner.,matched,182.0,80,191.2,100,186.6,90.0
+93410cbe-59ae-492e-995d-0b57bcd4e0ec,2,50,526.0,526.0,24,16,WHITESPACE,     * Create a new ProgramRunner.,approx_whitespace,329.2,80,338.4,100,333.79999999999995,90.0
+5c991d93-4f6d-4ed1-a29c-b2280f5c06d9,2,16,344.0,344.0,24,17,new,     * Create a new ProgramRunner.,matched,237.2,80,264.79999999999995,100,250.99999999999997,90.0
+6c3669d2-ad19-4821-b2aa-523a8cea7573,2,91,120.0,120.0,24,20,WHITESPACE,     * Create a new ProgramRunner.,approx_whitespace,393.59999999999997,80,402.79999999999995,100,398.19999999999993,90.0
+800152b2-395b-493b-aa4e-caa64e613bec,2,17,1911.0,1911.0,26,19,XelatexRunner,    public XelatexRunner() {,matched,191.2,120,310.79999999999995,140,250.99999999999997,130.0
+7c3e434c-b982-4281-bfdc-f219da63b010,2,62,114.0,114.0,26,19,XelatexRunner,    public XelatexRunner() {,matched,191.2,120,310.79999999999995,140,250.99999999999997,130.0
+8ec539f1-3a51-46ef-b0fe-beb02f4d75ce,2,90,783.0,783.0,26,22,XelatexRunner,    public XelatexRunner() {,matched,191.2,120,310.79999999999995,140,250.99999999999997,130.0
+b86a95d6-609b-4d27-8207-67dd0360431d,2,54,421.0,421.0,26,25,(),    public XelatexRunner() {,matched,310.79999999999995,120,329.2,140,320.0,130.0
+ebb53ea0-3200-452a-8227-6af1f96c0b83,2,43,564.0,564.0,27,11,super,        super();,matched,163.6,140,209.6,160,186.6,150.0
+ece704ad-d58c-4bb0-88fc-d9f3d87b491e,2,51,320.0,320.0,27,12,super,        super();,matched,163.6,140,209.6,160,186.6,150.0
+e0301f6f-1b84-4307-b51b-2c3405aa6bd6,2,1,1264.0,1264.0,27,13,super,        super();,matched,163.6,140,209.6,160,186.6,150.0
+2289494b-a5ac-4325-bc27-bd3da1dff805,2,57,246.0,246.0,27,13,super,        super();,matched,163.6,140,209.6,160,186.6,150.0
+af23025b-e408-4eb3-bcb3-34ff3e7460e2,2,56,126.0,126.0,30,18,String,    protected String getWindowsProgramName() {,matched,218.79999999999998,200,274.0,220,246.39999999999998,210.0
+0cd1ef3c-925f-454b-a4bb-0b0ccd2442fc,2,21,422.0,422.0,30,20,String,    protected String getWindowsProgramName() {,matched,218.79999999999998,200,274.0,220,246.39999999999998,210.0
+4a72a2e9-eb60-4d00-96e6-d74af60e5037,2,42,370.0,370.0,30,21,WHITESPACE,    protected String getWindowsProgramName() {,approx_whitespace,503.99999999999994,200,513.2,220,508.6,210.0
+890f527b-f2bf-4296-8274-b128964b000f,2,87,654.0,654.0,30,21,WHITESPACE,    protected String getWindowsProgramName() {,approx_whitespace,503.99999999999994,200,513.2,220,508.6,210.0
+f8020591-2930-4d3c-b170-a41a7965b460,2,44,400.0,400.0,30,22,getWindowsProgramName,    protected String getWindowsProgramName() {,matched,283.2,200,476.4,220,379.79999999999995,210.0
+d2f77028-4ab7-4e00-a249-7e91baf26097,2,22,450.0,450.0,30,28,getWindowsProgramName,    protected String getWindowsProgramName() {,matched,283.2,200,476.4,220,379.79999999999995,210.0
+833f118e-4187-4482-8389-abc688e3be63,2,18,3207.0,3207.0,30,29,getWindowsProgramName,    protected String getWindowsProgramName() {,matched,283.2,200,476.4,220,379.79999999999995,210.0
+48170eef-f8d1-4130-901e-9563e8cd4921,2,14,289.0,289.0,30,30,getWindowsProgramName,    protected String getWindowsProgramName() {,matched,283.2,200,476.4,220,379.79999999999995,210.0
+dc504ce4-9a41-41bc-9f31-993db26c26eb,2,23,127.0,127.0,30,31,getWindowsProgramName,    protected String getWindowsProgramName() {,matched,283.2,200,476.4,220,379.79999999999995,210.0
+5856c666-3d10-45b7-8ce0-cf66cb8147c1,2,24,244.0,244.0,30,38,getWindowsProgramName,    protected String getWindowsProgramName() {,matched,283.2,200,476.4,220,379.79999999999995,210.0
+dcd52092-f5f4-4439-bbdf-ca33d4a703d0,2,20,482.0,482.0,30,41,getWindowsProgramName,    protected String getWindowsProgramName() {,matched,283.2,200,476.4,220,379.79999999999995,210.0
+776f8fbf-a16f-4918-a10e-3b0ef1d64c7c,2,99,161.0,161.0,31,11,return,"        return ""xelatex.exe"";",matched,163.6,220,218.79999999999998,240,191.2,230.0
+68d31b8c-e183-4c44-97c4-eaf0f92ead6c,2,29,119.0,119.0,31,13,return,"        return ""xelatex.exe"";",matched,163.6,220,218.79999999999998,240,191.2,230.0
+f06e048e-6ca8-4aa9-870c-271c7a5458ee,2,2,362.0,362.0,34,13,protected,    protected String getUnixProgramName() {,matched,126.8,280,209.6,300,168.2,290.0
+9c20e0d1-545e-4b5c-98f3-06a2947209f9,2,58,234.0,234.0,34,29,getUnixProgramName,    protected String getUnixProgramName() {,matched,283.2,280,448.79999999999995,300,366.0,290.0
+205dabf9-a35c-42e5-9271-f69d7266440b,2,93,86.0,86.0,34,35,getUnixProgramName,    protected String getUnixProgramName() {,matched,283.2,280,448.79999999999995,300,366.0,290.0
+648e8eba-6aca-4fcb-8a34-c08fa693dc9c,2,95,99.0,99.0,34,35,getUnixProgramName,    protected String getUnixProgramName() {,matched,283.2,280,448.79999999999995,300,366.0,290.0
+0ac17d67-ac0e-492c-ba1e-c71b46c19416,2,96,497.0,497.0,38,4,WHITESPACE,    public String getDescription() {,approx_whitespace,412.0,360,421.2,380,416.6,370.0
+9225e495-8720-48e2-b155-2dbac059fd56,2,94,257.0,257.0,38,10,public,    public String getDescription() {,matched,126.8,360,182.0,380,154.4,370.0
+6a8f756b-e197-42a1-b60a-44d7c058b989,2,78,195.0,195.0,38,14,String,    public String getDescription() {,matched,191.2,360,246.39999999999998,380,218.79999999999998,370.0
+55f4b7d1-8ea6-47d6-803a-c4b1f8303f58,2,89,379.0,379.0,38,15,String,    public String getDescription() {,matched,191.2,360,246.39999999999998,380,218.79999999999998,370.0
+cfdae5c8-db59-4073-8e49-22b661ed1a2f,2,97,628.0,628.0,38,15,String,    public String getDescription() {,matched,191.2,360,246.39999999999998,380,218.79999999999998,370.0
+1bb7c293-4c5b-4abb-8242-c968f8b0abf1,2,74,191.0,191.0,38,20,getDescription,    public String getDescription() {,matched,255.6,360,384.4,380,320.0,370.0
+71f5bbec-63ae-4288-8955-a0f6ce1b98d6,2,98,101.0,101.0,39,6,WHITESPACE,"        return ""XeLatex program"";",approx_whitespace,163.6,380,172.8,400,168.2,390.0
+41d8c040-a12a-4d87-b001-b2e64132c2b0,2,40,2097.0,2097.0,39,14,return,"        return ""XeLatex program"";",matched,163.6,380,218.79999999999998,400,191.2,390.0
+269362d1-34da-48ea-a73e-acc0b0951b1b,2,38,272.0,272.0,39,24,WHITESPACE,"        return ""XeLatex program"";",approx_whitespace,384.4,380,393.59999999999997,400,389.0,390.0
+779dc159-f587-435c-80c8-c0f5a5142b23,2,131,493.0,493.0,39,24,WHITESPACE,"        return ""XeLatex program"";",approx_whitespace,384.4,380,393.59999999999997,400,389.0,390.0
+93ad6e04-e246-4554-83ed-6b136a6ace86,2,136,176.0,176.0,43,22,WHITESPACE,     * Enable SyncTeX,approx_whitespace,274.0,460,283.2,480,278.6,470.0
+b14cc014-c7e4-4dcf-ba70-dbe72591477b,2,149,419.0,419.0,45,8,public,    public String getDefaultArguments() {,matched,126.8,500,182.0,520,154.4,510.0
+a5dae543-c538-4e23-a9d8-e9563c2067d4,2,135,157.0,157.0,45,9,public,    public String getDefaultArguments() {,matched,126.8,500,182.0,520,154.4,510.0
+88c32b1c-0a52-4fd4-af69-cd74f269e643,2,3,349.0,349.0,45,16,String,    public String getDefaultArguments() {,matched,191.2,500,246.39999999999998,520,218.79999999999998,510.0
+662ebac5-c970-4e83-98dd-40ed511b498f,2,13,84.0,84.0,45,34,getDefaultArguments,    public String getDefaultArguments() {,matched,255.6,500,430.4,520,343.0,510.0
+ec965dda-6c30-424b-afce-6aa8cbfbad65,2,134,178.0,178.0,46,9,return,"        return ""-synctex=1 ""+super.getDefaultArguments();",matched,163.6,520,218.79999999999998,540,191.2,530.0
+30d79753-5e27-4e36-9138-c14a5d24fe55,2,32,645.0,645.0,46,10,return,"        return ""-synctex=1 ""+super.getDefaultArguments();",matched,163.6,520,218.79999999999998,540,191.2,530.0
+5a02135f-32d1-4fd1-8dfc-ab3960c41bf4,2,67,114.0,114.0,46,13,return,"        return ""-synctex=1 ""+super.getDefaultArguments();",matched,163.6,520,218.79999999999998,540,191.2,530.0
+f792d2d6-59c7-4b99-8128-4067173bf4bc,2,70,418.0,418.0,46,14,return,"        return ""-synctex=1 ""+super.getDefaultArguments();",matched,163.6,520,218.79999999999998,540,191.2,530.0
+f06ca3ed-fd6f-4bf9-9d2f-2f335602eeb6,2,71,154.0,154.0,46,15,WHITESPACE,"        return ""-synctex=1 ""+super.getDefaultArguments();",approx_whitespace,605.1999999999999,520,614.4,540,609.8,530.0
+537b426e-7aca-4320-8cbe-18a190d96664,2,82,832.0,832.0,46,17,-,"        return ""-synctex=1 ""+super.getDefaultArguments();",matched,237.2,520,246.39999999999998,540,241.79999999999998,530.0
+721b3573-8988-4dd7-8ab0-a4df84e79344,2,80,198.0,198.0,46,19,synctex,"        return ""-synctex=1 ""+super.getDefaultArguments();",matched,246.39999999999998,520,310.79999999999995,540,278.59999999999997,530.0
+3d704e34-60ef-49ac-8729-f02cd967b7a0,2,69,157.0,157.0,46,20,synctex,"        return ""-synctex=1 ""+super.getDefaultArguments();",matched,246.39999999999998,520,310.79999999999995,540,278.59999999999997,530.0
+676c927c-3e8f-44de-95db-3c2cc42af789,2,72,206.0,206.0,46,22,synctex,"        return ""-synctex=1 ""+super.getDefaultArguments();",matched,246.39999999999998,520,310.79999999999995,540,278.59999999999997,530.0
+6fe4f8e1-57d3-413b-b7e2-44d2aa81d01b,2,101,690.0,690.0,46,23,synctex,"        return ""-synctex=1 ""+super.getDefaultArguments();",matched,246.39999999999998,520,310.79999999999995,540,278.59999999999997,530.0
+4553e538-8863-4509-a682-63c98e6312d4,2,81,237.0,237.0,46,24,synctex,"        return ""-synctex=1 ""+super.getDefaultArguments();",matched,246.39999999999998,520,310.79999999999995,540,278.59999999999997,530.0
+716ddc9a-5066-4b38-99ef-099e8a53ff35,2,36,130.0,130.0,46,31,super,"        return ""-synctex=1 ""+super.getDefaultArguments();",matched,356.79999999999995,520,402.79999999999995,540,379.79999999999995,530.0
+d914ae07-0e3d-4f3b-bd71-e844fec1f2ae,2,7,123.0,123.0,46,32,super,"        return ""-synctex=1 ""+super.getDefaultArguments();",matched,356.79999999999995,520,402.79999999999995,540,379.79999999999995,530.0
+4bd8270c-cd41-44de-a1f0-d0b649aa0ff1,2,68,313.0,313.0,46,32,super,"        return ""-synctex=1 ""+super.getDefaultArguments();",matched,356.79999999999995,520,402.79999999999995,540,379.79999999999995,530.0
+f969ff97-0565-47a8-88df-6bb6fb01185a,2,35,278.0,278.0,46,39,getDefaultArguments,"        return ""-synctex=1 ""+super.getDefaultArguments();",matched,412.0,520,586.8,540,499.4,530.0
+56da4079-3de4-4223-bad4-06378bbfd284,2,8,261.0,261.0,46,48,getDefaultArguments,"        return ""-synctex=1 ""+super.getDefaultArguments();",matched,412.0,520,586.8,540,499.4,530.0
+eff2d501-c286-4da3-9376-b6b54c4ec4f6,2,113,552.0,552.0,50,5,WHITESPACE,     * @return output file format (pdf),approx_whitespace,172.8,600,182.0,620,177.4,610.0
+929b170c-4a28-433b-ae5f-367a97f743e8,2,108,369.0,369.0,50,10,@return,     * @return output file format (pdf),matched,154.39999999999998,600,218.79999999999998,620,186.59999999999997,610.0
+2827fcb2-040a-4484-8066-bfa778c414c3,2,48,120.0,120.0,50,11,@return,     * @return output file format (pdf),matched,154.39999999999998,600,218.79999999999998,620,186.59999999999997,610.0
+792dd0f5-270f-4a2b-adff-ac8054e5e4ab,2,47,713.0,713.0,50,17,output,     * @return output file format (pdf),matched,228.0,600,283.2,620,255.6,610.0
+4b0580c1-4fc3-4c23-8200-1fd143dfc279,2,52,325.0,325.0,50,19,output,     * @return output file format (pdf),matched,228.0,600,283.2,620,255.6,610.0
+81bef9f1-c909-44cc-b009-c3459d22de82,2,147,301.0,301.0,50,22,WHITESPACE,     * @return output file format (pdf),approx_whitespace,439.59999999999997,600,448.79999999999995,620,444.19999999999993,610.0
+8cf5330e-ddb5-4edf-b728-d9648beab171,2,4,276.0,276.0,50,32,format,     * @return output file format (pdf),matched,338.4,600,393.59999999999997,620,366.0,610.0
+74496d07-a731-45c9-a696-613791e83712,2,60,195.0,195.0,50,38,(pdf),     * @return output file format (pdf),matched,402.79999999999995,600,448.79999999999995,620,425.79999999999995,610.0
+47b89ef3-b4b2-4f6b-b9be-7437dee76433,2,109,295.0,295.0,51,5,WHITESPACE,     */,approx_whitespace,145.2,620,154.39999999999998,640,149.79999999999998,630.0
+76940016-a9d2-42e4-bd4f-763e53663708,2,107,1677.0,1677.0,52,9,public,    public String getOutputFormat() {,matched,126.8,640,182.0,660,154.4,650.0
+4e4c20b9-cdbf-4cec-9394-a43a094856df,2,112,910.0,910.0,52,9,public,    public String getOutputFormat() {,matched,126.8,640,182.0,660,154.4,650.0
+e4f5394c-3006-4de3-8e8a-eeb4feb3388c,2,5,717.0,717.0,52,11,WHITESPACE,    public String getOutputFormat() {,approx_whitespace,421.2,640,430.4,660,425.79999999999995,650.0
+cc176371-2c83-4b08-ad9d-f0013eb5588e,2,145,104.0,104.0,52,12,String,    public String getOutputFormat() {,matched,191.2,640,246.39999999999998,660,218.79999999999998,650.0
+a2a96cc9-5135-4ab1-895a-539f40cb3585,2,105,629.0,629.0,52,14,String,    public String getOutputFormat() {,matched,191.2,640,246.39999999999998,660,218.79999999999998,650.0
+fa0ad82a-aaf1-4525-a2f0-161d7d72c13e,2,138,340.0,340.0,52,17,String,    public String getOutputFormat() {,matched,191.2,640,246.39999999999998,660,218.79999999999998,650.0
+ac84a09c-5ba5-4341-a4bd-ae2dd30331bb,2,117,179.0,179.0,52,20,getOutputFormat,    public String getOutputFormat() {,matched,255.6,640,393.59999999999997,660,324.59999999999997,650.0
+220e4614-9f22-418a-891e-ee57be7c3db3,2,11,377.0,377.0,52,21,getOutputFormat,    public String getOutputFormat() {,matched,255.6,640,393.59999999999997,660,324.59999999999997,650.0
+7aab3870-ac17-42bc-b479-4767c7fcb262,2,61,652.0,652.0,52,21,getOutputFormat,    public String getOutputFormat() {,matched,255.6,640,393.59999999999997,660,324.59999999999997,650.0
+82076e8b-89f6-4578-8c4a-b4d6cd2a5452,2,111,246.0,246.0,52,23,getOutputFormat,    public String getOutputFormat() {,matched,255.6,640,393.59999999999997,660,324.59999999999997,650.0
+da5db852-35b5-4b61-a08e-913ab9cfc376,2,120,214.0,214.0,52,23,getOutputFormat,    public String getOutputFormat() {,matched,255.6,640,393.59999999999997,660,324.59999999999997,650.0
+fa921465-117e-4df9-a808-a9b0559c2c12,2,12,183.0,183.0,52,26,getOutputFormat,    public String getOutputFormat() {,matched,255.6,640,393.59999999999997,660,324.59999999999997,650.0
+81422929-cc90-4981-bf01-fe6d204ce001,2,106,351.0,351.0,52,26,getOutputFormat,    public String getOutputFormat() {,matched,255.6,640,393.59999999999997,660,324.59999999999997,650.0
+c0e5e260-2247-4a77-b0fd-4b9ded947281,2,46,369.0,369.0,52,28,getOutputFormat,    public String getOutputFormat() {,matched,255.6,640,393.59999999999997,660,324.59999999999997,650.0
+ed2df9ac-7d58-4b7d-b4fe-ec09ca916cbf,2,119,132.0,132.0,52,31,getOutputFormat,    public String getOutputFormat() {,matched,255.6,640,393.59999999999997,660,324.59999999999997,650.0
+971103ab-228d-43bd-984a-9aff1b40aa29,2,128,431.0,431.0,52,31,getOutputFormat,    public String getOutputFormat() {,matched,255.6,640,393.59999999999997,660,324.59999999999997,650.0
+e157c0bf-a4ee-41e1-a6cc-5686a88b26e1,2,9,400.0,400.0,52,34,(),    public String getOutputFormat() {,matched,393.59999999999997,640,412.0,660,402.79999999999995,650.0
+1dbf7531-5b4d-4860-a324-7177096bb733,2,118,184.0,184.0,53,16,TexlipseProperties,        return TexlipseProperties.OUTPUT_FORMAT_PDF;,matched,228.0,660,393.59999999999997,680,310.79999999999995,670.0
+f14a3cff-0a7a-44d6-91bc-5a2468a9c3d8,2,127,281.0,281.0,53,17,TexlipseProperties,        return TexlipseProperties.OUTPUT_FORMAT_PDF;,matched,228.0,660,393.59999999999997,680,310.79999999999995,670.0
+ece8d644-01fc-4255-8e55-69fa332fdd04,2,139,629.0,629.0,53,17,TexlipseProperties,        return TexlipseProperties.OUTPUT_FORMAT_PDF;,matched,228.0,660,393.59999999999997,680,310.79999999999995,670.0
+efcce995-4d87-4b2e-9339-0b4a4de26598,2,121,256.0,256.0,53,19,TexlipseProperties,        return TexlipseProperties.OUTPUT_FORMAT_PDF;,matched,228.0,660,393.59999999999997,680,310.79999999999995,670.0
+2edcfec7-d827-47ae-ba67-ab88cc493051,2,114,996.0,996.0,53,20,TexlipseProperties,        return TexlipseProperties.OUTPUT_FORMAT_PDF;,matched,228.0,660,393.59999999999997,680,310.79999999999995,670.0
+7b3b5335-f216-46e7-b8cd-9041136b163e,2,133,474.0,474.0,53,20,TexlipseProperties,        return TexlipseProperties.OUTPUT_FORMAT_PDF;,matched,228.0,660,393.59999999999997,680,310.79999999999995,670.0
+5450c8ba-1d07-4f7b-b07b-e0c208df16e7,2,140,180.0,180.0,53,20,TexlipseProperties,        return TexlipseProperties.OUTPUT_FORMAT_PDF;,matched,228.0,660,393.59999999999997,680,310.79999999999995,670.0
+aa3b9f09-8a71-4231-ac97-36dd612cf41f,2,144,477.0,477.0,53,20,TexlipseProperties,        return TexlipseProperties.OUTPUT_FORMAT_PDF;,matched,228.0,660,393.59999999999997,680,310.79999999999995,670.0
+9e031751-4c96-4a60-b8ee-2d16f24b417e,2,129,593.0,593.0,53,21,TexlipseProperties,        return TexlipseProperties.OUTPUT_FORMAT_PDF;,matched,228.0,660,393.59999999999997,680,310.79999999999995,670.0
+8a1d25bc-9ce9-44b2-bd07-0888b3b5359f,2,6,536.0,536.0,53,22,TexlipseProperties,        return TexlipseProperties.OUTPUT_FORMAT_PDF;,matched,228.0,660,393.59999999999997,680,310.79999999999995,670.0
+1efa259c-8454-4ae4-b79c-080c8777d4ad,2,123,214.0,214.0,53,22,TexlipseProperties,        return TexlipseProperties.OUTPUT_FORMAT_PDF;,matched,228.0,660,393.59999999999997,680,310.79999999999995,670.0
+3d20fa15-f1f0-4b63-98a8-dda30f771e99,2,103,253.0,253.0,53,23,TexlipseProperties,        return TexlipseProperties.OUTPUT_FORMAT_PDF;,matched,228.0,660,393.59999999999997,680,310.79999999999995,670.0
+bfcd7b13-2a34-45d3-b764-cea77763391a,2,53,154.0,154.0,53,25,TexlipseProperties,        return TexlipseProperties.OUTPUT_FORMAT_PDF;,matched,228.0,660,393.59999999999997,680,310.79999999999995,670.0
+eb6d35f2-cc47-456b-be70-592c575b1ed3,2,104,142.0,142.0,53,26,TexlipseProperties,        return TexlipseProperties.OUTPUT_FORMAT_PDF;,matched,228.0,660,393.59999999999997,680,310.79999999999995,670.0
+7712356d-e98b-4e6e-bf42-15653f5a6306,2,122,186.0,186.0,53,26,TexlipseProperties,        return TexlipseProperties.OUTPUT_FORMAT_PDF;,matched,228.0,660,393.59999999999997,680,310.79999999999995,670.0
+f0c3f382-2123-44f7-b83c-5d4f97e70774,2,124,483.0,483.0,53,28,TexlipseProperties,        return TexlipseProperties.OUTPUT_FORMAT_PDF;,matched,228.0,660,393.59999999999997,680,310.79999999999995,670.0
+0fe91eb9-f7f1-4216-9988-916916f9bb2c,2,137,268.0,268.0,53,28,TexlipseProperties,        return TexlipseProperties.OUTPUT_FORMAT_PDF;,matched,228.0,660,393.59999999999997,680,310.79999999999995,670.0
+8ccd11ed-34bd-4218-b87b-c1256ab11823,2,141,428.0,428.0,53,28,TexlipseProperties,        return TexlipseProperties.OUTPUT_FORMAT_PDF;,matched,228.0,660,393.59999999999997,680,310.79999999999995,670.0
+0e72f670-939d-42d2-88ba-64f546ac9365,2,130,164.0,164.0,53,30,TexlipseProperties,        return TexlipseProperties.OUTPUT_FORMAT_PDF;,matched,228.0,660,393.59999999999997,680,310.79999999999995,670.0
+79182e48-3c68-4445-8efc-a4ccecbff0dd,2,126,123.0,123.0,53,31,TexlipseProperties,        return TexlipseProperties.OUTPUT_FORMAT_PDF;,matched,228.0,660,393.59999999999997,680,310.79999999999995,670.0
+388028a1-d0dc-48bf-8687-b5fd1f7ed84f,2,83,94.0,94.0,53,32,TexlipseProperties,        return TexlipseProperties.OUTPUT_FORMAT_PDF;,matched,228.0,660,393.59999999999997,680,310.79999999999995,670.0
+d80de87a-a2e6-4fb4-9c4a-d0550b863b16,2,115,464.0,464.0,53,33,TexlipseProperties,        return TexlipseProperties.OUTPUT_FORMAT_PDF;,matched,228.0,660,393.59999999999997,680,310.79999999999995,670.0
+604fab4d-fa33-4d10-929e-adc8ced010b6,2,143,1011.0,1011.0,53,33,TexlipseProperties,        return TexlipseProperties.OUTPUT_FORMAT_PDF;,matched,228.0,660,393.59999999999997,680,310.79999999999995,670.0
+e71065c0-28c5-443c-8328-893eb4b5df02,2,102,2499.0,2499.0,53,35,OUTPUT_FORMAT_PDF;,        return TexlipseProperties.OUTPUT_FORMAT_PDF;,matched,402.79999999999995,660,568.4,680,485.59999999999997,670.0
+ae166460-1d9c-48d1-9a1f-9f813ee80b63,2,125,159.0,159.0,53,38,OUTPUT_FORMAT_PDF;,        return TexlipseProperties.OUTPUT_FORMAT_PDF;,matched,402.79999999999995,660,568.4,680,485.59999999999997,670.0
+9345f0a1-3ad7-4508-bca3-dd7c727f4fec,2,132,153.0,153.0,53,38,OUTPUT_FORMAT_PDF;,        return TexlipseProperties.OUTPUT_FORMAT_PDF;,matched,402.79999999999995,660,568.4,680,485.59999999999997,670.0
+8d2f6290-952c-46e3-a9f5-0f5eab67fdfd,2,84,92.0,92.0,53,39,OUTPUT_FORMAT_PDF;,        return TexlipseProperties.OUTPUT_FORMAT_PDF;,matched,402.79999999999995,660,568.4,680,485.59999999999997,670.0
+09d04ede-7864-4ed7-b8ee-77b2e68ab559,2,10,109.0,109.0,53,43,OUTPUT_FORMAT_PDF;,        return TexlipseProperties.OUTPUT_FORMAT_PDF;,matched,402.79999999999995,660,568.4,680,485.59999999999997,670.0
+dfa7134f-3744-4861-a471-9a2542093fac,2,116,175.0,175.0,53,43,OUTPUT_FORMAT_PDF;,        return TexlipseProperties.OUTPUT_FORMAT_PDF;,matched,402.79999999999995,660,568.4,680,485.59999999999997,670.0

@@ -1,0 +1,820 @@
+fixation_id,experiment,fixation_order_number,duration,duration_clipped,source_file_line,source_file_col,token,line_text,match_type,bbox_x1,bbox_y1,bbox_x2,bbox_y2,center_x,center_y
+bb8bdc64-acf4-466e-905b-f26fe417f803,25,269,889.0,889.0,441,13,List,    public List<Long> getOrderedLogFileIds() {,matched,191.2,20,228.0,40,209.6,30.0
+4df75958-a637-43f3-9d81-a7812f4f84f7,25,263,334.0,334.0,441,15,List,    public List<Long> getOrderedLogFileIds() {,matched,191.2,20,228.0,40,209.6,30.0
+e11713f5-fbc7-4ad7-bd2a-c58644f85e4a,25,700,143.0,143.0,441,15,List,    public List<Long> getOrderedLogFileIds() {,matched,191.2,20,228.0,40,209.6,30.0
+70707cb5-66f6-4603-a59d-e61eea1d5648,25,136,184.0,184.0,441,17,lt;Long,    public List<Long> getOrderedLogFileIds() {,matched,228.0,20,274.0,40,251.0,30.0
+a88c1a6b-85e2-420a-8949-d0fe32f59fe2,25,266,697.0,697.0,441,19,lt;Long,    public List<Long> getOrderedLogFileIds() {,matched,228.0,20,274.0,40,251.0,30.0
+fdaef4a4-9d3e-4ed8-be71-fe0ca0a6920e,25,557,414.0,414.0,441,20,lt;Long,    public List<Long> getOrderedLogFileIds() {,matched,228.0,20,274.0,40,251.0,30.0
+aab4775a-adb8-4e24-8f65-90855adb9159,25,5,316.0,316.0,441,22,lt;Long,    public List<Long> getOrderedLogFileIds() {,matched,228.0,20,274.0,40,251.0,30.0
+0c84bdba-0d35-4f9a-ab8f-947d7398a0e9,25,139,143.0,143.0,441,23,lt;Long,    public List<Long> getOrderedLogFileIds() {,matched,228.0,20,274.0,40,251.0,30.0
+c3a87a7c-e9a9-4573-847c-1c966e15b2c7,25,281,207.0,207.0,441,24,&,    public List<Long> getOrderedLogFileIds() {,unresolved,301.6,20,310.79999999999995,40,306.2,30.0
+c645c728-b3ec-413f-a70b-46046b5ad5d8,25,253,210.0,210.0,441,25,gt;,    public List<Long> getOrderedLogFileIds() {,matched,274.0,20,283.2,40,278.6,30.0
+a55d205f-6e2b-446c-9430-63d3be14df33,25,39,155.0,155.0,441,28,WHITESPACE,    public List<Long> getOrderedLogFileIds() {,approx_whitespace,503.99999999999994,20,513.2,40,508.6,30.0
+69112587-67f9-468d-bffd-2102944d7124,25,560,216.0,216.0,441,29,getOrderedLogFileIds,    public List<Long> getOrderedLogFileIds() {,matched,292.4,20,476.4,40,384.4,30.0
+b0d58cda-0104-4a01-98d4-3493e40bc884,25,6,133.0,133.0,441,30,getOrderedLogFileIds,    public List<Long> getOrderedLogFileIds() {,matched,292.4,20,476.4,40,384.4,30.0
+cd2adb95-9bbf-437a-aa40-031ce9d577d9,25,157,560.0,560.0,441,30,getOrderedLogFileIds,    public List<Long> getOrderedLogFileIds() {,matched,292.4,20,476.4,40,384.4,30.0
+cb388b95-25f2-4ca0-a14d-f76bf0007139,25,166,264.0,264.0,441,30,getOrderedLogFileIds,    public List<Long> getOrderedLogFileIds() {,matched,292.4,20,476.4,40,384.4,30.0
+fe9da509-54f1-4719-98f1-672ab1e6f288,25,333,797.0,797.0,441,30,getOrderedLogFileIds,    public List<Long> getOrderedLogFileIds() {,matched,292.4,20,476.4,40,384.4,30.0
+38a7a20a-92b3-4655-a08d-d74ceca04b71,25,164,383.0,383.0,441,31,getOrderedLogFileIds,    public List<Long> getOrderedLogFileIds() {,matched,292.4,20,476.4,40,384.4,30.0
+27a3a73d-8594-466a-a012-345218f49594,25,160,718.0,718.0,441,32,getOrderedLogFileIds,    public List<Long> getOrderedLogFileIds() {,matched,292.4,20,476.4,40,384.4,30.0
+87e959f9-461f-4597-825f-3b61803e3890,25,559,669.0,669.0,441,32,getOrderedLogFileIds,    public List<Long> getOrderedLogFileIds() {,matched,292.4,20,476.4,40,384.4,30.0
+8da47ad7-a4e6-4ca7-aee5-7c60fe8986b4,25,755,1254.0,1254.0,441,32,getOrderedLogFileIds,    public List<Long> getOrderedLogFileIds() {,matched,292.4,20,476.4,40,384.4,30.0
+a38a5db9-6a5b-4832-8fb4-9de7d616c3a3,25,9,554.0,554.0,441,33,getOrderedLogFileIds,    public List<Long> getOrderedLogFileIds() {,matched,292.4,20,476.4,40,384.4,30.0
+90cbb024-915e-45e9-bf3b-c66c6f4af185,25,167,109.0,109.0,441,33,getOrderedLogFileIds,    public List<Long> getOrderedLogFileIds() {,matched,292.4,20,476.4,40,384.4,30.0
+e9f69a8f-dcba-4fbe-a082-05ed6e7acf92,25,256,187.0,187.0,441,33,getOrderedLogFileIds,    public List<Long> getOrderedLogFileIds() {,matched,292.4,20,476.4,40,384.4,30.0
+b3688065-b0a7-41bb-953f-8537b702c2c9,25,332,518.0,518.0,441,35,getOrderedLogFileIds,    public List<Long> getOrderedLogFileIds() {,matched,292.4,20,476.4,40,384.4,30.0
+3f3c2a26-efac-466c-9bbd-64a7c358bafa,25,41,356.0,356.0,441,36,getOrderedLogFileIds,    public List<Long> getOrderedLogFileIds() {,matched,292.4,20,476.4,40,384.4,30.0
+4c237d79-0cb2-46bd-aef5-b0fb394a0f71,25,561,94.0,94.0,441,36,getOrderedLogFileIds,    public List<Long> getOrderedLogFileIds() {,matched,292.4,20,476.4,40,384.4,30.0
+c3aa852b-565a-4419-8ea2-525bf813aba7,25,135,514.0,514.0,441,37,getOrderedLogFileIds,    public List<Long> getOrderedLogFileIds() {,matched,292.4,20,476.4,40,384.4,30.0
+5aa73f97-7b51-4358-9805-4b5af463fb8d,25,138,444.0,444.0,441,37,getOrderedLogFileIds,    public List<Long> getOrderedLogFileIds() {,matched,292.4,20,476.4,40,384.4,30.0
+6d73be32-8f3e-4d14-87ca-b6b85de7900b,25,51,258.0,258.0,441,38,getOrderedLogFileIds,    public List<Long> getOrderedLogFileIds() {,matched,292.4,20,476.4,40,384.4,30.0
+045fa8d1-1dba-4a62-aa5d-06ba3f4d3647,25,56,201.0,201.0,441,38,getOrderedLogFileIds,    public List<Long> getOrderedLogFileIds() {,matched,292.4,20,476.4,40,384.4,30.0
+e4d5ffe2-2bfd-4432-8bf8-09fc5ffe776b,25,7,116.0,116.0,441,39,getOrderedLogFileIds,    public List<Long> getOrderedLogFileIds() {,matched,292.4,20,476.4,40,384.4,30.0
+a6cc1828-4298-489b-b4bc-762425608585,25,158,337.0,337.0,441,39,getOrderedLogFileIds,    public List<Long> getOrderedLogFileIds() {,matched,292.4,20,476.4,40,384.4,30.0
+2d0e6090-3c4c-449d-bb5b-c6e045ce0dfa,25,159,733.0,733.0,441,39,getOrderedLogFileIds,    public List<Long> getOrderedLogFileIds() {,matched,292.4,20,476.4,40,384.4,30.0
+2078275c-959c-4f7f-9362-ec4ff7bf495f,25,161,207.0,207.0,441,39,getOrderedLogFileIds,    public List<Long> getOrderedLogFileIds() {,matched,292.4,20,476.4,40,384.4,30.0
+89bdaef5-32ab-4bee-bedc-d9e5332127b2,25,70,227.0,227.0,442,13,WHITESPACE,        File fileLogDir = new File(logDir);,approx_whitespace,476.4,40,485.59999999999997,60,481.0,50.0
+f19e4579-ecb7-4234-bba5-0b0bcc41b419,25,549,187.0,187.0,442,14,fileLogDir,        File fileLogDir = new File(logDir);,matched,209.6,40,301.6,60,255.60000000000002,50.0
+57dd32cf-b0e6-4dd1-932f-ca107214bf49,25,142,929.0,929.0,442,17,fileLogDir,        File fileLogDir = new File(logDir);,matched,209.6,40,301.6,60,255.60000000000002,50.0
+4e6dbc94-470b-488e-b514-fabebdcc2849,25,745,576.0,576.0,442,18,fileLogDir,        File fileLogDir = new File(logDir);,matched,209.6,40,301.6,60,255.60000000000002,50.0
+7b8b554f-fc73-4fcf-a848-c38dcd739e78,25,55,319.0,319.0,442,19,fileLogDir,        File fileLogDir = new File(logDir);,matched,209.6,40,301.6,60,255.60000000000002,50.0
+3a09c3a2-aaf7-4fd3-a073-cd0bffae8019,25,169,153.0,153.0,442,19,fileLogDir,        File fileLogDir = new File(logDir);,matched,209.6,40,301.6,60,255.60000000000002,50.0
+ed4ecd47-891d-4891-8900-9e81ade37e8c,25,257,461.0,461.0,442,19,fileLogDir,        File fileLogDir = new File(logDir);,matched,209.6,40,301.6,60,255.60000000000002,50.0
+19780aaa-9e4b-4947-a943-c6bc39e35372,25,259,382.0,382.0,442,19,fileLogDir,        File fileLogDir = new File(logDir);,matched,209.6,40,301.6,60,255.60000000000002,50.0
+af5b7b92-d53f-4885-9992-61096a7aa947,25,265,444.0,444.0,442,19,fileLogDir,        File fileLogDir = new File(logDir);,matched,209.6,40,301.6,60,255.60000000000002,50.0
+af1d5c16-cf66-45b1-9b2f-30135b9082d9,25,277,233.0,233.0,442,19,fileLogDir,        File fileLogDir = new File(logDir);,matched,209.6,40,301.6,60,255.60000000000002,50.0
+ac7acc7c-f59f-4e35-89f2-d49cd9092d69,25,331,225.0,225.0,442,20,fileLogDir,        File fileLogDir = new File(logDir);,matched,209.6,40,301.6,60,255.60000000000002,50.0
+608ca612-d6a8-4aca-b0bb-476209d8f27d,25,754,1039.0,1039.0,442,20,fileLogDir,        File fileLogDir = new File(logDir);,matched,209.6,40,301.6,60,255.60000000000002,50.0
+866e38e1-1992-4dc3-b75c-e9a1a4059167,25,270,639.0,639.0,442,21,fileLogDir,        File fileLogDir = new File(logDir);,matched,209.6,40,301.6,60,255.60000000000002,50.0
+012eccc5-fc4f-467b-b718-96b8579bd11c,25,68,141.0,141.0,442,22,fileLogDir,        File fileLogDir = new File(logDir);,matched,209.6,40,301.6,60,255.60000000000002,50.0
+a7cfd40b-3b3b-4bd4-a9f0-dde0a0c016d5,25,137,88.0,88.0,442,22,fileLogDir,        File fileLogDir = new File(logDir);,matched,209.6,40,301.6,60,255.60000000000002,50.0
+927f2bbb-efcb-4b02-8591-6098808de6eb,25,334,783.0,783.0,442,22,fileLogDir,        File fileLogDir = new File(logDir);,matched,209.6,40,301.6,60,255.60000000000002,50.0
+3275d1eb-e9a2-4e15-a1d7-7c556160b5db,25,134,412.0,412.0,442,23,fileLogDir,        File fileLogDir = new File(logDir);,matched,209.6,40,301.6,60,255.60000000000002,50.0
+41c6d8cc-4be0-42a5-b9b0-3d7f1bc19ab5,25,614,1151.0,1151.0,442,28,new,        File fileLogDir = new File(logDir);,matched,329.2,40,356.79999999999995,60,343.0,50.0
+274272fb-f666-4f55-9cf3-ec7479d96476,25,555,243.0,243.0,442,31,File,        File fileLogDir = new File(logDir);,matched,163.6,40,200.39999999999998,60,182.0,50.0
+a4dd992a-049d-40d2-b1de-cf53fbb65369,25,837,176.0,176.0,442,31,File,        File fileLogDir = new File(logDir);,matched,163.6,40,200.39999999999998,60,182.0,50.0
+73af843d-d667-4182-afa7-0804785e45cb,25,267,174.0,174.0,442,32,File,        File fileLogDir = new File(logDir);,matched,209.6,40,246.39999999999998,60,228.0,50.0
+a57ffa20-d0b7-4494-ab58-17f522d517f0,25,746,250.0,250.0,442,32,File,        File fileLogDir = new File(logDir);,matched,209.6,40,246.39999999999998,60,228.0,50.0
+72a2beed-a76d-4553-a5ce-ab30a6cb9ec0,25,38,697.0,697.0,442,33,File,        File fileLogDir = new File(logDir);,matched,209.6,40,246.39999999999998,60,228.0,50.0
+cd5a7740-6891-4abf-ae21-8864fdaeaeb5,25,407,232.0,232.0,442,33,File,        File fileLogDir = new File(logDir);,matched,209.6,40,246.39999999999998,60,228.0,50.0
+41bfc3dc-5602-4cd3-a466-904f0a3840fd,25,548,257.0,257.0,442,34,File,        File fileLogDir = new File(logDir);,matched,366.0,40,402.79999999999995,60,384.4,50.0
+0df1b87f-5c53-4460-8d8f-d9ec69dcba7c,25,550,315.0,315.0,442,34,File,        File fileLogDir = new File(logDir);,matched,366.0,40,402.79999999999995,60,384.4,50.0
+e81b2346-cfb9-4253-aacd-1aa41f5774fe,25,262,366.0,366.0,442,36,logDir,        File fileLogDir = new File(logDir);,matched,246.39999999999998,40,301.6,60,274.0,50.0
+d395c527-3704-4ca4-95d3-255186d45276,25,264,367.0,367.0,442,36,logDir,        File fileLogDir = new File(logDir);,matched,246.39999999999998,40,301.6,60,274.0,50.0
+558f986e-37d0-45bc-b50c-ec263b62e37a,25,781,530.0,530.0,442,36,logDir,        File fileLogDir = new File(logDir);,matched,246.39999999999998,40,301.6,60,274.0,50.0
+e4e85b9e-47ca-4bef-a7d2-29c9aba86343,25,833,387.0,387.0,442,36,logDir,        File fileLogDir = new File(logDir);,matched,246.39999999999998,40,301.6,60,274.0,50.0
+2dc710b1-407d-460c-ad06-b56d76e4e64b,25,251,126.0,126.0,442,37,logDir,        File fileLogDir = new File(logDir);,matched,246.39999999999998,40,301.6,60,274.0,50.0
+25f6b174-9b00-471f-810f-f1fba1d54c07,25,268,198.0,198.0,442,38,logDir,        File fileLogDir = new File(logDir);,matched,412.0,40,467.2,60,439.6,50.0
+71340e23-4ed9-454c-8bcd-ceee3ddbeb8d,25,556,221.0,221.0,442,38,logDir,        File fileLogDir = new File(logDir);,matched,412.0,40,467.2,60,439.6,50.0
+4fe5396f-a347-41dc-be94-3e3afedfb4c1,25,836,227.0,227.0,442,41,logDir,        File fileLogDir = new File(logDir);,matched,412.0,40,467.2,60,439.6,50.0
+74267d86-fc55-4ed9-9fb7-62be2e82e9af,25,66,253.0,253.0,443,8,WHITESPACE,        String[] logFileNames = null;,approx_whitespace,421.2,60,430.4,80,425.79999999999995,70.0
+35359c36-c66d-4caf-8e0f-ec1866728e32,25,4,280.0,280.0,443,15,String[],        String[] logFileNames = null;,matched,163.6,60,237.2,80,200.39999999999998,70.0
+0ef8037c-04c3-4929-a1cc-9b8fff3a57f3,25,527,453.0,453.0,443,15,String[],        String[] logFileNames = null;,matched,163.6,60,237.2,80,200.39999999999998,70.0
+374e0d26-cc95-45e1-9894-a8545f6ff2ae,25,65,156.0,156.0,443,18,logFileNames,        String[] logFileNames = null;,matched,246.39999999999998,60,356.79999999999995,80,301.59999999999997,70.0
+27abf599-6b3c-40b4-a9f2-9e4a6c3bd6db,25,3,236.0,236.0,443,20,logFileNames,        String[] logFileNames = null;,matched,246.39999999999998,60,356.79999999999995,80,301.59999999999997,70.0
+e5613c16-a836-4870-abca-c4249a815d56,25,782,786.0,786.0,443,20,logFileNames,        String[] logFileNames = null;,matched,246.39999999999998,60,356.79999999999995,80,301.59999999999997,70.0
+0a4d4749-ecc5-4102-ab15-8778e77e9d3e,25,35,218.0,218.0,443,21,logFileNames,        String[] logFileNames = null;,matched,246.39999999999998,60,356.79999999999995,80,301.59999999999997,70.0
+ebdfe47c-d707-4b68-89c6-480f9aaf114e,25,747,278.0,278.0,443,21,logFileNames,        String[] logFileNames = null;,matched,246.39999999999998,60,356.79999999999995,80,301.59999999999997,70.0
+33aebe7f-c3dc-4f94-8f2b-e309e9141775,25,261,400.0,400.0,443,22,logFileNames,        String[] logFileNames = null;,matched,246.39999999999998,60,356.79999999999995,80,301.59999999999997,70.0
+e720c5ef-de1f-49c6-b700-272d6e67c3e0,25,96,900.0,900.0,443,23,logFileNames,        String[] logFileNames = null;,matched,246.39999999999998,60,356.79999999999995,80,301.59999999999997,70.0
+77cc676b-7943-45e9-8ed4-be9c5b919f2a,25,406,210.0,210.0,443,23,logFileNames,        String[] logFileNames = null;,matched,246.39999999999998,60,356.79999999999995,80,301.59999999999997,70.0
+6080d178-7799-4f52-9430-cd2bfaec64b2,25,834,1476.0,1476.0,443,24,logFileNames,        String[] logFileNames = null;,matched,246.39999999999998,60,356.79999999999995,80,301.59999999999997,70.0
+a6d67993-9237-4d85-a7c6-affa9d7b8ea4,25,276,751.0,751.0,443,29,logFileNames,        String[] logFileNames = null;,matched,246.39999999999998,60,356.79999999999995,80,301.59999999999997,70.0
+2a1f7f93-e036-46ef-a4d5-f2aab58c9a8f,25,528,673.0,673.0,443,29,logFileNames,        String[] logFileNames = null;,matched,246.39999999999998,60,356.79999999999995,80,301.59999999999997,70.0
+15e4b3ec-bcc6-4369-91d9-7f4b903da976,25,258,590.0,590.0,443,33,null;,        String[] logFileNames = null;,matched,384.4,60,430.4,80,407.4,70.0
+61c07d4e-f69e-4ca3-9d0a-db7893c920cf,25,390,576.0,576.0,444,14,lt;Long,        List<Long> logFileIds = null;,matched,200.39999999999998,80,246.39999999999998,100,223.39999999999998,90.0
+0c10191c-a1a7-458c-b280-d69ecfcb1d5f,25,133,706.0,706.0,444,17,lt;Long,        List<Long> logFileIds = null;,matched,200.39999999999998,80,246.39999999999998,100,223.39999999999998,90.0
+0ade1512-bb1b-48d9-b37f-4496dda4aeb4,25,686,243.0,243.0,444,17,lt;Long,        List<Long> logFileIds = null;,matched,200.39999999999998,80,246.39999999999998,100,223.39999999999998,90.0
+2807341e-f85f-4231-82af-8ae2cfaa286c,25,193,313.0,313.0,444,21,&,        List<Long> logFileIds = null;,unresolved,255.6,80,264.79999999999995,100,260.2,90.0
+59e80505-38f8-4a0c-94f5-b26fd543a69a,25,753,1032.0,1032.0,444,22,gt;,        List<Long> logFileIds = null;,matched,246.39999999999998,80,255.6,100,251.0,90.0
+cf3a3d03-4203-4f7a-863e-172254c52072,25,132,943.0,943.0,444,23,gt;,        List<Long> logFileIds = null;,matched,246.39999999999998,80,255.6,100,251.0,90.0
+4ddba47d-13c0-4c19-8da1-7281365bfecb,25,547,717.0,717.0,444,23,gt;,        List<Long> logFileIds = null;,matched,246.39999999999998,80,255.6,100,251.0,90.0
+ea7316bd-3512-4536-b222-253f7c73c02d,25,33,212.0,212.0,444,24,gt;,        List<Long> logFileIds = null;,matched,246.39999999999998,80,255.6,100,251.0,90.0
+0baa947e-0c64-42c2-986f-d856ff89164a,25,36,87.0,87.0,444,24,gt;,        List<Long> logFileIds = null;,matched,246.39999999999998,80,255.6,100,251.0,90.0
+8645c547-3c25-4f1b-9220-70b02b8f726a,25,245,963.0,963.0,444,24,gt;,        List<Long> logFileIds = null;,matched,246.39999999999998,80,255.6,100,251.0,90.0
+5c77f356-aae4-409a-9678-57ba0bf4a57a,25,780,291.0,291.0,444,24,gt;,        List<Long> logFileIds = null;,matched,246.39999999999998,80,255.6,100,251.0,90.0
+e1ce1b8c-3987-46ea-bcce-62b3d9ee3b7e,25,835,433.0,433.0,444,24,gt;,        List<Long> logFileIds = null;,matched,246.39999999999998,80,255.6,100,251.0,90.0
+20b3c048-1eed-46c6-9b4a-4277e24fe3d5,25,43,227.0,227.0,444,25,WHITESPACE,        List<Long> logFileIds = null;,approx_whitespace,320.0,80,329.2,100,324.6,90.0
+9c933eed-fb7f-4302-b376-aacb065be45e,25,50,174.0,174.0,444,25,WHITESPACE,        List<Long> logFileIds = null;,approx_whitespace,320.0,80,329.2,100,324.6,90.0
+167cac6d-66a8-4157-a0a8-75d6d16707db,25,832,309.0,309.0,444,25,WHITESPACE,        List<Long> logFileIds = null;,approx_whitespace,320.0,80,329.2,100,324.6,90.0
+62debb29-37d6-48f6-aad4-669fbbdb07d2,25,82,238.0,238.0,444,26,logFileIds,        List<Long> logFileIds = null;,matched,264.79999999999995,80,356.79999999999995,100,310.79999999999995,90.0
+b837efa7-a736-49db-8750-3c6659cd7c07,25,776,520.0,520.0,444,26,logFileIds,        List<Long> logFileIds = null;,matched,264.79999999999995,80,356.79999999999995,100,310.79999999999995,90.0
+4b30a206-4861-4602-8928-889005f03917,25,54,583.0,583.0,444,32,logFileIds,        List<Long> logFileIds = null;,matched,264.79999999999995,80,356.79999999999995,100,310.79999999999995,90.0
+d8ef9af3-a1f1-466a-abe1-443ea9854bbd,25,563,635.0,635.0,444,33,logFileIds,        List<Long> logFileIds = null;,matched,264.79999999999995,80,356.79999999999995,100,310.79999999999995,90.0
+0900e160-3d17-4dc1-822b-11b7f709a712,25,688,144.0,144.0,444,33,logFileIds,        List<Long> logFileIds = null;,matched,264.79999999999995,80,356.79999999999995,100,310.79999999999995,90.0
+ff4e5723-1c64-415d-a0c8-79143df9e9c8,25,34,252.0,252.0,444,34,logFileIds,        List<Long> logFileIds = null;,matched,264.79999999999995,80,356.79999999999995,100,310.79999999999995,90.0
+9aeb9eb6-9f9e-4cc8-8651-4b5c12209630,25,111,1382.0,1382.0,444,34,logFileIds,        List<Long> logFileIds = null;,matched,264.79999999999995,80,356.79999999999995,100,310.79999999999995,90.0
+7dc8a78a-7e0d-492a-8dd5-2193fe6979fb,25,113,240.0,240.0,444,34,logFileIds,        List<Long> logFileIds = null;,matched,264.79999999999995,80,356.79999999999995,100,310.79999999999995,90.0
+06c0e150-7495-4d9a-a46d-1aaf201c16fe,25,44,177.0,177.0,444,35,logFileIds,        List<Long> logFileIds = null;,matched,264.79999999999995,80,356.79999999999995,100,310.79999999999995,90.0
+f0ec2737-d109-4fe8-908c-c3f19c755d62,25,103,1362.0,1362.0,444,35,logFileIds,        List<Long> logFileIds = null;,matched,264.79999999999995,80,356.79999999999995,100,310.79999999999995,90.0
+ad6e47da-6fbe-481c-a8df-4b03a34b63e1,25,102,716.0,716.0,444,36,WHITESPACE,        List<Long> logFileIds = null;,approx_whitespace,421.2,80,430.4,100,425.79999999999995,90.0
+e2aa32a4-1cbd-49fb-a3a3-de929f4a8abe,25,382,135.0,135.0,445,12,(,        if (!fileLogDir.exists()) {,matched,191.2,100,200.39999999999998,120,195.79999999999998,110.0
+9f84e8a6-f97a-4182-b3f1-df30f6e551c5,25,28,569.0,569.0,445,15,!fileLogDir,        if (!fileLogDir.exists()) {,matched,200.39999999999998,100,301.6,120,251.0,110.0
+9eebe1e1-9a8f-4119-8d41-bd4eadd4c6ca,25,831,482.0,482.0,445,16,!fileLogDir,        if (!fileLogDir.exists()) {,matched,200.39999999999998,100,301.6,120,251.0,110.0
+ba1ba23c-33b1-48bb-8200-ec0d7d8e286d,25,32,349.0,349.0,445,17,!fileLogDir,        if (!fileLogDir.exists()) {,matched,200.39999999999998,100,301.6,120,251.0,110.0
+9fa43cb7-0055-4476-9e3c-d6209be09940,25,42,643.0,643.0,445,17,!fileLogDir,        if (!fileLogDir.exists()) {,matched,200.39999999999998,100,301.6,120,251.0,110.0
+89f6090d-2111-44ee-ae8a-7c4c80e6e09b,25,63,236.0,236.0,445,17,!fileLogDir,        if (!fileLogDir.exists()) {,matched,200.39999999999998,100,301.6,120,251.0,110.0
+396cd833-c4c2-49ed-bb51-71fee2a66228,25,326,384.0,384.0,445,17,!fileLogDir,        if (!fileLogDir.exists()) {,matched,200.39999999999998,100,301.6,120,251.0,110.0
+7e084c81-9e80-43a0-8982-2ef4ac830680,25,381,663.0,663.0,445,17,!fileLogDir,        if (!fileLogDir.exists()) {,matched,200.39999999999998,100,301.6,120,251.0,110.0
+74068193-9d64-42f8-a4e7-5c683ea7f026,25,53,342.0,342.0,445,18,!fileLogDir,        if (!fileLogDir.exists()) {,matched,200.39999999999998,100,301.6,120,251.0,110.0
+e37b06cb-ef42-4c19-8c1a-a388293bd30b,25,62,275.0,275.0,445,18,!fileLogDir,        if (!fileLogDir.exists()) {,matched,200.39999999999998,100,301.6,120,251.0,110.0
+d0c4f1cd-5be9-4421-850f-9fa7fb31ea66,25,90,121.0,121.0,445,19,!fileLogDir,        if (!fileLogDir.exists()) {,matched,200.39999999999998,100,301.6,120,251.0,110.0
+7766f56f-a5f9-41c9-b31f-caa5bab72b15,25,274,341.0,341.0,445,19,!fileLogDir,        if (!fileLogDir.exists()) {,matched,200.39999999999998,100,301.6,120,251.0,110.0
+5d4cc8ad-3a55-452a-b8ac-285182854c79,25,552,497.0,497.0,445,19,!fileLogDir,        if (!fileLogDir.exists()) {,matched,200.39999999999998,100,301.6,120,251.0,110.0
+fe3f353d-1c59-4292-bb20-ddd3f1c11c4d,25,613,197.0,197.0,445,19,!fileLogDir,        if (!fileLogDir.exists()) {,matched,200.39999999999998,100,301.6,120,251.0,110.0
+4beaa5b9-8b0a-4b21-b5bf-7ef8e80b58ef,25,52,110.0,110.0,445,20,!fileLogDir,        if (!fileLogDir.exists()) {,matched,200.39999999999998,100,301.6,120,251.0,110.0
+736922f9-398f-433e-b7ce-5a64f1f294b6,25,143,1578.0,1578.0,445,20,!fileLogDir,        if (!fileLogDir.exists()) {,matched,200.39999999999998,100,301.6,120,251.0,110.0
+2edd1c61-dfc4-424a-83d6-198cfb961f9e,25,330,622.0,622.0,445,20,!fileLogDir,        if (!fileLogDir.exists()) {,matched,200.39999999999998,100,301.6,120,251.0,110.0
+90025aa5-3db6-4c24-adf2-cfe9ff434fba,25,389,141.0,141.0,445,20,!fileLogDir,        if (!fileLogDir.exists()) {,matched,200.39999999999998,100,301.6,120,251.0,110.0
+290e5897-a3f4-4b58-9433-18e97d56d77f,25,433,546.0,546.0,445,20,!fileLogDir,        if (!fileLogDir.exists()) {,matched,200.39999999999998,100,301.6,120,251.0,110.0
+d2b158c7-093e-45b3-a740-85af76610d02,25,685,679.0,679.0,445,20,!fileLogDir,        if (!fileLogDir.exists()) {,matched,200.39999999999998,100,301.6,120,251.0,110.0
+51a7d223-42bd-4338-b9c9-be0a3a749fd2,25,121,104.0,104.0,445,21,!fileLogDir,        if (!fileLogDir.exists()) {,matched,200.39999999999998,100,301.6,120,251.0,110.0
+6715be3f-17ff-406a-8280-0d9a8c232076,25,156,151.0,151.0,445,21,!fileLogDir,        if (!fileLogDir.exists()) {,matched,200.39999999999998,100,301.6,120,251.0,110.0
+220a9531-a5d6-4933-9756-c5145601b024,25,325,553.0,553.0,445,21,!fileLogDir,        if (!fileLogDir.exists()) {,matched,200.39999999999998,100,301.6,120,251.0,110.0
+2ad6deac-121c-4c72-b30a-a2fa6ce091de,25,551,810.0,810.0,445,22,!fileLogDir,        if (!fileLogDir.exists()) {,matched,200.39999999999998,100,301.6,120,251.0,110.0
+a841aaa8-dd5f-40db-9cc1-8a942faa3562,25,687,217.0,217.0,445,22,!fileLogDir,        if (!fileLogDir.exists()) {,matched,200.39999999999998,100,301.6,120,251.0,110.0
+dbf4af07-8d85-4a94-b900-e7f433d56f78,25,830,613.0,613.0,445,23,!fileLogDir,        if (!fileLogDir.exists()) {,matched,200.39999999999998,100,301.6,120,251.0,110.0
+784c7f18-f503-40c9-85d2-ac8f90793d0e,25,69,433.0,433.0,445,24,.,        if (!fileLogDir.exists()) {,matched,301.6,100,310.79999999999995,120,306.2,110.0
+f9956ebb-099b-40af-9e90-c4f181513612,25,273,97.0,97.0,445,24,.,        if (!fileLogDir.exists()) {,matched,301.6,100,310.79999999999995,120,306.2,110.0
+81222dc3-0c61-4f24-8c2b-7a92384a23ab,25,328,233.0,233.0,445,24,.,        if (!fileLogDir.exists()) {,matched,301.6,100,310.79999999999995,120,306.2,110.0
+f9d44c25-0a69-485c-8d0e-e3ef18b241f9,25,31,169.0,169.0,445,25,exists,        if (!fileLogDir.exists()) {,matched,310.79999999999995,100,366.0,120,338.4,110.0
+71a15454-5102-4dda-865e-641a858f5364,25,383,2718.0,2718.0,445,25,exists,        if (!fileLogDir.exists()) {,matched,310.79999999999995,100,366.0,120,338.4,110.0
+40f1869c-27b2-437d-a499-1b64f18acea7,25,29,202.0,202.0,445,26,exists,        if (!fileLogDir.exists()) {,matched,310.79999999999995,100,366.0,120,338.4,110.0
+7438e116-3070-4f97-88ec-b1fa552b557d,25,149,232.0,232.0,445,26,exists,        if (!fileLogDir.exists()) {,matched,310.79999999999995,100,366.0,120,338.4,110.0
+3bde8023-8d19-476a-960c-e83140fff1f8,25,72,269.0,269.0,445,27,exists,        if (!fileLogDir.exists()) {,matched,310.79999999999995,100,366.0,120,338.4,110.0
+aa68dc40-b510-4011-90a3-10c153f3c116,25,89,193.0,193.0,445,27,exists,        if (!fileLogDir.exists()) {,matched,310.79999999999995,100,366.0,120,338.4,110.0
+5e2b9884-b500-4175-ae07-f36abbe6d0a6,25,327,181.0,181.0,445,27,exists,        if (!fileLogDir.exists()) {,matched,310.79999999999995,100,366.0,120,338.4,110.0
+60eb2ac9-ae21-4536-a01b-c85e81a08dea,25,388,100.0,100.0,445,27,exists,        if (!fileLogDir.exists()) {,matched,310.79999999999995,100,366.0,120,338.4,110.0
+9ef0c92a-53d4-452c-877c-5c5c6a271a06,25,37,346.0,346.0,445,28,exists,        if (!fileLogDir.exists()) {,matched,310.79999999999995,100,366.0,120,338.4,110.0
+788b26e1-883f-4c6e-90c4-5d49c54353d0,25,144,387.0,387.0,445,28,exists,        if (!fileLogDir.exists()) {,matched,310.79999999999995,100,366.0,120,338.4,110.0
+d5a3f393-451b-478c-83c5-9fbb09d1d440,25,155,805.0,805.0,445,28,exists,        if (!fileLogDir.exists()) {,matched,310.79999999999995,100,366.0,120,338.4,110.0
+59289dc2-759f-4be9-a5fb-d5397b78d77f,25,275,511.0,511.0,445,28,exists,        if (!fileLogDir.exists()) {,matched,310.79999999999995,100,366.0,120,338.4,110.0
+78646954-62f2-408d-a087-4984fa0403ae,25,329,912.0,912.0,445,28,exists,        if (!fileLogDir.exists()) {,matched,310.79999999999995,100,366.0,120,338.4,110.0
+64e12e2c-ad70-4900-b014-84e10983e872,25,432,324.0,324.0,445,28,exists,        if (!fileLogDir.exists()) {,matched,310.79999999999995,100,366.0,120,338.4,110.0
+caad354d-4124-4f4a-8815-771be46241d7,25,603,118.0,118.0,445,28,exists,        if (!fileLogDir.exists()) {,matched,310.79999999999995,100,366.0,120,338.4,110.0
+def352c7-59e7-4e6f-9417-6ddeeaab8e0d,25,384,708.0,708.0,445,29,exists,        if (!fileLogDir.exists()) {,matched,310.79999999999995,100,366.0,120,338.4,110.0
+a6866ad2-e8f0-4c04-83aa-9930210443cc,25,748,119.0,119.0,445,29,exists,        if (!fileLogDir.exists()) {,matched,310.79999999999995,100,366.0,120,338.4,110.0
+f3ea1f17-0d27-4955-af42-c2b8f0a48b8d,25,67,287.0,287.0,445,30,exists,        if (!fileLogDir.exists()) {,matched,310.79999999999995,100,366.0,120,338.4,110.0
+e50a34ff-7a6e-4451-959c-45d6ee6ac4e3,25,385,1739.0,1739.0,445,31,()),        if (!fileLogDir.exists()) {,matched,366.0,100,393.59999999999997,120,379.79999999999995,110.0
+0a05352f-e62e-48f1-b3a5-1964b8e4f82b,25,395,671.0,671.0,445,32,()),        if (!fileLogDir.exists()) {,matched,366.0,100,393.59999999999997,120,379.79999999999995,110.0
+4649e9cf-743f-4f2f-b67a-ca4c6b285c67,25,701,889.0,889.0,445,32,()),        if (!fileLogDir.exists()) {,matched,366.0,100,393.59999999999997,120,379.79999999999995,110.0
+7f0ba189-1db7-47e1-9772-96a7e4446656,25,829,337.0,337.0,445,32,()),        if (!fileLogDir.exists()) {,matched,366.0,100,393.59999999999997,120,379.79999999999995,110.0
+0a25a384-7aa8-4c35-9e7a-2fa0161a5a42,25,85,676.0,676.0,445,33,()),        if (!fileLogDir.exists()) {,matched,366.0,100,393.59999999999997,120,379.79999999999995,110.0
+1c3e1f20-e8dc-4984-9ba0-b1393cb2b9bc,25,91,463.0,463.0,445,33,()),        if (!fileLogDir.exists()) {,matched,366.0,100,393.59999999999997,120,379.79999999999995,110.0
+aad51547-e98f-4957-914f-023d7396fe92,25,110,724.0,724.0,445,33,()),        if (!fileLogDir.exists()) {,matched,366.0,100,393.59999999999997,120,379.79999999999995,110.0
+4225489c-e90e-4317-9ac7-af62c238e133,25,115,412.0,412.0,445,33,()),        if (!fileLogDir.exists()) {,matched,366.0,100,393.59999999999997,120,379.79999999999995,110.0
+e8cfcd63-7747-4887-be93-1a654d14edb5,25,30,97.0,97.0,445,34,WHITESPACE,        if (!fileLogDir.exists()) {,approx_whitespace,402.79999999999995,100,412.0,120,407.4,110.0
+1b5bc9d6-6d08-46af-82e8-03ef9fc9ee50,25,120,155.0,155.0,445,34,WHITESPACE,        if (!fileLogDir.exists()) {,approx_whitespace,402.79999999999995,100,412.0,120,407.4,110.0
+3359b673-03ad-4c7f-bd33-34810ef2846f,25,101,1236.0,1236.0,445,35,{,        if (!fileLogDir.exists()) {,matched,402.79999999999995,100,412.0,120,407.4,110.0
+8a6253bf-d3c2-44cd-be3d-17d8a357ffb6,25,106,187.0,187.0,445,35,{,        if (!fileLogDir.exists()) {,matched,402.79999999999995,100,412.0,120,407.4,110.0
+b4b156e0-ca9b-49f5-b5ad-d63c7431274b,25,124,193.0,193.0,445,35,{,        if (!fileLogDir.exists()) {,matched,402.79999999999995,100,412.0,120,407.4,110.0
+0f8b9c7c-38f5-4518-890f-1730ca78bd1b,25,387,983.0,983.0,445,35,{,        if (!fileLogDir.exists()) {,matched,402.79999999999995,100,412.0,120,407.4,110.0
+bd68ee54-1463-4f4f-a818-2d350beee1b8,25,283,191.0,191.0,446,17,LOGGER,"            LOGGER.log(Level.INFO, ""log dir "" + logDir + "" doesn't exist.  returning empty list"");",matched,200.39999999999998,120,255.6,140,228.0,130.0
+6d0e242f-d3c6-404e-860b-67e451ea50a3,25,49,991.0,991.0,446,18,LOGGER,"            LOGGER.log(Level.INFO, ""log dir "" + logDir + "" doesn't exist.  returning empty list"");",matched,200.39999999999998,120,255.6,140,228.0,130.0
+4836750f-8ae1-40cc-b5d1-39f799a0f6cb,25,47,311.0,311.0,446,19,.,"            LOGGER.log(Level.INFO, ""log dir "" + logDir + "" doesn't exist.  returning empty list"");",matched,255.6,120,264.79999999999995,140,260.2,130.0
+7ef23dae-7d56-4c28-9e5e-981117ce1d61,25,163,147.0,147.0,446,19,.,"            LOGGER.log(Level.INFO, ""log dir "" + logDir + "" doesn't exist.  returning empty list"");",matched,255.6,120,264.79999999999995,140,260.2,130.0
+6d168527-679a-4ba8-97e7-6f358a412e4a,25,109,200.0,200.0,446,20,log,"            LOGGER.log(Level.INFO, ""log dir "" + logDir + "" doesn't exist.  returning empty list"");",matched,200.39999999999998,120,228.0,140,214.2,130.0
+5323aee8-f618-4e1c-913d-504233cae407,25,284,931.0,931.0,446,20,log,"            LOGGER.log(Level.INFO, ""log dir "" + logDir + "" doesn't exist.  returning empty list"");",matched,200.39999999999998,120,228.0,140,214.2,130.0
+5e30269f-ca98-44bc-9377-7382445d97d8,25,405,615.0,615.0,446,20,log,"            LOGGER.log(Level.INFO, ""log dir "" + logDir + "" doesn't exist.  returning empty list"");",matched,200.39999999999998,120,228.0,140,214.2,130.0
+b5ec2297-14d0-49b4-a9f1-63b89a1b8e36,25,170,253.0,253.0,446,21,log,"            LOGGER.log(Level.INFO, ""log dir "" + logDir + "" doesn't exist.  returning empty list"");",matched,264.79999999999995,120,292.4,140,278.59999999999997,130.0
+ac958936-5628-403a-85ba-c0c9e98f6e3b,25,690,195.0,195.0,446,21,log,"            LOGGER.log(Level.INFO, ""log dir "" + logDir + "" doesn't exist.  returning empty list"");",matched,264.79999999999995,120,292.4,140,278.59999999999997,130.0
+632ea8d8-bc72-4812-821f-dc23eab7a5f1,25,698,465.0,465.0,446,21,log,"            LOGGER.log(Level.INFO, ""log dir "" + logDir + "" doesn't exist.  returning empty list"");",matched,264.79999999999995,120,292.4,140,278.59999999999997,130.0
+2e307242-e98d-4419-8c61-571da5ce073e,25,84,332.0,332.0,446,22,log,"            LOGGER.log(Level.INFO, ""log dir "" + logDir + "" doesn't exist.  returning empty list"");",matched,421.2,120,448.79999999999995,140,435.0,130.0
+390e8a26-3de4-477d-8aca-51ea2e729bda,25,127,275.0,275.0,446,22,log,"            LOGGER.log(Level.INFO, ""log dir "" + logDir + "" doesn't exist.  returning empty list"");",matched,421.2,120,448.79999999999995,140,435.0,130.0
+b8e40b89-11ee-4166-b2e9-6d7ee6dfcd0a,25,92,579.0,579.0,446,23,(,"            LOGGER.log(Level.INFO, ""log dir "" + logDir + "" doesn't exist.  returning empty list"");",matched,292.4,120,301.6,140,297.0,130.0
+171e169c-2059-4d5b-939c-637c7f52f2a2,25,681,514.0,514.0,446,23,(,"            LOGGER.log(Level.INFO, ""log dir "" + logDir + "" doesn't exist.  returning empty list"");",matched,292.4,120,301.6,140,297.0,130.0
+3969299b-1d2b-4ec9-8346-6b0707c07f4d,25,48,154.0,154.0,446,24,Level,"            LOGGER.log(Level.INFO, ""log dir "" + logDir + "" doesn't exist.  returning empty list"");",matched,301.6,120,347.59999999999997,140,324.6,130.0
+5e00f134-9137-479e-b1bb-dc0a63d2cbfc,25,553,242.0,242.0,446,24,Level,"            LOGGER.log(Level.INFO, ""log dir "" + logDir + "" doesn't exist.  returning empty list"");",matched,301.6,120,347.59999999999997,140,324.6,130.0
+014fcb84-116a-414f-a70e-87f18df8868e,25,773,400.0,400.0,446,24,Level,"            LOGGER.log(Level.INFO, ""log dir "" + logDir + "" doesn't exist.  returning empty list"");",matched,301.6,120,347.59999999999997,140,324.6,130.0
+4fd5eef5-cb1e-4b95-8a68-87b6a8102ee2,25,828,167.0,167.0,446,24,Level,"            LOGGER.log(Level.INFO, ""log dir "" + logDir + "" doesn't exist.  returning empty list"");",matched,301.6,120,347.59999999999997,140,324.6,130.0
+01690ceb-a41b-4dd2-8195-b4e538db5ed5,25,260,264.0,264.0,446,25,Level,"            LOGGER.log(Level.INFO, ""log dir "" + logDir + "" doesn't exist.  returning empty list"");",matched,301.6,120,347.59999999999997,140,324.6,130.0
+809147d2-c4c3-4926-92d6-3282c8d7760b,25,86,286.0,286.0,446,26,Level,"            LOGGER.log(Level.INFO, ""log dir "" + logDir + "" doesn't exist.  returning empty list"");",matched,301.6,120,347.59999999999997,140,324.6,130.0
+e6d09d06-5b33-4e47-bd2a-17209d294ccc,25,93,269.0,269.0,446,26,Level,"            LOGGER.log(Level.INFO, ""log dir "" + logDir + "" doesn't exist.  returning empty list"");",matched,301.6,120,347.59999999999997,140,324.6,130.0
+42618cf9-d595-4ede-ba8f-51128af8df2d,25,77,368.0,368.0,446,28,Level,"            LOGGER.log(Level.INFO, ""log dir "" + logDir + "" doesn't exist.  returning empty list"");",matched,301.6,120,347.59999999999997,140,324.6,130.0
+1a8464d5-902c-4e50-b2f5-29fd5c0b84de,25,79,416.0,416.0,446,28,Level,"            LOGGER.log(Level.INFO, ""log dir "" + logDir + "" doesn't exist.  returning empty list"");",matched,301.6,120,347.59999999999997,140,324.6,130.0
+98bd8d8c-fc2c-4ac4-bfc1-6ef7cd299e68,25,95,123.0,123.0,446,28,Level,"            LOGGER.log(Level.INFO, ""log dir "" + logDir + "" doesn't exist.  returning empty list"");",matched,301.6,120,347.59999999999997,140,324.6,130.0
+6565b574-ee91-410a-9bc5-8520425e6f9e,25,46,80.0,80.0,446,29,.,"            LOGGER.log(Level.INFO, ""log dir "" + logDir + "" doesn't exist.  returning empty list"");",matched,347.59999999999997,120,356.79999999999995,140,352.19999999999993,130.0
+e330638a-7fd2-4edb-989d-a570a1c7b221,25,272,134.0,134.0,446,29,.,"            LOGGER.log(Level.INFO, ""log dir "" + logDir + "" doesn't exist.  returning empty list"");",matched,347.59999999999997,120,356.79999999999995,140,352.19999999999993,130.0
+921f0d14-7329-4575-b2fa-13822c8330a3,25,554,158.0,158.0,446,29,.,"            LOGGER.log(Level.INFO, ""log dir "" + logDir + "" doesn't exist.  returning empty list"");",matched,347.59999999999997,120,356.79999999999995,140,352.19999999999993,130.0
+15fc6789-8bf9-4bcf-9ee1-3917c49b8c37,25,108,267.0,267.0,446,30,INFO,"            LOGGER.log(Level.INFO, ""log dir "" + logDir + "" doesn't exist.  returning empty list"");",matched,356.79999999999995,120,393.59999999999997,140,375.19999999999993,130.0
+1724abbd-9218-44c5-8f5d-503673fbcc4f,25,317,450.0,450.0,446,30,INFO,"            LOGGER.log(Level.INFO, ""log dir "" + logDir + "" doesn't exist.  returning empty list"");",matched,356.79999999999995,120,393.59999999999997,140,375.19999999999993,130.0
+6f3bcce7-42bc-4f62-85cd-86ffd61c578b,25,73,1085.0,1085.0,446,31,INFO,"            LOGGER.log(Level.INFO, ""log dir "" + logDir + "" doesn't exist.  returning empty list"");",matched,356.79999999999995,120,393.59999999999997,140,375.19999999999993,130.0
+01099c21-2eab-4aff-ba2d-43e5ea782e42,25,75,307.0,307.0,446,31,INFO,"            LOGGER.log(Level.INFO, ""log dir "" + logDir + "" doesn't exist.  returning empty list"");",matched,356.79999999999995,120,393.59999999999997,140,375.19999999999993,130.0
+e2a490ef-f3cf-4d6d-9686-1ab7e69f321b,25,97,289.0,289.0,446,31,INFO,"            LOGGER.log(Level.INFO, ""log dir "" + logDir + "" doesn't exist.  returning empty list"");",matched,356.79999999999995,120,393.59999999999997,140,375.19999999999993,130.0
+99a92183-295b-4468-bb29-75663ed038f2,25,148,240.0,240.0,446,31,INFO,"            LOGGER.log(Level.INFO, ""log dir "" + logDir + "" doesn't exist.  returning empty list"");",matched,356.79999999999995,120,393.59999999999997,140,375.19999999999993,130.0
+bfc6e6df-70c6-4974-9648-cd26986e3f3e,25,83,460.0,460.0,446,32,INFO,"            LOGGER.log(Level.INFO, ""log dir "" + logDir + "" doesn't exist.  returning empty list"");",matched,356.79999999999995,120,393.59999999999997,140,375.19999999999993,130.0
+5f3aa480-d783-43bb-a399-7580a7a4e300,25,80,172.0,172.0,446,33,INFO,"            LOGGER.log(Level.INFO, ""log dir "" + logDir + "" doesn't exist.  returning empty list"");",matched,356.79999999999995,120,393.59999999999997,140,375.19999999999993,130.0
+b8901e27-cafa-4b71-8562-364a830e39ae,25,81,479.0,479.0,446,33,INFO,"            LOGGER.log(Level.INFO, ""log dir "" + logDir + "" doesn't exist.  returning empty list"");",matched,356.79999999999995,120,393.59999999999997,140,375.19999999999993,130.0
+bf2dc57c-b192-495a-aba5-58cb7d024d86,25,59,422.0,422.0,446,34,",","            LOGGER.log(Level.INFO, ""log dir "" + logDir + "" doesn't exist.  returning empty list"");",matched,393.59999999999997,120,402.79999999999995,140,398.19999999999993,130.0
+f0b38b02-b64f-4444-9617-664e4d4d4d7e,25,125,1444.0,1444.0,446,34,",","            LOGGER.log(Level.INFO, ""log dir "" + logDir + "" doesn't exist.  returning empty list"");",matched,393.59999999999997,120,402.79999999999995,140,398.19999999999993,130.0
+c2a9e7d2-9968-4ab1-a8d1-61fc6e3421ad,25,749,281.0,281.0,446,35,WHITESPACE,"            LOGGER.log(Level.INFO, ""log dir "" + logDir + "" doesn't exist.  returning empty list"");",approx_whitespace,458.0,120,467.2,140,462.6,130.0
+b35d477f-aacd-4cc9-9811-a29f3bb9c156,25,118,216.0,216.0,446,40,WHITESPACE,"            LOGGER.log(Level.INFO, ""log dir "" + logDir + "" doesn't exist.  returning empty list"");",approx_whitespace,513.2,120,522.4,140,517.8,130.0
+7be4ede3-9385-44b3-babc-18d263af87f7,25,145,275.0,275.0,446,40,WHITESPACE,"            LOGGER.log(Level.INFO, ""log dir "" + logDir + "" doesn't exist.  returning empty list"");",approx_whitespace,513.2,120,522.4,140,517.8,130.0
+c54e0d2c-255c-499d-929a-c490f7c2dc0b,25,74,236.0,236.0,446,41,dir,"            LOGGER.log(Level.INFO, ""log dir "" + logDir + "" doesn't exist.  returning empty list"");",matched,458.0,120,485.59999999999997,140,471.79999999999995,130.0
+a9dc4332-818f-4966-8b52-fd6eaf3d4a56,25,114,1254.0,1254.0,446,41,dir,"            LOGGER.log(Level.INFO, ""log dir "" + logDir + "" doesn't exist.  returning empty list"");",matched,458.0,120,485.59999999999997,140,471.79999999999995,130.0
+c455a461-f117-4461-bccb-7348e85a01c4,25,76,306.0,306.0,446,42,dir,"            LOGGER.log(Level.INFO, ""log dir "" + logDir + "" doesn't exist.  returning empty list"");",matched,458.0,120,485.59999999999997,140,471.79999999999995,130.0
+d749060e-31d2-4424-b025-56079f659601,25,112,433.0,433.0,446,42,dir,"            LOGGER.log(Level.INFO, ""log dir "" + logDir + "" doesn't exist.  returning empty list"");",matched,458.0,120,485.59999999999997,140,471.79999999999995,130.0
+9fc34d6c-b50e-4c19-b7d2-34a8e96d2749,25,116,974.0,974.0,446,42,dir,"            LOGGER.log(Level.INFO, ""log dir "" + logDir + "" doesn't exist.  returning empty list"");",matched,458.0,120,485.59999999999997,140,471.79999999999995,130.0
+a05cf5c1-293e-428e-8adb-ec8f6ce1528c,25,128,202.0,202.0,446,43,dir,"            LOGGER.log(Level.INFO, ""log dir "" + logDir + "" doesn't exist.  returning empty list"");",matched,559.2,120,586.8,140,573.0,130.0
+dce2a53b-d781-4797-985f-76a664a25be3,25,45,380.0,380.0,446,44,WHITESPACE,"            LOGGER.log(Level.INFO, ""log dir "" + logDir + "" doesn't exist.  returning empty list"");",approx_whitespace,550.0,120,559.2,140,554.6,130.0
+7e1b7ed0-d1be-421a-8a08-1fd1ebb2a4dd,25,689,341.0,341.0,446,44,WHITESPACE,"            LOGGER.log(Level.INFO, ""log dir "" + logDir + "" doesn't exist.  returning empty list"");",approx_whitespace,550.0,120,559.2,140,554.6,130.0
+c79e55ac-7968-417c-ab4f-d0e56a3d85be,25,774,453.0,453.0,446,48,WHITESPACE,"            LOGGER.log(Level.INFO, ""log dir "" + logDir + "" doesn't exist.  returning empty list"");",approx_whitespace,596.0,120,605.1999999999999,140,600.5999999999999,130.0
+7f0b135d-47fd-4fbe-ab9e-adcc9bad89a3,25,119,270.0,270.0,446,49,logDir,"            LOGGER.log(Level.INFO, ""log dir "" + logDir + "" doesn't exist.  returning empty list"");",matched,531.5999999999999,120,586.8,140,559.1999999999999,130.0
+3ab18b1c-777e-40b2-aace-e26d5c9b4e03,25,827,315.0,315.0,446,50,logDir,"            LOGGER.log(Level.INFO, ""log dir "" + logDir + "" doesn't exist.  returning empty list"");",matched,531.5999999999999,120,586.8,140,559.1999999999999,130.0
+640fa062-88d3-4efc-9bab-4c42328ffd24,25,146,523.0,523.0,446,51,logDir,"            LOGGER.log(Level.INFO, ""log dir "" + logDir + "" doesn't exist.  returning empty list"");",matched,531.5999999999999,120,586.8,140,559.1999999999999,130.0
+5ddb57cd-0538-4bb7-b5e4-58864d136301,25,126,147.0,147.0,446,53,logDir,"            LOGGER.log(Level.INFO, ""log dir "" + logDir + "" doesn't exist.  returning empty list"");",matched,531.5999999999999,120,586.8,140,559.1999999999999,130.0
+2bddc241-b78c-42aa-a724-11a993915cb3,25,57,152.0,152.0,446,54,logDir,"            LOGGER.log(Level.INFO, ""log dir "" + logDir + "" doesn't exist.  returning empty list"");",matched,531.5999999999999,120,586.8,140,559.1999999999999,130.0
+5846377a-903b-4968-ac9a-10120d0cb65d,25,94,86.0,86.0,446,55,WHITESPACE,"            LOGGER.log(Level.INFO, ""log dir "" + logDir + "" doesn't exist.  returning empty list"");",approx_whitespace,669.5999999999999,120,678.8,140,674.1999999999999,130.0
+4f1b1073-a6f6-4643-a89f-af5d8df2efb6,25,615,253.0,253.0,446,55,WHITESPACE,"            LOGGER.log(Level.INFO, ""log dir "" + logDir + "" doesn't exist.  returning empty list"");",approx_whitespace,669.5999999999999,120,678.8,140,674.1999999999999,130.0
+e97a9091-6319-474f-97f9-b0f5b17f26e5,25,778,134.0,134.0,446,55,WHITESPACE,"            LOGGER.log(Level.INFO, ""log dir "" + logDir + "" doesn't exist.  returning empty list"");",approx_whitespace,669.5999999999999,120,678.8,140,674.1999999999999,130.0
+40bfdc83-62fc-4766-84c8-1ce659254d83,25,117,466.0,466.0,446,56,+,"            LOGGER.log(Level.INFO, ""log dir "" + logDir + "" doesn't exist.  returning empty list"");",matched,513.2,120,522.4,140,517.8,130.0
+b240bf10-41ff-4ef1-8cc7-715c5c86341e,25,150,179.0,179.0,446,60,doesn't,"            LOGGER.log(Level.INFO, ""log dir "" + logDir + "" doesn't exist.  returning empty list"");",matched,632.8,120,697.1999999999999,140,665.0,130.0
+6e8ca313-d670-4d92-b9e2-7e9580071f41,25,122,162.0,162.0,446,61,doesn't,"            LOGGER.log(Level.INFO, ""log dir "" + logDir + "" doesn't exist.  returning empty list"");",matched,632.8,120,697.1999999999999,140,665.0,130.0
+7004f4cf-e5ff-4c83-9e85-b346b48f2e4b,25,123,150.0,150.0,446,66,doesn't,"            LOGGER.log(Level.INFO, ""log dir "" + logDir + "" doesn't exist.  returning empty list"");",matched,632.8,120,697.1999999999999,140,665.0,130.0
+ad820d87-591a-4848-a4f8-3974dbe812ea,25,775,204.0,204.0,446,66,doesn't,"            LOGGER.log(Level.INFO, ""log dir "" + logDir + "" doesn't exist.  returning empty list"");",matched,632.8,120,697.1999999999999,140,665.0,130.0
+80ce2530-006a-4dcf-8380-afd8297c4f40,25,58,197.0,197.0,446,70,exist,"            LOGGER.log(Level.INFO, ""log dir "" + logDir + "" doesn't exist.  returning empty list"");",matched,706.4,120,752.4,140,729.4,130.0
+4accb30b-884e-46e2-a8d7-ac55cd18153b,25,151,137.0,137.0,446,70,exist,"            LOGGER.log(Level.INFO, ""log dir "" + logDir + "" doesn't exist.  returning empty list"");",matched,706.4,120,752.4,140,729.4,130.0
+880f169a-2ef0-4da8-b503-7f4bdcef335c,25,154,156.0,156.0,446,77,returning,"            LOGGER.log(Level.INFO, ""log dir "" + logDir + "" doesn't exist.  returning empty list"");",matched,780.0,120,862.8,140,821.4,130.0
+86cd938b-6873-44fb-9407-f8cdde5abeb1,25,152,637.0,637.0,446,82,returning,"            LOGGER.log(Level.INFO, ""log dir "" + logDir + "" doesn't exist.  returning empty list"");",matched,780.0,120,862.8,140,821.4,130.0
+304d5d19-92d0-40ba-8fc7-2dcc40d37e81,25,779,643.0,643.0,446,85,WHITESPACE,"            LOGGER.log(Level.INFO, ""log dir "" + logDir + "" doesn't exist.  returning empty list"");",approx_whitespace,982.4,120,991.5999999999999,140,987.0,130.0
+db2dd092-586b-4bd6-8e31-911fe1f01ca4,25,153,80.0,80.0,446,86,empty,"            LOGGER.log(Level.INFO, ""log dir "" + logDir + "" doesn't exist.  returning empty list"");",matched,871.9999999999999,120,917.9999999999999,140,894.9999999999999,130.0
+963c1a1b-5b81-46b1-9cba-15d50bb2f9fa,25,744,467.0,467.0,447,12,WHITESPACE,            return Collections.emptyList();,approx_whitespace,476.4,140,485.59999999999997,160,481.0,150.0
+45faab75-157d-4fb4-960c-1951c8a92850,25,699,122.0,122.0,447,16,return,            return Collections.emptyList();,matched,200.39999999999998,140,255.6,160,228.0,150.0
+8bf998cf-c2ab-49e9-807d-ae41207baa79,25,104,175.0,175.0,447,21,Collections,            return Collections.emptyList();,matched,264.79999999999995,140,366.0,160,315.4,150.0
+a2943063-041f-43ea-bbc3-17d86660de57,25,278,692.0,692.0,447,21,Collections,            return Collections.emptyList();,matched,264.79999999999995,140,366.0,160,315.4,150.0
+97d765bb-0026-4dbd-bd45-51981c412f13,25,826,378.0,378.0,447,21,Collections,            return Collections.emptyList();,matched,264.79999999999995,140,366.0,160,315.4,150.0
+add1bec5-d892-41ed-86a0-fb849d357f1f,25,1,94.0,94.0,447,22,Collections,            return Collections.emptyList();,matched,264.79999999999995,140,366.0,160,315.4,150.0
+31a9fabe-64de-4ec2-a491-5b4f9678b6a6,25,100,154.0,154.0,447,24,Collections,            return Collections.emptyList();,matched,264.79999999999995,140,366.0,160,315.4,150.0
+d0d075b0-003b-44a6-83b6-18bd71dcb50e,25,602,1050.0,1050.0,447,24,Collections,            return Collections.emptyList();,matched,264.79999999999995,140,366.0,160,315.4,150.0
+094f942e-b4a4-4ac4-96d8-8ccac3c85c0c,25,335,322.0,322.0,447,26,Collections,            return Collections.emptyList();,matched,264.79999999999995,140,366.0,160,315.4,150.0
+6b29bca0-7f87-4b34-a9de-0a1089bf5f57,25,840,106.0,106.0,447,28,Collections,            return Collections.emptyList();,matched,264.79999999999995,140,366.0,160,315.4,150.0
+2899c9c2-f018-4d0a-b903-85e300f4238a,25,290,126.0,126.0,447,32,emptyList,            return Collections.emptyList();,matched,375.2,140,458.0,160,416.6,150.0
+49582174-9e49-4e8f-b48e-e27b13a8a73b,25,408,152.0,152.0,447,34,emptyList,            return Collections.emptyList();,matched,375.2,140,458.0,160,416.6,150.0
+5ec1bd54-f072-4b37-857d-616be01bcc3b,25,674,116.0,116.0,447,34,emptyList,            return Collections.emptyList();,matched,375.2,140,458.0,160,416.6,150.0
+e4c011c9-e848-48c7-8bdf-5cc19fc1598a,25,88,177.0,177.0,447,35,emptyList,            return Collections.emptyList();,matched,375.2,140,458.0,160,416.6,150.0
+cf1fd926-f358-4247-89bf-74fa4f5ee64d,25,839,228.0,228.0,447,35,emptyList,            return Collections.emptyList();,matched,375.2,140,458.0,160,416.6,150.0
+cb891dbd-3f6f-4fcc-a25b-4e7391b293ce,25,2,196.0,196.0,447,36,emptyList,            return Collections.emptyList();,matched,375.2,140,458.0,160,416.6,150.0
+8144b984-cc14-4196-8a25-46e272fd328d,25,87,181.0,181.0,447,38,emptyList,            return Collections.emptyList();,matched,375.2,140,458.0,160,416.6,150.0
+2e35ac74-fd5f-4df7-9c34-abe9f3d4acdd,25,105,187.0,187.0,447,40,emptyList,            return Collections.emptyList();,matched,375.2,140,458.0,160,416.6,150.0
+d495c4c4-4043-4e54-b908-9beaa2ebeae5,25,396,95.0,95.0,447,40,emptyList,            return Collections.emptyList();,matched,375.2,140,458.0,160,416.6,150.0
+15d58d9f-813c-401d-96b1-a46728921ffe,25,107,631.0,631.0,447,41,(),            return Collections.emptyList();,matched,458.0,140,476.4,160,467.2,150.0
+a4d8c399-3d5a-48a5-be4e-6ccad9f72e62,25,697,150.0,150.0,449,11,WHITESPACE,        if (!fileLogDir.isDirectory()) {,approx_whitespace,191.2,180,200.39999999999998,200,195.79999999999998,190.0
+6767e8ed-5a95-4cda-9d1a-0893c4bf6c28,25,394,2122.0,2122.0,449,13,!fileLogDir,        if (!fileLogDir.isDirectory()) {,matched,200.39999999999998,180,301.6,200,251.0,190.0
+9925df88-cf00-41b9-9aa2-d2a679c2eafa,25,64,481.0,481.0,449,16,!fileLogDir,        if (!fileLogDir.isDirectory()) {,matched,200.39999999999998,180,301.6,200,251.0,190.0
+83881ffb-d0cc-4939-a986-ba6e0c54eab9,25,307,447.0,447.0,449,16,!fileLogDir,        if (!fileLogDir.isDirectory()) {,matched,200.39999999999998,180,301.6,200,251.0,190.0
+6aa3eff8-0f80-400c-9bff-d0b5ae02cd33,25,316,124.0,124.0,449,16,!fileLogDir,        if (!fileLogDir.isDirectory()) {,matched,200.39999999999998,180,301.6,200,251.0,190.0
+f847e2b1-ff55-4cda-8d01-74ace347fe4d,25,566,288.0,288.0,449,16,!fileLogDir,        if (!fileLogDir.isDirectory()) {,matched,200.39999999999998,180,301.6,200,251.0,190.0
+f1ff3b2a-107b-4c7d-8bb8-1798d50b1651,25,195,294.0,294.0,449,17,!fileLogDir,        if (!fileLogDir.isDirectory()) {,matched,200.39999999999998,180,301.6,200,251.0,190.0
+6b6688e0-6b73-4696-9fb5-4791a28fbc2b,25,380,171.0,171.0,449,17,!fileLogDir,        if (!fileLogDir.isDirectory()) {,matched,200.39999999999998,180,301.6,200,251.0,190.0
+87ab8461-b7f6-43d1-ae1d-2661dd77ec6c,25,437,498.0,498.0,449,17,!fileLogDir,        if (!fileLogDir.isDirectory()) {,matched,200.39999999999998,180,301.6,200,251.0,190.0
+93a44b33-a531-4015-81ae-1cccc8658d02,25,683,183.0,183.0,449,17,!fileLogDir,        if (!fileLogDir.isDirectory()) {,matched,200.39999999999998,180,301.6,200,251.0,190.0
+62e62577-c47a-464f-8c79-6c328c8d5024,25,312,210.0,210.0,449,18,!fileLogDir,        if (!fileLogDir.isDirectory()) {,matched,200.39999999999998,180,301.6,200,251.0,190.0
+41bd3302-a250-4358-9afc-ecd57d147ec1,25,592,320.0,320.0,449,18,!fileLogDir,        if (!fileLogDir.isDirectory()) {,matched,200.39999999999998,180,301.6,200,251.0,190.0
+28965679-fab3-40e1-b8a7-896a7b34ec7a,25,825,163.0,163.0,449,18,!fileLogDir,        if (!fileLogDir.isDirectory()) {,matched,200.39999999999998,180,301.6,200,251.0,190.0
+f5f9d7cd-c8f8-4792-a354-196c464ae12c,25,27,646.0,646.0,449,19,!fileLogDir,        if (!fileLogDir.isDirectory()) {,matched,200.39999999999998,180,301.6,200,251.0,190.0
+0248d74f-f333-41ca-9191-509eeba61926,25,252,330.0,330.0,449,19,!fileLogDir,        if (!fileLogDir.isDirectory()) {,matched,200.39999999999998,180,301.6,200,251.0,190.0
+a87f9efa-c78d-4469-8b84-39c4828de329,25,323,1714.0,1714.0,449,19,!fileLogDir,        if (!fileLogDir.isDirectory()) {,matched,200.39999999999998,180,301.6,200,251.0,190.0
+a4ec8139-eabf-4ab7-a9d9-f4f641252fb3,25,403,318.0,318.0,449,19,!fileLogDir,        if (!fileLogDir.isDirectory()) {,matched,200.39999999999998,180,301.6,200,251.0,190.0
+28b30ac0-35e7-4f7c-b8ba-1b15925703f1,25,411,158.0,158.0,449,19,!fileLogDir,        if (!fileLogDir.isDirectory()) {,matched,200.39999999999998,180,301.6,200,251.0,190.0
+19a3cd43-0cda-4273-aa35-102640f531e7,25,424,395.0,395.0,449,19,!fileLogDir,        if (!fileLogDir.isDirectory()) {,matched,200.39999999999998,180,301.6,200,251.0,190.0
+dc6d4181-90af-400e-8eb0-9778d92cfceb,25,435,174.0,174.0,449,19,!fileLogDir,        if (!fileLogDir.isDirectory()) {,matched,200.39999999999998,180,301.6,200,251.0,190.0
+95c5fad9-ea24-49c5-bb11-d69e88df6a46,25,197,382.0,382.0,449,20,!fileLogDir,        if (!fileLogDir.isDirectory()) {,matched,200.39999999999998,180,301.6,200,251.0,190.0
+2c1cbd02-c481-4032-99ff-66c80683ea41,25,430,206.0,206.0,449,20,!fileLogDir,        if (!fileLogDir.isDirectory()) {,matched,200.39999999999998,180,301.6,200,251.0,190.0
+9d8b723a-010f-43b3-99d1-35a6ea823422,25,624,430.0,430.0,449,20,!fileLogDir,        if (!fileLogDir.isDirectory()) {,matched,200.39999999999998,180,301.6,200,251.0,190.0
+f555336b-5fcc-445d-9f17-d12533436139,25,254,162.0,162.0,449,21,!fileLogDir,        if (!fileLogDir.isDirectory()) {,matched,200.39999999999998,180,301.6,200,251.0,190.0
+24473635-e36a-4a81-826d-a4ac372caaeb,25,634,431.0,431.0,449,21,!fileLogDir,        if (!fileLogDir.isDirectory()) {,matched,200.39999999999998,180,301.6,200,251.0,190.0
+8eeadc36-ce39-47c1-bd76-d746b4c434ee,25,61,716.0,716.0,449,22,!fileLogDir,        if (!fileLogDir.isDirectory()) {,matched,200.39999999999998,180,301.6,200,251.0,190.0
+44cc5679-b12a-44b2-b5ca-a093a04645a1,25,296,497.0,497.0,449,22,!fileLogDir,        if (!fileLogDir.isDirectory()) {,matched,200.39999999999998,180,301.6,200,251.0,190.0
+dd39e1bd-b20b-4cc5-9b45-a4709aa11366,25,305,213.0,213.0,449,22,!fileLogDir,        if (!fileLogDir.isDirectory()) {,matched,200.39999999999998,180,301.6,200,251.0,190.0
+e8ba470c-18ed-4a06-a070-420c58236c8e,25,314,324.0,324.0,449,22,!fileLogDir,        if (!fileLogDir.isDirectory()) {,matched,200.39999999999998,180,301.6,200,251.0,190.0
+d0b935a7-bfe3-4083-b02c-1daf887dae0f,25,309,572.0,572.0,449,23,!fileLogDir,        if (!fileLogDir.isDirectory()) {,matched,200.39999999999998,180,301.6,200,251.0,190.0
+fcac8500-854c-415b-9d4a-550a235406c2,25,297,204.0,204.0,449,24,.,        if (!fileLogDir.isDirectory()) {,matched,301.6,180,310.79999999999995,200,306.2,190.0
+9d2146a5-ff22-417c-9529-0d70451944fa,25,423,267.0,267.0,449,24,.,        if (!fileLogDir.isDirectory()) {,matched,301.6,180,310.79999999999995,200,306.2,190.0
+3448f2cc-8479-4ec3-9768-d007ba501cba,25,422,334.0,334.0,449,26,isDirectory,        if (!fileLogDir.isDirectory()) {,matched,310.79999999999995,180,412.0,200,361.4,190.0
+e521d6c5-81c6-4fa8-8e1a-0af2ced8119d,25,194,548.0,548.0,449,27,isDirectory,        if (!fileLogDir.isDirectory()) {,matched,310.79999999999995,180,412.0,200,361.4,190.0
+7149226e-de08-47e4-8168-6debc360fe16,25,304,1555.0,1555.0,449,27,isDirectory,        if (!fileLogDir.isDirectory()) {,matched,310.79999999999995,180,412.0,200,361.4,190.0
+70fe25ca-3891-444e-87be-c771e002c884,25,412,162.0,162.0,449,27,isDirectory,        if (!fileLogDir.isDirectory()) {,matched,310.79999999999995,180,412.0,200,361.4,190.0
+432441a5-cbb3-460a-afa2-642fd42eba53,25,431,197.0,197.0,449,27,isDirectory,        if (!fileLogDir.isDirectory()) {,matched,310.79999999999995,180,412.0,200,361.4,190.0
+bdb7c109-312a-4a30-a507-b7de32dcf0a9,25,682,703.0,703.0,449,27,isDirectory,        if (!fileLogDir.isDirectory()) {,matched,310.79999999999995,180,412.0,200,361.4,190.0
+cf7fc6c2-fb83-42ad-8bdb-d926eecef24a,25,404,201.0,201.0,449,28,isDirectory,        if (!fileLogDir.isDirectory()) {,matched,310.79999999999995,180,412.0,200,361.4,190.0
+d98a21ef-335f-4cb7-9b86-1be8955e7fc7,25,434,137.0,137.0,449,28,isDirectory,        if (!fileLogDir.isDirectory()) {,matched,310.79999999999995,180,412.0,200,361.4,190.0
+52ab585d-4b0e-4de2-82d7-41b4779d0454,25,306,210.0,210.0,449,29,isDirectory,        if (!fileLogDir.isDirectory()) {,matched,310.79999999999995,180,412.0,200,361.4,190.0
+45ae4253-c154-414a-908a-8b80aba51854,25,311,163.0,163.0,449,29,isDirectory,        if (!fileLogDir.isDirectory()) {,matched,310.79999999999995,180,412.0,200,361.4,190.0
+dcab0a0c-8722-435f-bacb-72904bb746c4,25,324,268.0,268.0,449,29,isDirectory,        if (!fileLogDir.isDirectory()) {,matched,310.79999999999995,180,412.0,200,361.4,190.0
+d8785500-1f8c-407e-a234-977c32e3d7c1,25,255,88.0,88.0,449,30,isDirectory,        if (!fileLogDir.isDirectory()) {,matched,310.79999999999995,180,412.0,200,361.4,190.0
+368f8b10-a19c-4eae-8c7d-610e3811834c,25,280,110.0,110.0,449,31,isDirectory,        if (!fileLogDir.isDirectory()) {,matched,310.79999999999995,180,412.0,200,361.4,190.0
+a14a076e-a6e2-4d43-9c24-375f650f49a0,25,308,91.0,91.0,449,31,isDirectory,        if (!fileLogDir.isDirectory()) {,matched,310.79999999999995,180,412.0,200,361.4,190.0
+0d0b139a-bbef-4341-99e8-08cb31031179,25,315,227.0,227.0,449,31,isDirectory,        if (!fileLogDir.isDirectory()) {,matched,310.79999999999995,180,412.0,200,361.4,190.0
+d50090e9-7b1f-46cc-b056-7558a66ae46c,25,310,520.0,520.0,449,32,isDirectory,        if (!fileLogDir.isDirectory()) {,matched,310.79999999999995,180,412.0,200,361.4,190.0
+bf09fc4d-721c-4bc8-8204-de3996207de5,25,313,149.0,149.0,449,32,isDirectory,        if (!fileLogDir.isDirectory()) {,matched,310.79999999999995,180,412.0,200,361.4,190.0
+a33d212f-ae1a-4ac4-bf8e-70c7d9682bdc,25,623,146.0,146.0,449,33,isDirectory,        if (!fileLogDir.isDirectory()) {,matched,310.79999999999995,180,412.0,200,361.4,190.0
+76a9c05e-e5d7-42c4-83df-b2e29a411052,25,425,144.0,144.0,449,34,isDirectory,        if (!fileLogDir.isDirectory()) {,matched,310.79999999999995,180,412.0,200,361.4,190.0
+d96ca456-06d4-43c0-8f68-0a44048fb4ea,25,131,382.0,382.0,449,35,isDirectory,        if (!fileLogDir.isDirectory()) {,matched,310.79999999999995,180,412.0,200,361.4,190.0
+1893dd6f-558a-4e0c-abf5-176b020e56df,25,162,100.0,100.0,449,38,()),        if (!fileLogDir.isDirectory()) {,matched,412.0,180,439.59999999999997,200,425.79999999999995,190.0
+7616d51a-d66c-4290-94a5-bb2aa76997e7,25,691,509.0,509.0,449,39,WHITESPACE,        if (!fileLogDir.isDirectory()) {,approx_whitespace,448.79999999999995,180,458.0,200,453.4,190.0
+912ac70c-91a6-4c57-9fbb-7391ba0379d9,25,391,298.0,298.0,450,16,throw,"            throw new IllegalStateException(""log dir "" + logDir + "" exists but it is not a directory"");",matched,200.39999999999998,200,246.39999999999998,220,223.39999999999998,210.0
+9a28725a-c2d0-4edf-ab89-19675eef2712,25,243,246.0,246.0,450,17,throw,"            throw new IllegalStateException(""log dir "" + logDir + "" exists but it is not a directory"");",matched,200.39999999999998,200,246.39999999999998,220,223.39999999999998,210.0
+c4db6d10-ab0c-4cca-b46e-93089e63248e,25,130,204.0,204.0,450,20,new,"            throw new IllegalStateException(""log dir "" + logDir + "" exists but it is not a directory"");",matched,255.6,200,283.2,220,269.4,210.0
+69970280-72e6-4274-84d3-19071e78819e,25,129,378.0,378.0,450,21,new,"            throw new IllegalStateException(""log dir "" + logDir + "" exists but it is not a directory"");",matched,255.6,200,283.2,220,269.4,210.0
+40b85fd4-3e2c-41df-ac4e-37309bc2cbba,25,545,177.0,177.0,450,21,new,"            throw new IllegalStateException(""log dir "" + logDir + "" exists but it is not a directory"");",matched,255.6,200,283.2,220,269.4,210.0
+5263e7a2-959a-4ca8-9275-c1e044dfee29,25,436,420.0,420.0,450,23,IllegalStateException,"            throw new IllegalStateException(""log dir "" + logDir + "" exists but it is not a directory"");",matched,292.4,200,485.59999999999997,220,389.0,210.0
+7d5e5946-8312-48ef-80dc-a44ca040ae16,25,248,582.0,582.0,450,24,IllegalStateException,"            throw new IllegalStateException(""log dir "" + logDir + "" exists but it is not a directory"");",matched,292.4,200,485.59999999999997,220,389.0,210.0
+3a15bbde-47af-4ec6-8761-a58197705c2e,25,589,392.0,392.0,450,24,IllegalStateException,"            throw new IllegalStateException(""log dir "" + logDir + "" exists but it is not a directory"");",matched,292.4,200,485.59999999999997,220,389.0,210.0
+fc5000ea-4104-41fd-8216-d6c080b50305,25,60,671.0,671.0,450,25,IllegalStateException,"            throw new IllegalStateException(""log dir "" + logDir + "" exists but it is not a directory"");",matched,292.4,200,485.59999999999997,220,389.0,210.0
+c024c7a1-cd5e-42de-a2b1-9d94e2e34a73,25,279,130.0,130.0,450,25,IllegalStateException,"            throw new IllegalStateException(""log dir "" + logDir + "" exists but it is not a directory"");",matched,292.4,200,485.59999999999997,220,389.0,210.0
+8f62c036-3b73-43b7-bc38-41787ecee7e0,25,410,255.0,255.0,450,26,IllegalStateException,"            throw new IllegalStateException(""log dir "" + logDir + "" exists but it is not a directory"");",matched,292.4,200,485.59999999999997,220,389.0,210.0
+10ec630a-8f37-4f9d-9e82-f6375e2f8f1f,25,247,199.0,199.0,450,27,IllegalStateException,"            throw new IllegalStateException(""log dir "" + logDir + "" exists but it is not a directory"");",matched,292.4,200,485.59999999999997,220,389.0,210.0
+9c76737a-cca2-4039-abe5-e0068198928e,25,429,190.0,190.0,450,27,IllegalStateException,"            throw new IllegalStateException(""log dir "" + logDir + "" exists but it is not a directory"");",matched,292.4,200,485.59999999999997,220,389.0,210.0
+6672a1c8-3629-43c1-ae12-85c72d1b210a,25,673,538.0,538.0,450,27,IllegalStateException,"            throw new IllegalStateException(""log dir "" + logDir + "" exists but it is not a directory"");",matched,292.4,200,485.59999999999997,220,389.0,210.0
+30584d46-baf9-43c4-9041-2cf86e68c550,25,696,547.0,547.0,450,27,IllegalStateException,"            throw new IllegalStateException(""log dir "" + logDir + "" exists but it is not a directory"");",matched,292.4,200,485.59999999999997,220,389.0,210.0
+a686d78e-6e8e-44d3-80a6-3bf4c9921176,25,415,833.0,833.0,450,28,IllegalStateException,"            throw new IllegalStateException(""log dir "" + logDir + "" exists but it is not a directory"");",matched,292.4,200,485.59999999999997,220,389.0,210.0
+8cbc2e32-f715-4c0f-8a27-350f26ba84c1,25,590,680.0,680.0,450,29,IllegalStateException,"            throw new IllegalStateException(""log dir "" + logDir + "" exists but it is not a directory"");",matched,292.4,200,485.59999999999997,220,389.0,210.0
+4d864b4c-bd44-45b6-a073-72687997b10d,25,295,469.0,469.0,450,30,IllegalStateException,"            throw new IllegalStateException(""log dir "" + logDir + "" exists but it is not a directory"");",matched,292.4,200,485.59999999999997,220,389.0,210.0
+792cdc42-779e-44f5-8c61-e78d36350cf0,25,684,530.0,530.0,450,30,IllegalStateException,"            throw new IllegalStateException(""log dir "" + logDir + "" exists but it is not a directory"");",matched,292.4,200,485.59999999999997,220,389.0,210.0
+84e7ca0d-dd7d-4404-8e5f-964fdaa2e8a2,25,196,118.0,118.0,450,31,IllegalStateException,"            throw new IllegalStateException(""log dir "" + logDir + "" exists but it is not a directory"");",matched,292.4,200,485.59999999999997,220,389.0,210.0
+72053b9f-de7a-4504-be3f-2a16747904ca,25,479,127.0,127.0,450,34,IllegalStateException,"            throw new IllegalStateException(""log dir "" + logDir + "" exists but it is not a directory"");",matched,292.4,200,485.59999999999997,220,389.0,210.0
+356cfe62-ec3d-4a18-bf72-8553e76ea009,25,409,133.0,133.0,450,35,IllegalStateException,"            throw new IllegalStateException(""log dir "" + logDir + "" exists but it is not a directory"");",matched,292.4,200,485.59999999999997,220,389.0,210.0
+a515e9ae-3f96-4c5e-ae51-5393b156c13f,25,593,158.0,158.0,450,35,IllegalStateException,"            throw new IllegalStateException(""log dir "" + logDir + "" exists but it is not a directory"");",matched,292.4,200,485.59999999999997,220,389.0,210.0
+d8b1b09b-00c8-4470-8177-b966a1d53812,25,591,104.0,104.0,450,38,IllegalStateException,"            throw new IllegalStateException(""log dir "" + logDir + "" exists but it is not a directory"");",matched,292.4,200,485.59999999999997,220,389.0,210.0
+4820f4de-64a2-4d52-988f-1a108ba7a427,25,750,149.0,149.0,450,42,IllegalStateException,"            throw new IllegalStateException(""log dir "" + logDir + "" exists but it is not a directory"");",matched,292.4,200,485.59999999999997,220,389.0,210.0
+83c958b5-b1bf-43f1-b7a5-360273cc6f43,25,478,195.0,195.0,450,43,IllegalStateException,"            throw new IllegalStateException(""log dir "" + logDir + "" exists but it is not a directory"");",matched,292.4,200,485.59999999999997,220,389.0,210.0
+3ec9655f-361f-4771-ac0d-68b926cf7dc4,25,622,217.0,217.0,450,49,WHITESPACE,"            throw new IllegalStateException(""log dir "" + logDir + "" exists but it is not a directory"");",approx_whitespace,927.1999999999999,200,936.4,220,931.8,210.0
+682b3474-f924-4fd0-9452-df2ccb217920,25,427,109.0,109.0,450,53,WHITESPACE,"            throw new IllegalStateException(""log dir "" + logDir + "" exists but it is not a directory"");",approx_whitespace,991.5999999999999,200,1000.8,220,996.1999999999999,210.0
+ba93cb46-3f3f-4b2f-a6d1-eecedd42ede7,25,219,87.0,87.0,450,55,WHITESPACE,"            throw new IllegalStateException(""log dir "" + logDir + "" exists but it is not a directory"");",approx_whitespace,1028.4,200,1037.6,220,1033.0,210.0
+073e4484-3f9c-4416-be90-f08616b75f82,25,414,289.0,289.0,450,55,WHITESPACE,"            throw new IllegalStateException(""log dir "" + logDir + "" exists but it is not a directory"");",approx_whitespace,1028.4,200,1037.6,220,1033.0,210.0
+0cb9d684-e602-4a71-8507-a77612d2ff8c,25,751,102.0,102.0,450,55,WHITESPACE,"            throw new IllegalStateException(""log dir "" + logDir + "" exists but it is not a directory"");",approx_whitespace,1028.4,200,1037.6,220,1033.0,210.0
+ab66163b-ae1d-4e34-adbd-f1432c1a302e,25,428,173.0,173.0,450,61,logDir,"            throw new IllegalStateException(""log dir "" + logDir + "" exists but it is not a directory"");",matched,614.4,200,669.5999999999999,220,642.0,210.0
+31e36704-d07f-444c-986c-d74690f7a516,25,477,110.0,110.0,450,61,logDir,"            throw new IllegalStateException(""log dir "" + logDir + "" exists but it is not a directory"");",matched,614.4,200,669.5999999999999,220,642.0,210.0
+5e3aaa4e-5ca1-40a2-9dda-c2d6ef177cc2,25,476,317.0,317.0,450,77,but,"            throw new IllegalStateException(""log dir "" + logDir + "" exists but it is not a directory"");",matched,780.0,200,807.5999999999999,220,793.8,210.0
+3c6bdb3d-fadd-41e8-8099-0c193d90392b,25,817,177.0,177.0,450,77,but,"            throw new IllegalStateException(""log dir "" + logDir + "" exists but it is not a directory"");",matched,780.0,200,807.5999999999999,220,793.8,210.0
+11dde70c-1f7d-47b3-b3b9-0f64e24ead7b,25,641,401.0,401.0,452,11,logFileNames,"        logFileNames = fileLogDir.list((dir, name) -> name.startsWith(logFilePrefix));",matched,163.6,240,274.0,260,218.8,250.0
+1e31dcd8-d331-4549-addb-da1aa45715a8,25,376,340.0,340.0,452,13,logFileNames,"        logFileNames = fileLogDir.list((dir, name) -> name.startsWith(logFilePrefix));",matched,163.6,240,274.0,260,218.8,250.0
+93e3bc79-b4b8-4c18-9b74-a41b0de1c524,25,228,172.0,172.0,452,15,logFileNames,"        logFileNames = fileLogDir.list((dir, name) -> name.startsWith(logFilePrefix));",matched,163.6,240,274.0,260,218.8,250.0
+69b8b67f-cdde-458f-979e-d46bf03ce4e5,25,637,126.0,126.0,452,15,logFileNames,"        logFileNames = fileLogDir.list((dir, name) -> name.startsWith(logFilePrefix));",matched,163.6,240,274.0,260,218.8,250.0
+0bcc19e2-366d-463d-8e76-99f2ea4cf130,25,823,275.0,275.0,452,16,logFileNames,"        logFileNames = fileLogDir.list((dir, name) -> name.startsWith(logFilePrefix));",matched,163.6,240,274.0,260,218.8,250.0
+7df6f2ec-d587-4255-8dcc-335748376f7a,25,303,485.0,485.0,452,17,logFileNames,"        logFileNames = fileLogDir.list((dir, name) -> name.startsWith(logFilePrefix));",matched,163.6,240,274.0,260,218.8,250.0
+1a7f797f-600b-408f-96b7-d025bdf3daef,25,496,682.0,682.0,452,17,logFileNames,"        logFileNames = fileLogDir.list((dir, name) -> name.startsWith(logFilePrefix));",matched,163.6,240,274.0,260,218.8,250.0
+759baeab-b429-44a3-a822-e60bc90f40e7,25,588,285.0,285.0,452,17,logFileNames,"        logFileNames = fileLogDir.list((dir, name) -> name.startsWith(logFilePrefix));",matched,163.6,240,274.0,260,218.8,250.0
+273c7d78-da95-4250-bcc9-09ca9c8c1269,25,24,403.0,403.0,452,20,logFileNames,"        logFileNames = fileLogDir.list((dir, name) -> name.startsWith(logFilePrefix));",matched,163.6,240,274.0,260,218.8,250.0
+51acf44f-1e82-4a97-ab88-ce1171a88f52,25,680,129.0,129.0,452,20,logFileNames,"        logFileNames = fileLogDir.list((dir, name) -> name.startsWith(logFilePrefix));",matched,163.6,240,274.0,260,218.8,250.0
+e5b89a10-5610-4df3-a65f-7bd95468c7b7,25,222,166.0,166.0,452,21,WHITESPACE,"        logFileNames = fileLogDir.list((dir, name) -> name.startsWith(logFilePrefix));",approx_whitespace,412.0,240,421.2,260,416.6,250.0
+0bce58b6-6afa-4027-a23a-5c0377e3daf3,25,293,266.0,266.0,452,21,WHITESPACE,"        logFileNames = fileLogDir.list((dir, name) -> name.startsWith(logFilePrefix));",approx_whitespace,412.0,240,421.2,260,416.6,250.0
+ece95609-d5af-45bf-b455-ba54db7581a1,25,192,873.0,873.0,452,22,=,"        logFileNames = fileLogDir.list((dir, name) -> name.startsWith(logFilePrefix));",matched,283.2,240,292.4,260,287.79999999999995,250.0
+f6d4ef31-3746-49b0-af1d-89d75a72ee67,25,469,121.0,121.0,452,22,=,"        logFileNames = fileLogDir.list((dir, name) -> name.startsWith(logFilePrefix));",matched,283.2,240,292.4,260,287.79999999999995,250.0
+9d12ae45-0482-4b06-9f32-c6cde9d46e80,25,25,512.0,512.0,452,23,WHITESPACE,"        logFileNames = fileLogDir.list((dir, name) -> name.startsWith(logFilePrefix));",approx_whitespace,439.59999999999997,240,448.79999999999995,260,444.19999999999993,250.0
+1823a359-b8a1-40a1-bb80-a75b1b44c3a4,25,822,128.0,128.0,452,23,WHITESPACE,"        logFileNames = fileLogDir.list((dir, name) -> name.startsWith(logFilePrefix));",approx_whitespace,439.59999999999997,240,448.79999999999995,260,444.19999999999993,250.0
+52b613a8-a55c-44dc-8b74-cbc153cee160,25,227,129.0,129.0,452,24,fileLogDir,"        logFileNames = fileLogDir.list((dir, name) -> name.startsWith(logFilePrefix));",matched,301.6,240,393.59999999999997,260,347.6,250.0
+f1849bbb-918d-46b9-87f2-3127ffb45d29,25,642,241.0,241.0,452,24,fileLogDir,"        logFileNames = fileLogDir.list((dir, name) -> name.startsWith(logFilePrefix));",matched,301.6,240,393.59999999999997,260,347.6,250.0
+d33d93ce-0665-4644-94b4-3b77a5380b0c,25,302,364.0,364.0,452,25,fileLogDir,"        logFileNames = fileLogDir.list((dir, name) -> name.startsWith(logFilePrefix));",matched,301.6,240,393.59999999999997,260,347.6,250.0
+6160db53-b8d3-4251-9345-9f5d950e1672,25,497,590.0,590.0,452,26,fileLogDir,"        logFileNames = fileLogDir.list((dir, name) -> name.startsWith(logFilePrefix));",matched,301.6,240,393.59999999999997,260,347.6,250.0
+8e94578c-7719-438c-829a-186e72c51e6f,25,223,144.0,144.0,452,27,fileLogDir,"        logFileNames = fileLogDir.list((dir, name) -> name.startsWith(logFilePrefix));",matched,301.6,240,393.59999999999997,260,347.6,250.0
+796c276c-125d-46d3-8323-cb784eab8d0c,25,668,330.0,330.0,452,27,fileLogDir,"        logFileNames = fileLogDir.list((dir, name) -> name.startsWith(logFilePrefix));",matched,301.6,240,393.59999999999997,260,347.6,250.0
+3c822413-7c78-45a6-bf4d-f7fffd6f5b78,25,670,315.0,315.0,452,27,fileLogDir,"        logFileNames = fileLogDir.list((dir, name) -> name.startsWith(logFilePrefix));",matched,301.6,240,393.59999999999997,260,347.6,250.0
+1b7bd8ff-0fc9-4429-93c1-636bf018e588,25,356,130.0,130.0,452,28,fileLogDir,"        logFileNames = fileLogDir.list((dir, name) -> name.startsWith(logFilePrefix));",matched,301.6,240,393.59999999999997,260,347.6,250.0
+ce164d6b-9e75-455c-a006-a0dbf9bd7e53,25,472,166.0,166.0,452,28,fileLogDir,"        logFileNames = fileLogDir.list((dir, name) -> name.startsWith(logFilePrefix));",matched,301.6,240,393.59999999999997,260,347.6,250.0
+437b663d-a030-4bd3-83d3-0a076268e1db,25,562,199.0,199.0,452,28,fileLogDir,"        logFileNames = fileLogDir.list((dir, name) -> name.startsWith(logFilePrefix));",matched,301.6,240,393.59999999999997,260,347.6,250.0
+95ada2ff-9e2c-4dab-a0cd-7609f6abe0c5,25,618,151.0,151.0,452,28,fileLogDir,"        logFileNames = fileLogDir.list((dir, name) -> name.startsWith(logFilePrefix));",matched,301.6,240,393.59999999999997,260,347.6,250.0
+55eb1c21-4326-4917-b665-7e33a207cb55,25,632,1215.0,1215.0,452,28,fileLogDir,"        logFileNames = fileLogDir.list((dir, name) -> name.startsWith(logFilePrefix));",matched,301.6,240,393.59999999999997,260,347.6,250.0
+802c915b-218b-44f0-ade1-6b7020ffe85c,25,644,155.0,155.0,452,28,fileLogDir,"        logFileNames = fileLogDir.list((dir, name) -> name.startsWith(logFilePrefix));",matched,301.6,240,393.59999999999997,260,347.6,250.0
+6e061ce6-44a3-4fe3-a7c4-3f2a554274ff,25,649,586.0,586.0,452,28,fileLogDir,"        logFileNames = fileLogDir.list((dir, name) -> name.startsWith(logFilePrefix));",matched,301.6,240,393.59999999999997,260,347.6,250.0
+d2ebfb8c-4660-4f8c-ae3c-1319e7869f9a,25,625,204.0,204.0,452,29,fileLogDir,"        logFileNames = fileLogDir.list((dir, name) -> name.startsWith(logFilePrefix));",matched,301.6,240,393.59999999999997,260,347.6,250.0
+b81f14ca-6c83-484c-bfee-8eafc608fa69,25,226,123.0,123.0,452,30,fileLogDir,"        logFileNames = fileLogDir.list((dir, name) -> name.startsWith(logFilePrefix));",matched,301.6,240,393.59999999999997,260,347.6,250.0
+5748fc20-8328-4c8a-88f7-0d7074539ea5,25,621,147.0,147.0,452,30,fileLogDir,"        logFileNames = fileLogDir.list((dir, name) -> name.startsWith(logFilePrefix));",matched,301.6,240,393.59999999999997,260,347.6,250.0
+7cfcc8d2-328e-4ef4-a253-3bb8fadc68a4,25,636,237.0,237.0,452,30,fileLogDir,"        logFileNames = fileLogDir.list((dir, name) -> name.startsWith(logFilePrefix));",matched,301.6,240,393.59999999999997,260,347.6,250.0
+09db6da3-069d-4ab7-8b96-46fb01a1e5f5,25,343,165.0,165.0,452,31,fileLogDir,"        logFileNames = fileLogDir.list((dir, name) -> name.startsWith(logFilePrefix));",matched,301.6,240,393.59999999999997,260,347.6,250.0
+f5f3304b-9ede-448e-b3cf-4528effe3c92,25,583,409.0,409.0,452,31,fileLogDir,"        logFileNames = fileLogDir.list((dir, name) -> name.startsWith(logFilePrefix));",matched,301.6,240,393.59999999999997,260,347.6,250.0
+416cb536-a148-4e44-a649-e57f6db5c5b4,25,654,119.0,119.0,452,31,fileLogDir,"        logFileNames = fileLogDir.list((dir, name) -> name.startsWith(logFilePrefix));",matched,301.6,240,393.59999999999997,260,347.6,250.0
+e40ca370-dfeb-42a0-aa8f-c80bb61caab7,25,824,94.0,94.0,452,31,fileLogDir,"        logFileNames = fileLogDir.list((dir, name) -> name.startsWith(logFilePrefix));",matched,301.6,240,393.59999999999997,260,347.6,250.0
+dbaa90d1-5058-44ae-a3d0-faa0c6eef382,25,244,364.0,364.0,452,32,fileLogDir,"        logFileNames = fileLogDir.list((dir, name) -> name.startsWith(logFilePrefix));",matched,301.6,240,393.59999999999997,260,347.6,250.0
+3e1f0063-e26e-4328-896f-bbcf9df729b0,25,218,101.0,101.0,452,33,fileLogDir,"        logFileNames = fileLogDir.list((dir, name) -> name.startsWith(logFilePrefix));",matched,301.6,240,393.59999999999997,260,347.6,250.0
+3dd6baca-c4e0-4283-b70e-a6d63e25726b,25,694,218.0,218.0,452,33,fileLogDir,"        logFileNames = fileLogDir.list((dir, name) -> name.startsWith(logFilePrefix));",matched,301.6,240,393.59999999999997,260,347.6,250.0
+df71bdf3-bd0a-4c61-b80c-049a47e2830f,25,294,197.0,197.0,452,35,list,"        logFileNames = fileLogDir.list((dir, name) -> name.startsWith(logFilePrefix));",matched,402.79999999999995,240,439.59999999999997,260,421.19999999999993,250.0
+0554a8a6-9a0e-4aee-a69f-6d0ca0c6d258,25,650,236.0,236.0,452,35,list,"        logFileNames = fileLogDir.list((dir, name) -> name.startsWith(logFilePrefix));",matched,402.79999999999995,240,439.59999999999997,260,421.19999999999993,250.0
+b841a120-364a-4980-b5ce-31e4baf7ce96,25,669,184.0,184.0,452,35,list,"        logFileNames = fileLogDir.list((dir, name) -> name.startsWith(logFilePrefix));",matched,402.79999999999995,240,439.59999999999997,260,421.19999999999993,250.0
+2643434a-54b9-44b8-b4c7-2f8580cd0c9c,25,841,514.0,514.0,452,35,list,"        logFileNames = fileLogDir.list((dir, name) -> name.startsWith(logFilePrefix));",matched,402.79999999999995,240,439.59999999999997,260,421.19999999999993,250.0
+20362abd-9019-4e46-85d9-1a096d61f52e,25,498,340.0,340.0,452,36,list,"        logFileNames = fileLogDir.list((dir, name) -> name.startsWith(logFilePrefix));",matched,402.79999999999995,240,439.59999999999997,260,421.19999999999993,250.0
+c4a9d899-7315-4d48-a0b0-fb39f28ea37e,25,224,361.0,361.0,452,37,list,"        logFileNames = fileLogDir.list((dir, name) -> name.startsWith(logFilePrefix));",matched,402.79999999999995,240,439.59999999999997,260,421.19999999999993,250.0
+863ed9e7-ee77-46a4-8a30-0b57b3111045,25,378,168.0,168.0,452,37,list,"        logFileNames = fileLogDir.list((dir, name) -> name.startsWith(logFilePrefix));",matched,402.79999999999995,240,439.59999999999997,260,421.19999999999993,250.0
+3256e99e-0ddf-4bb2-94b9-036c95816b6c,25,416,86.0,86.0,452,37,list,"        logFileNames = fileLogDir.list((dir, name) -> name.startsWith(logFilePrefix));",matched,402.79999999999995,240,439.59999999999997,260,421.19999999999993,250.0
+675d6041-eec1-45e1-a1f3-4ae5d51b1c85,25,635,132.0,132.0,452,37,list,"        logFileNames = fileLogDir.list((dir, name) -> name.startsWith(logFilePrefix));",matched,402.79999999999995,240,439.59999999999997,260,421.19999999999993,250.0
+928006af-12b2-4344-a8bb-1406820f9f4d,25,640,87.0,87.0,452,37,list,"        logFileNames = fileLogDir.list((dir, name) -> name.startsWith(logFilePrefix));",matched,402.79999999999995,240,439.59999999999997,260,421.19999999999993,250.0
+2599f1b0-f005-478c-ba07-e9c3d2936b88,25,495,129.0,129.0,452,39,((,"        logFileNames = fileLogDir.list((dir, name) -> name.startsWith(logFilePrefix));",matched,439.59999999999997,240,458.0,260,448.79999999999995,250.0
+95345700-8163-4340-8529-1b8cee6b3108,25,617,129.0,129.0,452,39,((,"        logFileNames = fileLogDir.list((dir, name) -> name.startsWith(logFilePrefix));",matched,439.59999999999997,240,458.0,260,448.79999999999995,250.0
+f69b3482-e473-4ed5-9c3a-67d72a49d3a6,25,643,420.0,420.0,452,39,((,"        logFileNames = fileLogDir.list((dir, name) -> name.startsWith(logFilePrefix));",matched,439.59999999999997,240,458.0,260,448.79999999999995,250.0
+80088314-06c2-4964-8233-0adbc7d4c4d4,25,657,91.0,91.0,452,39,((,"        logFileNames = fileLogDir.list((dir, name) -> name.startsWith(logFilePrefix));",matched,439.59999999999997,240,458.0,260,448.79999999999995,250.0
+6ac05ebd-0561-49b0-84b5-9cb2ae61c483,25,790,264.0,264.0,452,39,((,"        logFileNames = fileLogDir.list((dir, name) -> name.startsWith(logFilePrefix));",matched,439.59999999999997,240,458.0,260,448.79999999999995,250.0
+29555869-8e45-4d17-bb51-9c2fa820db6a,25,571,178.0,178.0,452,40,((,"        logFileNames = fileLogDir.list((dir, name) -> name.startsWith(logFilePrefix));",matched,439.59999999999997,240,458.0,260,448.79999999999995,250.0
+8feb5e56-19d5-4f82-9df9-69cffeada3c1,25,221,217.0,217.0,452,41,dir,"        logFileNames = fileLogDir.list((dir, name) -> name.startsWith(logFilePrefix));",matched,366.0,240,393.59999999999997,260,379.79999999999995,250.0
+f3fc1cc6-ab27-4f48-83f4-f94192266cbf,25,473,123.0,123.0,452,42,dir,"        logFileNames = fileLogDir.list((dir, name) -> name.startsWith(logFilePrefix));",matched,366.0,240,393.59999999999997,260,379.79999999999995,250.0
+363ef039-d3ec-4400-a5f2-d6781fae4acb,25,675,401.0,401.0,452,42,dir,"        logFileNames = fileLogDir.list((dir, name) -> name.startsWith(logFilePrefix));",matched,366.0,240,393.59999999999997,260,379.79999999999995,250.0
+627c26d9-1743-45c9-bc04-4a1d1942b415,25,225,118.0,118.0,452,43,dir,"        logFileNames = fileLogDir.list((dir, name) -> name.startsWith(logFilePrefix));",matched,458.0,240,485.59999999999997,260,471.79999999999995,250.0
+a275cd12-6a74-40bf-b2b3-5d6e1ebcd54d,25,671,310.0,310.0,452,43,dir,"        logFileNames = fileLogDir.list((dir, name) -> name.startsWith(logFilePrefix));",matched,458.0,240,485.59999999999997,260,471.79999999999995,250.0
+a9506e59-cbb1-4afc-95ca-398fb4b14496,25,672,505.0,505.0,452,45,WHITESPACE,"        logFileNames = fileLogDir.list((dir, name) -> name.startsWith(logFilePrefix));",approx_whitespace,780.0,240,789.1999999999999,260,784.5999999999999,250.0
+a6cf9705-b0c9-4c4c-9f01-33a9f66dad5e,25,500,148.0,148.0,452,46,name,"        logFileNames = fileLogDir.list((dir, name) -> name.startsWith(logFilePrefix));",matched,228.0,240,264.79999999999995,260,246.39999999999998,250.0
+6b374118-b570-4673-87d4-3efb720f0f65,25,220,85.0,85.0,452,48,name,"        logFileNames = fileLogDir.list((dir, name) -> name.startsWith(logFilePrefix));",matched,228.0,240,264.79999999999995,260,246.39999999999998,250.0
+9e7f41bf-b4ab-49e0-bff8-8da33beea7f8,25,651,88.0,88.0,452,48,name,"        logFileNames = fileLogDir.list((dir, name) -> name.startsWith(logFilePrefix));",matched,228.0,240,264.79999999999995,260,246.39999999999998,250.0
+904488ac-93e8-492c-b5a8-933f9dc8f456,25,185,116.0,116.0,452,49,name,"        logFileNames = fileLogDir.list((dir, name) -> name.startsWith(logFilePrefix));",matched,503.99999999999994,240,540.8,260,522.4,250.0
+b1967a92-0a13-4c38-adc0-98eb8d852011,25,470,140.0,140.0,452,51,WHITESPACE,"        logFileNames = fileLogDir.list((dir, name) -> name.startsWith(logFilePrefix));",approx_whitespace,871.9999999999999,240,881.1999999999999,260,876.5999999999999,250.0
+31f29f23-9938-4e73-b8fc-988a596c4d02,25,474,129.0,129.0,452,54,gt;,"        logFileNames = fileLogDir.list((dir, name) -> name.startsWith(logFilePrefix));",matched,568.4,240,577.5999999999999,260,573.0,250.0
+5d80816b-14b1-4920-ab01-e496c0453b13,25,582,614.0,614.0,452,54,gt;,"        logFileNames = fileLogDir.list((dir, name) -> name.startsWith(logFilePrefix));",matched,568.4,240,577.5999999999999,260,573.0,250.0
+5a1f3182-2250-4124-8cff-352009fe6b0e,25,616,90.0,90.0,452,54,gt;,"        logFileNames = fileLogDir.list((dir, name) -> name.startsWith(logFilePrefix));",matched,568.4,240,577.5999999999999,260,573.0,250.0
+95a1e79c-8096-48c0-923c-4e63d88e89e0,25,620,152.0,152.0,452,54,gt;,"        logFileNames = fileLogDir.list((dir, name) -> name.startsWith(logFilePrefix));",matched,568.4,240,577.5999999999999,260,573.0,250.0
+7141863a-4d4b-4498-bdef-9221ce94d731,25,789,173.0,173.0,452,56,gt;,"        logFileNames = fileLogDir.list((dir, name) -> name.startsWith(logFilePrefix));",matched,568.4,240,577.5999999999999,260,573.0,250.0
+86513889-6536-4ee2-80b4-2fd4aae88424,25,586,296.0,296.0,452,58,name,"        logFileNames = fileLogDir.list((dir, name) -> name.startsWith(logFilePrefix));",matched,503.99999999999994,240,540.8,260,522.4,250.0
+e10fecf9-6e30-4179-a0f9-76ecb9df976f,25,579,444.0,444.0,452,59,name,"        logFileNames = fileLogDir.list((dir, name) -> name.startsWith(logFilePrefix));",matched,586.8,240,623.5999999999999,260,605.1999999999999,250.0
+457ead0d-b6db-4813-b305-1f74af3edf73,25,820,120.0,120.0,452,59,name,"        logFileNames = fileLogDir.list((dir, name) -> name.startsWith(logFilePrefix));",matched,586.8,240,623.5999999999999,260,605.1999999999999,250.0
+65907b5c-b727-4992-86f8-f9a72654b9bb,25,646,162.0,162.0,452,61,name,"        logFileNames = fileLogDir.list((dir, name) -> name.startsWith(logFilePrefix));",matched,586.8,240,623.5999999999999,260,605.1999999999999,250.0
+2d19ee3f-ef82-41bd-b8a7-3d0ab804a3f9,25,619,181.0,181.0,452,62,.,"        logFileNames = fileLogDir.list((dir, name) -> name.startsWith(logFilePrefix));",matched,393.59999999999997,240,402.79999999999995,260,398.19999999999993,250.0
+b92e7b83-5dc1-4048-b3e1-d5d0c72363e9,25,818,162.0,162.0,452,62,.,"        logFileNames = fileLogDir.list((dir, name) -> name.startsWith(logFilePrefix));",matched,393.59999999999997,240,402.79999999999995,260,398.19999999999993,250.0
+60704f84-f95c-464b-9e63-242201146ac4,25,639,189.0,189.0,452,63,startsWith,"        logFileNames = fileLogDir.list((dir, name) -> name.startsWith(logFilePrefix));",matched,632.8,240,724.8,260,678.8,250.0
+e49b04ac-25b5-4e02-86cf-0f53bffb144c,25,475,405.0,405.0,452,64,startsWith,"        logFileNames = fileLogDir.list((dir, name) -> name.startsWith(logFilePrefix));",matched,632.8,240,724.8,260,678.8,250.0
+d759a211-740a-4e88-b252-1305f620a122,25,584,263.0,263.0,452,64,startsWith,"        logFileNames = fileLogDir.list((dir, name) -> name.startsWith(logFilePrefix));",matched,632.8,240,724.8,260,678.8,250.0
+87807186-17d2-46ac-9e5e-97698b176b29,25,501,189.0,189.0,452,65,startsWith,"        logFileNames = fileLogDir.list((dir, name) -> name.startsWith(logFilePrefix));",matched,632.8,240,724.8,260,678.8,250.0
+c7a5d7d3-44f8-4c2a-bc6e-7b83dc9c296d,25,578,297.0,297.0,452,66,startsWith,"        logFileNames = fileLogDir.list((dir, name) -> name.startsWith(logFilePrefix));",matched,632.8,240,724.8,260,678.8,250.0
+83d9afbc-7353-4124-848b-d0b7f5569d4a,25,580,208.0,208.0,452,66,startsWith,"        logFileNames = fileLogDir.list((dir, name) -> name.startsWith(logFilePrefix));",matched,632.8,240,724.8,260,678.8,250.0
+8cad2aca-3080-4608-9004-5af6b9ab03c6,25,645,169.0,169.0,452,69,startsWith,"        logFileNames = fileLogDir.list((dir, name) -> name.startsWith(logFilePrefix));",matched,632.8,240,724.8,260,678.8,250.0
+542861df-3004-430b-8051-b538d1999d43,25,585,158.0,158.0,452,70,startsWith,"        logFileNames = fileLogDir.list((dir, name) -> name.startsWith(logFilePrefix));",matched,632.8,240,724.8,260,678.8,250.0
+b82652b5-a2c4-4699-b39a-cb0572ae0071,25,652,271.0,271.0,452,70,startsWith,"        logFileNames = fileLogDir.list((dir, name) -> name.startsWith(logFilePrefix));",matched,632.8,240,724.8,260,678.8,250.0
+d066907f-69e1-49bd-9c7d-bad1b647bd16,25,648,156.0,156.0,452,73,(,"        logFileNames = fileLogDir.list((dir, name) -> name.startsWith(logFilePrefix));",matched,439.59999999999997,240,448.79999999999995,260,444.19999999999993,250.0
+f1505637-98ec-4006-ab0d-2b6eefac7460,25,494,160.0,160.0,452,74,logFilePrefix,"        logFileNames = fileLogDir.list((dir, name) -> name.startsWith(logFilePrefix));",matched,734.0,240,853.5999999999999,260,793.8,250.0
+9ed2644d-62b9-4597-8821-f6245f8f7e85,25,653,97.0,97.0,452,75,logFilePrefix,"        logFileNames = fileLogDir.list((dir, name) -> name.startsWith(logFilePrefix));",matched,734.0,240,853.5999999999999,260,793.8,250.0
+1ce94308-ec4c-497a-8798-bea468b52170,25,791,141.0,141.0,452,75,logFilePrefix,"        logFileNames = fileLogDir.list((dir, name) -> name.startsWith(logFilePrefix));",matched,734.0,240,853.5999999999999,260,793.8,250.0
+2009d325-b153-4ea9-b626-fc1b5105dd15,25,502,163.0,163.0,452,77,logFilePrefix,"        logFileNames = fileLogDir.list((dir, name) -> name.startsWith(logFilePrefix));",matched,734.0,240,853.5999999999999,260,793.8,250.0
+31131888-d5f0-438e-8eda-758ad9ef0143,25,647,157.0,157.0,452,79,logFilePrefix,"        logFileNames = fileLogDir.list((dir, name) -> name.startsWith(logFilePrefix));",matched,734.0,240,853.5999999999999,260,793.8,250.0
+d4e89969-54aa-41ae-b3bf-0f95ff7768fa,25,581,203.0,203.0,452,80,logFilePrefix,"        logFileNames = fileLogDir.list((dir, name) -> name.startsWith(logFilePrefix));",matched,734.0,240,853.5999999999999,260,793.8,250.0
+3c665374-ffaf-4967-b408-00ff4a17d876,25,676,127.0,127.0,452,80,logFilePrefix,"        logFileNames = fileLogDir.list((dir, name) -> name.startsWith(logFilePrefix));",matched,734.0,240,853.5999999999999,260,793.8,250.0
+51351f9c-90db-47d2-904b-d05a7871546a,25,655,378.0,378.0,453,15,logFileNames,        if (logFileNames == null) {,matched,200.39999999999998,260,310.79999999999995,280,255.59999999999997,270.0
+b70788f8-3e58-4fb1-adc5-bc249b827d0d,25,865,155.0,155.0,453,15,logFileNames,        if (logFileNames == null) {,matched,200.39999999999998,260,310.79999999999995,280,255.59999999999997,270.0
+a3a3c9f5-9449-4bf6-b5f4-c524ea35a0db,25,299,744.0,744.0,453,16,logFileNames,        if (logFileNames == null) {,matched,200.39999999999998,260,310.79999999999995,280,255.59999999999997,270.0
+460bd5f7-9ced-44eb-ba19-7017fc990360,25,499,671.0,671.0,453,16,logFileNames,        if (logFileNames == null) {,matched,200.39999999999998,260,310.79999999999995,280,255.59999999999997,270.0
+5ffc697f-b518-47e1-b101-3901d02ad84b,25,200,161.0,161.0,453,18,logFileNames,        if (logFileNames == null) {,matched,200.39999999999998,260,310.79999999999995,280,255.59999999999997,270.0
+81bedaa2-044b-4b3d-9422-a1b98aa9eed2,25,420,444.0,444.0,453,18,logFileNames,        if (logFileNames == null) {,matched,200.39999999999998,260,310.79999999999995,280,255.59999999999997,270.0
+7e7d413f-e0f0-4029-a5ee-6fd82c48a969,25,667,616.0,616.0,453,18,logFileNames,        if (logFileNames == null) {,matched,200.39999999999998,260,310.79999999999995,280,255.59999999999997,270.0
+18b16f4a-cd47-45d7-8023-3e7b86bacacc,25,216,1242.0,1242.0,453,19,logFileNames,        if (logFileNames == null) {,matched,200.39999999999998,260,310.79999999999995,280,255.59999999999997,270.0
+da89146c-83f9-4d13-8e3d-6e400df3967e,25,289,147.0,147.0,453,19,logFileNames,        if (logFileNames == null) {,matched,200.39999999999998,260,310.79999999999995,280,255.59999999999997,270.0
+6141aa81-d668-4040-9836-9fb0613695e4,25,626,277.0,277.0,453,19,logFileNames,        if (logFileNames == null) {,matched,200.39999999999998,260,310.79999999999995,280,255.59999999999997,270.0
+b3870805-1d0a-4971-a7a6-bfe7b6ffa8b3,25,418,488.0,488.0,453,21,logFileNames,        if (logFileNames == null) {,matched,200.39999999999998,260,310.79999999999995,280,255.59999999999997,270.0
+e5e45030-fd61-4eab-939b-e3950bd42927,25,471,251.0,251.0,453,21,logFileNames,        if (logFileNames == null) {,matched,200.39999999999998,260,310.79999999999995,280,255.59999999999997,270.0
+01b54361-ab04-4984-afec-74f2a004c6bf,25,569,757.0,757.0,453,21,logFileNames,        if (logFileNames == null) {,matched,200.39999999999998,260,310.79999999999995,280,255.59999999999997,270.0
+b80ca4a5-ea34-455f-8b93-be58671e1cd9,25,758,630.0,630.0,453,21,logFileNames,        if (logFileNames == null) {,matched,200.39999999999998,260,310.79999999999995,280,255.59999999999997,270.0
+3d796707-3541-4e4e-8004-b323a78091ad,25,564,151.0,151.0,453,22,logFileNames,        if (logFileNames == null) {,matched,200.39999999999998,260,310.79999999999995,280,255.59999999999997,270.0
+f9252534-c62f-4ca9-9dbd-25df952d52d1,25,249,103.0,103.0,453,24,logFileNames,        if (logFileNames == null) {,matched,200.39999999999998,260,310.79999999999995,280,255.59999999999997,270.0
+9a89c234-57a8-4345-99dc-89f47602f12b,25,298,397.0,397.0,453,24,logFileNames,        if (logFileNames == null) {,matched,200.39999999999998,260,310.79999999999995,280,255.59999999999997,270.0
+46459321-7623-4168-9847-210abdb52d77,25,366,268.0,268.0,453,25,WHITESPACE,        if (logFileNames == null) {,approx_whitespace,366.0,260,375.2,280,370.6,270.0
+ae885c81-d350-4bf2-94d4-999ba8b92022,25,377,1087.0,1087.0,453,25,WHITESPACE,        if (logFileNames == null) {,approx_whitespace,366.0,260,375.2,280,370.6,270.0
+cb9c0e78-c85a-4eae-b29a-5b2a1d71c13a,25,565,117.0,117.0,453,25,WHITESPACE,        if (logFileNames == null) {,approx_whitespace,366.0,260,375.2,280,370.6,270.0
+2dc331ef-5770-4c4c-b6c7-fd5bbe3725cd,25,587,406.0,406.0,453,25,WHITESPACE,        if (logFileNames == null) {,approx_whitespace,366.0,260,375.2,280,370.6,270.0
+616beb7d-3f79-4804-bc40-8bf4bad67862,25,752,439.0,439.0,453,25,WHITESPACE,        if (logFileNames == null) {,approx_whitespace,366.0,260,375.2,280,370.6,270.0
+eab1c038-3594-48ce-8d8d-d4b19beb9698,25,288,963.0,963.0,453,27,==,        if (logFileNames == null) {,matched,320.0,260,338.4,280,329.2,270.0
+fd9ced26-d494-425c-af0a-c5693353382f,25,421,155.0,155.0,453,27,==,        if (logFileNames == null) {,matched,320.0,260,338.4,280,329.2,270.0
+cd44731b-a51a-416e-baf5-c90d1a36781d,25,819,393.0,393.0,453,27,==,        if (logFileNames == null) {,matched,320.0,260,338.4,280,329.2,270.0
+cb8b789e-3598-48ce-9b11-b8a24ee76b84,25,186,418.0,418.0,453,28,WHITESPACE,        if (logFileNames == null) {,approx_whitespace,402.79999999999995,260,412.0,280,407.4,270.0
+acee8ce2-ddfa-4e3e-b177-2a6d61a29cc6,25,417,427.0,427.0,453,28,WHITESPACE,        if (logFileNames == null) {,approx_whitespace,402.79999999999995,260,412.0,280,407.4,270.0
+03f50337-278b-4617-985e-7e16fab23953,25,570,150.0,150.0,453,33,),        if (logFileNames == null) {,matched,384.4,260,393.59999999999997,280,389.0,270.0
+7dfd5412-d478-4eee-939c-ac2c70e9f82f,25,656,119.0,119.0,453,33,),        if (logFileNames == null) {,matched,384.4,260,393.59999999999997,280,389.0,270.0
+533f962d-1aff-422e-b207-7dd65b488cd1,25,638,340.0,340.0,453,35,{,        if (logFileNames == null) {,matched,402.79999999999995,260,412.0,280,407.4,270.0
+e0a18030-fd7f-4bf6-b275-15749e5ce2f3,25,392,350.0,350.0,454,15,throw,"            throw new IllegalStateException(""listing of log dir ("" + logDir + "") files returned null. """,matched,200.39999999999998,280,246.39999999999998,300,223.39999999999998,290.0
+4f66eb3f-3d99-40d8-82ac-0320c58da6a6,25,286,384.0,384.0,454,19,new,"            throw new IllegalStateException(""listing of log dir ("" + logDir + "") files returned null. """,matched,255.6,280,283.2,300,269.4,290.0
+2d2d4051-b506-4030-afd3-d160813addd4,25,336,614.0,614.0,454,22,WHITESPACE,"            throw new IllegalStateException(""listing of log dir ("" + logDir + "") files returned null. """,approx_whitespace,1028.4,280,1037.6,300,1033.0,290.0
+51c5d5fa-8b53-4340-8b43-fdaf522de0bf,25,466,343.0,343.0,454,23,IllegalStateException,"            throw new IllegalStateException(""listing of log dir ("" + logDir + "") files returned null. """,matched,292.4,280,485.59999999999997,300,389.0,290.0
+51e66241-a11a-4241-a6bb-24db02c0d436,25,770,306.0,306.0,454,23,IllegalStateException,"            throw new IllegalStateException(""listing of log dir ("" + logDir + "") files returned null. """,matched,292.4,280,485.59999999999997,300,389.0,290.0
+1fa4fd56-8976-441d-912c-3357254d387e,25,658,176.0,176.0,454,26,IllegalStateException,"            throw new IllegalStateException(""listing of log dir ("" + logDir + "") files returned null. """,matched,292.4,280,485.59999999999997,300,389.0,290.0
+d0d8d472-b106-4dbb-9b0c-8d593998983e,25,439,372.0,372.0,454,28,IllegalStateException,"            throw new IllegalStateException(""listing of log dir ("" + logDir + "") files returned null. """,matched,292.4,280,485.59999999999997,300,389.0,290.0
+92b83dc9-34d9-415c-aa2f-5b54c7988f6f,25,659,334.0,334.0,454,28,IllegalStateException,"            throw new IllegalStateException(""listing of log dir ("" + logDir + "") files returned null. """,matched,292.4,280,485.59999999999997,300,389.0,290.0
+5c5fa74b-9891-4835-820b-e77a1171fa0e,25,757,271.0,271.0,454,28,IllegalStateException,"            throw new IllegalStateException(""listing of log dir ("" + logDir + "") files returned null. """,matched,292.4,280,485.59999999999997,300,389.0,290.0
+eef5aaec-0306-42f4-8e9f-ef4e05286333,25,99,177.0,177.0,454,29,IllegalStateException,"            throw new IllegalStateException(""listing of log dir ("" + logDir + "") files returned null. """,matched,292.4,280,485.59999999999997,300,389.0,290.0
+088c9ef1-2d94-483a-b842-a6508641bee1,25,285,161.0,161.0,454,29,IllegalStateException,"            throw new IllegalStateException(""listing of log dir ("" + logDir + "") files returned null. """,matched,292.4,280,485.59999999999997,300,389.0,290.0
+ef6be024-40f8-41df-acc6-d91c727bda15,25,633,154.0,154.0,454,29,IllegalStateException,"            throw new IllegalStateException(""listing of log dir ("" + logDir + "") files returned null. """,matched,292.4,280,485.59999999999997,300,389.0,290.0
+054eb040-2c4e-45c3-aa10-e621f9a0010b,25,184,411.0,411.0,454,30,IllegalStateException,"            throw new IllegalStateException(""listing of log dir ("" + logDir + "") files returned null. """,matched,292.4,280,485.59999999999997,300,389.0,290.0
+51d1c049-bde5-4ca5-b6e3-8aded847348d,25,721,530.0,530.0,454,30,IllegalStateException,"            throw new IllegalStateException(""listing of log dir ("" + logDir + "") files returned null. """,matched,292.4,280,485.59999999999997,300,389.0,290.0
+8acf8487-fb45-48ec-bedf-955fcceac12c,25,843,213.0,213.0,454,30,IllegalStateException,"            throw new IllegalStateException(""listing of log dir ("" + logDir + "") files returned null. """,matched,292.4,280,485.59999999999997,300,389.0,290.0
+bd85de4f-4c93-4927-aa5d-af11765c2e9e,25,601,427.0,427.0,454,31,IllegalStateException,"            throw new IllegalStateException(""listing of log dir ("" + logDir + "") files returned null. """,matched,292.4,280,485.59999999999997,300,389.0,290.0
+1266a7a6-a0e9-4551-8ed3-f7139ee84af5,25,23,340.0,340.0,454,33,IllegalStateException,"            throw new IllegalStateException(""listing of log dir ("" + logDir + "") files returned null. """,matched,292.4,280,485.59999999999997,300,389.0,290.0
+34d48f7f-9f92-4166-8fed-f062d6a393ea,25,187,321.0,321.0,454,33,IllegalStateException,"            throw new IllegalStateException(""listing of log dir ("" + logDir + "") files returned null. """,matched,292.4,280,485.59999999999997,300,389.0,290.0
+b1a74a37-4650-41a8-983a-c0a9faf6c486,25,191,156.0,156.0,454,34,IllegalStateException,"            throw new IllegalStateException(""listing of log dir ("" + logDir + "") files returned null. """,matched,292.4,280,485.59999999999997,300,389.0,290.0
+f0f90e83-1f79-4121-af3e-f11ea1910462,25,438,509.0,509.0,454,34,IllegalStateException,"            throw new IllegalStateException(""listing of log dir ("" + logDir + "") files returned null. """,matched,292.4,280,485.59999999999997,300,389.0,290.0
+5c2bbe3f-f707-4d79-a25e-b8d4d95691f4,25,816,261.0,261.0,454,41,IllegalStateException,"            throw new IllegalStateException(""listing of log dir ("" + logDir + "") files returned null. """,matched,292.4,280,485.59999999999997,300,389.0,290.0
+af3c6b51-0391-44cf-9071-2486515c4b44,25,189,295.0,295.0,454,61,dir,"            throw new IllegalStateException(""listing of log dir ("" + logDir + "") files returned null. """,matched,642.0,280,669.5999999999999,300,655.8,290.0
+4183ee57-a1de-46d6-898e-3fb51bfbc4a4,25,482,150.0,150.0,454,61,dir,"            throw new IllegalStateException(""listing of log dir ("" + logDir + "") files returned null. """,matched,642.0,280,669.5999999999999,300,655.8,290.0
+fe6bc8ca-47d7-4a98-b0f9-a3330b01eb83,25,342,553.0,553.0,454,68,+,"            throw new IllegalStateException(""listing of log dir ("" + logDir + "") files returned null. """,matched,706.4,280,715.5999999999999,300,711.0,290.0
+ec84bd40-9551-482d-9634-8fd9f0550d5d,25,842,181.0,181.0,454,72,logDir,"            throw new IllegalStateException(""listing of log dir ("" + logDir + "") files returned null. """,matched,724.8,280,780.0,300,752.4,290.0
+faf428cc-3b9d-47f4-b394-747dc6236f64,25,600,117.0,117.0,454,73,logDir,"            throw new IllegalStateException(""listing of log dir ("" + logDir + "") files returned null. """,matched,724.8,280,780.0,300,752.4,290.0
+fccf8817-ebcd-4079-9605-87d74254fedd,25,788,691.0,691.0,454,73,logDir,"            throw new IllegalStateException(""listing of log dir ("" + logDir + "") files returned null. """,matched,724.8,280,780.0,300,752.4,290.0
+ba845419-fdb1-4f92-ba86-12871b258eb7,25,484,261.0,261.0,454,90,returned,"            throw new IllegalStateException(""listing of log dir ("" + logDir + "") files returned null. """,matched,890.4,280,963.9999999999999,300,927.1999999999999,290.0
+7fdba952-ef04-43cf-a52e-5a243cb4f226,25,442,284.0,284.0,455,17,WHITESPACE,"                    + ""Either an IO error occurred or the dir was just deleted by another process/thread"");",approx_whitespace,320.0,300,329.2,320,324.6,310.0
+75dffa90-5bcd-44b8-9e93-e3d5ac2b1449,25,202,347.0,347.0,455,19,WHITESPACE,"                    + ""Either an IO error occurred or the dir was just deleted by another process/thread"");",approx_whitespace,347.59999999999997,300,356.79999999999995,320,352.19999999999993,310.0
+14239cf8-1df3-4af6-93a4-b34d6333870e,25,863,211.0,211.0,455,20,WHITESPACE,"                    + ""Either an IO error occurred or the dir was just deleted by another process/thread"");",approx_whitespace,366.0,300,375.2,320,370.6,310.0
+c64fbfd3-492c-41bc-ab5b-e4a21a53f7fa,25,488,216.0,216.0,455,30,WHITESPACE,"                    + ""Either an IO error occurred or the dir was just deleted by another process/thread"");",approx_whitespace,503.99999999999994,300,513.2,320,508.6,310.0
+716ca8c2-2863-46b8-a06a-adef90cd7973,25,440,168.0,168.0,455,31,an,"                    + ""Either an IO error occurred or the dir was just deleted by another process/thread"");",matched,366.0,300,384.4,320,375.2,310.0
+847ee40a-99d5-401e-96b7-ed6ed094c717,25,628,126.0,126.0,455,32,an,"                    + ""Either an IO error occurred or the dir was just deleted by another process/thread"");",matched,844.4,300,862.8,320,853.5999999999999,310.0
+46c6c8ca-baff-43e7-abc0-786bfd8a40ae,25,141,144.0,144.0,455,33,WHITESPACE,"                    + ""Either an IO error occurred or the dir was just deleted by another process/thread"");",approx_whitespace,540.8,300,550.0,320,545.4,310.0
+25310d4b-0b52-4bb5-96db-54e0340c998c,25,756,143.0,143.0,455,35,IO,"                    + ""Either an IO error occurred or the dir was just deleted by another process/thread"");",matched,393.59999999999997,300,412.0,320,402.79999999999995,310.0
+475b63f0-6bc7-4298-94e5-5cca527723bb,25,365,424.0,424.0,455,36,WHITESPACE,"                    + ""Either an IO error occurred or the dir was just deleted by another process/thread"");",approx_whitespace,586.8,300,596.0,320,591.4,310.0
+2b7ba445-39a3-49f7-9987-2fe14580a3c1,25,487,173.0,173.0,455,37,error,"                    + ""Either an IO error occurred or the dir was just deleted by another process/thread"");",matched,421.2,300,467.2,320,444.2,310.0
+18581024-99e6-4a71-a94f-3698abfa3bf2,25,880,654.0,654.0,455,37,error,"                    + ""Either an IO error occurred or the dir was just deleted by another process/thread"");",matched,421.2,300,467.2,320,444.2,310.0
+b20a281e-b39e-41af-9139-d278f56e92b5,25,98,151.0,151.0,455,39,error,"                    + ""Either an IO error occurred or the dir was just deleted by another process/thread"");",matched,421.2,300,467.2,320,444.2,310.0
+dd0751bb-5a76-4ec7-8a2b-ac861603fd81,25,379,84.0,84.0,455,40,error,"                    + ""Either an IO error occurred or the dir was just deleted by another process/thread"");",matched,421.2,300,467.2,320,444.2,310.0
+2359f33a-d505-445d-9133-ecc65e637e67,25,489,158.0,158.0,455,42,WHITESPACE,"                    + ""Either an IO error occurred or the dir was just deleted by another process/thread"");",approx_whitespace,669.5999999999999,300,678.8,320,674.1999999999999,310.0
+8671d813-fba6-4bcd-92b7-413ebe72e7f1,25,665,157.0,157.0,455,42,WHITESPACE,"                    + ""Either an IO error occurred or the dir was just deleted by another process/thread"");",approx_whitespace,669.5999999999999,300,678.8,320,674.1999999999999,310.0
+14d4ee1c-5ee9-4059-bd70-a6eadebe1ce7,25,866,318.0,318.0,455,42,WHITESPACE,"                    + ""Either an IO error occurred or the dir was just deleted by another process/thread"");",approx_whitespace,669.5999999999999,300,678.8,320,674.1999999999999,310.0
+a88ab49b-d3cd-43ca-8115-ec05f493b00d,25,663,124.0,124.0,455,43,occurred,"                    + ""Either an IO error occurred or the dir was just deleted by another process/thread"");",matched,476.4,300,550.0,320,513.2,310.0
+8b269e3a-d0f5-49cc-b541-94e93bc0e71a,25,465,367.0,367.0,455,45,occurred,"                    + ""Either an IO error occurred or the dir was just deleted by another process/thread"");",matched,476.4,300,550.0,320,513.2,310.0
+3d61b62d-04f2-4731-a094-ed8c5a688ee5,25,627,193.0,193.0,455,45,occurred,"                    + ""Either an IO error occurred or the dir was just deleted by another process/thread"");",matched,476.4,300,550.0,320,513.2,310.0
+1cec439c-46c4-4ffd-b471-15aa1c3978c9,25,486,144.0,144.0,455,47,occurred,"                    + ""Either an IO error occurred or the dir was just deleted by another process/thread"");",matched,476.4,300,550.0,320,513.2,310.0
+e0624735-cfe7-430e-9e7c-51e87bb79cc4,25,864,353.0,353.0,455,47,occurred,"                    + ""Either an IO error occurred or the dir was just deleted by another process/thread"");",matched,476.4,300,550.0,320,513.2,310.0
+52c8573e-b604-48aa-bb54-35a59e3e7a17,25,490,129.0,129.0,455,50,occurred,"                    + ""Either an IO error occurred or the dir was just deleted by another process/thread"");",matched,476.4,300,550.0,320,513.2,310.0
+5dcce9b5-818f-48b6-886c-6308f1dbf0a8,25,183,439.0,439.0,455,51,WHITESPACE,"                    + ""Either an IO error occurred or the dir was just deleted by another process/thread"");",approx_whitespace,789.1999999999999,300,798.4,320,793.8,310.0
+bb3055b5-f048-4d0b-aa50-d63eeddea728,25,485,142.0,142.0,455,60,dir,"                    + ""Either an IO error occurred or the dir was just deleted by another process/thread"");",matched,623.5999999999999,300,651.1999999999999,320,637.3999999999999,310.0
+39153f46-cf94-42ef-8449-920923bdbc72,25,491,198.0,198.0,455,62,WHITESPACE,"                    + ""Either an IO error occurred or the dir was just deleted by another process/thread"");",approx_whitespace,945.5999999999999,300,954.8,320,950.1999999999999,310.0
+559b7390-cf83-4607-b84d-d390cee8df14,25,661,282.0,282.0,455,63,was,"                    + ""Either an IO error occurred or the dir was just deleted by another process/thread"");",matched,660.4,300,688.0,320,674.2,310.0
+a6b11b04-df1b-4f15-b3b9-966fa29485c6,25,577,143.0,143.0,455,71,WHITESPACE,"                    + ""Either an IO error occurred or the dir was just deleted by another process/thread"");",approx_whitespace,1065.1999999999998,300,1074.4,320,1069.8,310.0
+8eb6b13a-ca3e-4706-962b-6ff01c5ffff3,25,492,316.0,316.0,455,80,by,"                    + ""Either an IO error occurred or the dir was just deleted by another process/thread"");",matched,816.8,300,835.1999999999999,320,826.0,310.0
+44fce063-35b9-4a80-919d-871822b12728,25,190,152.0,152.0,455,84,another,"                    + ""Either an IO error occurred or the dir was just deleted by another process/thread"");",matched,844.4,300,908.8,320,876.5999999999999,310.0
+88c23eb8-7ea2-4ec2-a311-0c004c98a0d5,25,483,120.0,120.0,455,85,another,"                    + ""Either an IO error occurred or the dir was just deleted by another process/thread"");",matched,844.4,300,908.8,320,876.5999999999999,310.0
+2973a357-84b8-4d82-be35-05d6c040b4d6,25,662,281.0,281.0,455,85,another,"                    + ""Either an IO error occurred or the dir was just deleted by another process/thread"");",matched,844.4,300,908.8,320,876.5999999999999,310.0
+459f61b2-7a0a-4ea3-8548-42dcd28a6a3f,25,493,392.0,392.0,455,92,process,"                    + ""Either an IO error occurred or the dir was just deleted by another process/thread"");",matched,917.9999999999999,300,982.4,320,950.1999999999999,310.0
+4024f301-321d-4855-8ecc-4eacad638b88,25,397,738.0,738.0,457,15,logFileNames,        if (logFileNames.length == 0) {,matched,200.39999999999998,340,310.79999999999995,360,255.59999999999997,350.0
+70069509-9da6-4db5-ae9c-9ae5a7e56baa,25,242,599.0,599.0,457,16,logFileNames,        if (logFileNames.length == 0) {,matched,200.39999999999998,340,310.79999999999995,360,255.59999999999997,350.0
+a142b317-7059-4d31-8fb9-6bb1bb2483cc,25,507,786.0,786.0,457,17,logFileNames,        if (logFileNames.length == 0) {,matched,200.39999999999998,340,310.79999999999995,360,255.59999999999997,350.0
+d140a508-ad10-4eea-a934-b9034790efec,25,213,1277.0,1277.0,457,18,logFileNames,        if (logFileNames.length == 0) {,matched,200.39999999999998,340,310.79999999999995,360,255.59999999999997,350.0
+a96c443b-0c64-449f-a959-76969ceaea6b,25,300,170.0,170.0,457,18,logFileNames,        if (logFileNames.length == 0) {,matched,200.39999999999998,340,310.79999999999995,360,255.59999999999997,350.0
+be05623d-3816-4018-aa5f-a5e6a91b612a,25,368,326.0,326.0,457,19,logFileNames,        if (logFileNames.length == 0) {,matched,200.39999999999998,340,310.79999999999995,360,255.59999999999997,350.0
+63b30299-0ee4-49c5-b3c4-1b3c5a910b4c,25,509,236.0,236.0,457,19,logFileNames,        if (logFileNames.length == 0) {,matched,200.39999999999998,340,310.79999999999995,360,255.59999999999997,350.0
+feeceb07-4cc4-4881-9a46-1e186bb3180d,25,14,303.0,303.0,457,20,logFileNames,        if (logFileNames.length == 0) {,matched,200.39999999999998,340,310.79999999999995,360,255.59999999999997,350.0
+967baada-835a-45f1-a147-c522eeb8845d,25,171,724.0,724.0,457,20,logFileNames,        if (logFileNames.length == 0) {,matched,200.39999999999998,340,310.79999999999995,360,255.59999999999997,350.0
+7dc4250d-7781-462f-94ff-fdb201a2867f,25,595,311.0,311.0,457,20,logFileNames,        if (logFileNames.length == 0) {,matched,200.39999999999998,340,310.79999999999995,360,255.59999999999997,350.0
+528760f0-9758-43ab-ba1d-7a9f82f1832a,25,693,185.0,185.0,457,20,logFileNames,        if (logFileNames.length == 0) {,matched,200.39999999999998,340,310.79999999999995,360,255.59999999999997,350.0
+ef12597b-91d6-4743-a42b-91a190d0b66f,25,337,366.0,366.0,457,22,logFileNames,        if (logFileNames.length == 0) {,matched,200.39999999999998,340,310.79999999999995,360,255.59999999999997,350.0
+da104734-2154-4a47-973f-0e3502f5bc5e,25,786,170.0,170.0,457,22,logFileNames,        if (logFileNames.length == 0) {,matched,200.39999999999998,340,310.79999999999995,360,255.59999999999997,350.0
+1d5038f0-c1e4-444a-ac4f-e9a48fb3b890,25,441,1073.0,1073.0,457,23,logFileNames,        if (logFileNames.length == 0) {,matched,200.39999999999998,340,310.79999999999995,360,255.59999999999997,350.0
+296f01b6-5134-426c-b40c-8588bcec4b8c,25,367,160.0,160.0,457,24,logFileNames,        if (logFileNames.length == 0) {,matched,200.39999999999998,340,310.79999999999995,360,255.59999999999997,350.0
+0ba6cb3c-f697-46f5-9341-12ed4af0021d,25,629,284.0,284.0,457,26,length,        if (logFileNames.length == 0) {,matched,320.0,340,375.2,360,347.6,350.0
+7a8d11ea-8e6c-4a7e-ab91-17ef8f41f4d6,25,857,247.0,247.0,457,26,length,        if (logFileNames.length == 0) {,matched,320.0,340,375.2,360,347.6,350.0
+7ca4fbbd-3237-4df6-a699-724d83dd2f53,25,594,367.0,367.0,457,27,length,        if (logFileNames.length == 0) {,matched,320.0,340,375.2,360,347.6,350.0
+c7e001e2-4c64-4ad6-8fb5-d2a5a3025f95,25,444,207.0,207.0,457,28,length,        if (logFileNames.length == 0) {,matched,320.0,340,375.2,360,347.6,350.0
+7447d836-bf15-40a0-96a8-8fd0d9aad43e,25,785,234.0,234.0,457,28,length,        if (logFileNames.length == 0) {,matched,320.0,340,375.2,360,347.6,350.0
+3c21dc64-a581-4540-9f1f-ab011be3ebc8,25,567,890.0,890.0,457,29,length,        if (logFileNames.length == 0) {,matched,320.0,340,375.2,360,347.6,350.0
+a91a58f7-9e7b-404f-b75f-924d33431273,25,15,141.0,141.0,457,30,length,        if (logFileNames.length == 0) {,matched,320.0,340,375.2,360,347.6,350.0
+decb681e-7183-4abb-acd9-3b99d6fbb7a6,25,214,169.0,169.0,457,30,length,        if (logFileNames.length == 0) {,matched,320.0,340,375.2,360,347.6,350.0
+ca9346bd-9911-422d-bc50-c6c2993c721f,25,508,320.0,320.0,457,31,length,        if (logFileNames.length == 0) {,matched,320.0,340,375.2,360,347.6,350.0
+50c7a585-74b2-428c-8d4b-b36eac60e3b4,25,678,90.0,90.0,457,31,length,        if (logFileNames.length == 0) {,matched,320.0,340,375.2,360,347.6,350.0
+f43cf084-a24c-431a-8755-a86bdce9603e,25,695,262.0,262.0,457,31,length,        if (logFileNames.length == 0) {,matched,320.0,340,375.2,360,347.6,350.0
+9f65eeff-23fe-4bf1-9db1-853364db354b,25,783,241.0,241.0,457,32,WHITESPACE,        if (logFileNames.length == 0) {,approx_whitespace,412.0,340,421.2,360,416.6,350.0
+d0b1d1fc-294b-47fa-aff9-a766072f1d98,25,358,540.0,540.0,457,33,==,        if (logFileNames.length == 0) {,matched,384.4,340,402.79999999999995,360,393.59999999999997,350.0
+093ce65a-30d8-4701-a6db-2acff7ce1b58,25,692,148.0,148.0,457,33,==,        if (logFileNames.length == 0) {,matched,384.4,340,402.79999999999995,360,393.59999999999997,350.0
+99731a30-865a-409e-9044-2b555908d785,25,16,100.0,100.0,457,35,WHITESPACE,        if (logFileNames.length == 0) {,approx_whitespace,439.59999999999997,340,448.79999999999995,360,444.19999999999993,350.0
+66639855-26c8-4b34-8b80-5776324bc091,25,445,463.0,463.0,457,35,WHITESPACE,        if (logFileNames.length == 0) {,approx_whitespace,439.59999999999997,340,448.79999999999995,360,444.19999999999993,350.0
+962ef2cf-b425-4438-81af-f17035e11981,25,464,151.0,151.0,457,36,0,        if (logFileNames.length == 0) {,matched,412.0,340,421.2,360,416.6,350.0
+94b2b443-df4e-4a38-9d8f-294852c08dbd,25,575,192.0,192.0,457,36,0,        if (logFileNames.length == 0) {,matched,412.0,340,421.2,360,416.6,350.0
+e65df000-80f1-414d-a6c6-e55a0740cf9e,25,21,501.0,501.0,458,18,LOGGER,"            LOGGER.log(Level.INFO, ""the log dir ("" + logDir + "") is empty. returning empty list"");",matched,200.39999999999998,360,255.6,380,228.0,370.0
+35e01534-d912-424d-bf76-ec3f74392039,25,199,144.0,144.0,458,19,.,"            LOGGER.log(Level.INFO, ""the log dir ("" + logDir + "") is empty. returning empty list"");",matched,255.6,360,264.79999999999995,380,260.2,370.0
+0c6e1895-31ba-4991-a566-d9a7092aca7d,25,631,368.0,368.0,458,22,log,"            LOGGER.log(Level.INFO, ""the log dir ("" + logDir + "") is empty. returning empty list"");",matched,200.39999999999998,360,228.0,380,214.2,370.0
+a10b50d4-74e1-4164-ad13-99419dc55667,25,677,596.0,596.0,458,23,(,"            LOGGER.log(Level.INFO, ""the log dir ("" + logDir + "") is empty. returning empty list"");",matched,292.4,360,301.6,380,297.0,370.0
+db39a1ec-6c1d-4b26-9f78-d20d34a8c1b2,25,596,504.0,504.0,458,24,Level,"            LOGGER.log(Level.INFO, ""the log dir ("" + logDir + "") is empty. returning empty list"");",matched,301.6,360,347.59999999999997,380,324.6,370.0
+c1a5e6c3-1479-4ab9-afa5-fda29e336edc,25,504,617.0,617.0,458,25,Level,"            LOGGER.log(Level.INFO, ""the log dir ("" + logDir + "") is empty. returning empty list"");",matched,301.6,360,347.59999999999997,380,324.6,370.0
+64387465-b82c-4676-9510-c11f3dfc46db,25,198,265.0,265.0,458,29,.,"            LOGGER.log(Level.INFO, ""the log dir ("" + logDir + "") is empty. returning empty list"");",matched,347.59999999999997,360,356.79999999999995,380,352.19999999999993,370.0
+a95b7b1f-c66c-4bb2-99b5-895c33edfc9c,25,630,166.0,166.0,458,34,",","            LOGGER.log(Level.INFO, ""the log dir ("" + logDir + "") is empty. returning empty list"");",matched,393.59999999999997,360,402.79999999999995,380,398.19999999999993,370.0
+8c866b41-f5f7-4c05-8ec6-024d4e1b2920,25,503,178.0,178.0,458,35,WHITESPACE,"            LOGGER.log(Level.INFO, ""the log dir ("" + logDir + "") is empty. returning empty list"");",approx_whitespace,596.0,360,605.1999999999999,380,600.5999999999999,370.0
+7e39920b-16cb-41b2-8ab7-d9788c6e7121,25,181,328.0,328.0,458,40,WHITESPACE,"            LOGGER.log(Level.INFO, ""the log dir ("" + logDir + "") is empty. returning empty list"");",approx_whitespace,669.5999999999999,360,678.8,380,674.1999999999999,370.0
+f3f7da9f-cb3a-4be9-a350-c85191da8042,25,505,184.0,184.0,458,41,log,"            LOGGER.log(Level.INFO, ""the log dir ("" + logDir + "") is empty. returning empty list"");",matched,264.79999999999995,360,292.4,380,278.59999999999997,370.0
+d7fca0e1-86e5-49a5-974b-6422029047d7,25,215,318.0,318.0,458,42,log,"            LOGGER.log(Level.INFO, ""the log dir ("" + logDir + "") is empty. returning empty list"");",matched,458.0,360,485.59999999999997,380,471.79999999999995,370.0
+f1014457-c96e-4904-8288-4171359b1890,25,362,233.0,233.0,458,42,log,"            LOGGER.log(Level.INFO, ""the log dir ("" + logDir + "") is empty. returning empty list"");",matched,458.0,360,485.59999999999997,380,471.79999999999995,370.0
+29cf9475-4886-4301-9c1d-8749e7847ca9,25,576,150.0,150.0,458,42,log,"            LOGGER.log(Level.INFO, ""the log dir ("" + logDir + "") is empty. returning empty list"");",matched,458.0,360,485.59999999999997,380,471.79999999999995,370.0
+428bf28f-fcfb-4fee-bddd-d1286c75cb66,25,446,217.0,217.0,458,43,log,"            LOGGER.log(Level.INFO, ""the log dir ("" + logDir + "") is empty. returning empty list"");",matched,577.5999999999999,360,605.1999999999999,380,591.3999999999999,370.0
+93efd090-d335-4319-b124-369761e70193,25,598,175.0,175.0,458,43,log,"            LOGGER.log(Level.INFO, ""the log dir ("" + logDir + "") is empty. returning empty list"");",matched,577.5999999999999,360,605.1999999999999,380,591.3999999999999,370.0
+4dafc0a0-8024-4cd2-b9f4-5be6b0d90bb4,25,182,131.0,131.0,458,46,dir,"            LOGGER.log(Level.INFO, ""the log dir ("" + logDir + "") is empty. returning empty list"");",matched,494.79999999999995,360,522.4,380,508.59999999999997,370.0
+c155a4d7-bcf7-4864-9788-80bc62028c0e,25,679,144.0,144.0,458,51,WHITESPACE,"            LOGGER.log(Level.INFO, ""the log dir ("" + logDir + "") is empty. returning empty list"");",approx_whitespace,826.0,360,835.1999999999999,380,830.5999999999999,370.0
+1775fff0-0e5d-417f-a124-04ac4bb2e255,25,787,139.0,139.0,458,54,logDir,"            LOGGER.log(Level.INFO, ""the log dir ("" + logDir + "") is empty. returning empty list"");",matched,577.5999999999999,360,632.8,380,605.1999999999999,370.0
+c1bc1a16-b217-47e4-8243-394cdb83dda8,25,845,82.0,82.0,458,56,logDir,"            LOGGER.log(Level.INFO, ""the log dir ("" + logDir + "") is empty. returning empty list"");",matched,577.5999999999999,360,632.8,380,605.1999999999999,370.0
+104817e7-fa3b-474c-ab8f-491ba4daca42,25,447,137.0,137.0,458,59,logDir,"            LOGGER.log(Level.INFO, ""the log dir ("" + logDir + "") is empty. returning empty list"");",matched,577.5999999999999,360,632.8,380,605.1999999999999,370.0
+a864eb42-1b41-4a5a-b41f-6b2133c56159,25,448,87.0,87.0,458,62,WHITESPACE,"            LOGGER.log(Level.INFO, ""the log dir ("" + logDir + "") is empty. returning empty list"");",approx_whitespace,982.4,360,991.5999999999999,380,987.0,370.0
+b9137426-ac84-4a2a-adc8-dc050169d729,25,363,96.0,96.0,458,74,.,"            LOGGER.log(Level.INFO, ""the log dir ("" + logDir + "") is empty. returning empty list"");",matched,761.5999999999999,360,770.8,380,766.1999999999999,370.0
+361f6b02-4c86-4f47-9adc-aff7c343bf73,25,364,118.0,118.0,458,80,returning,"            LOGGER.log(Level.INFO, ""the log dir ("" + logDir + "") is empty. returning empty list"");",matched,780.0,360,862.8,380,821.4,370.0
+5cee70b4-bb90-4d46-abd1-f7e840c59f7b,25,599,756.0,756.0,458,81,returning,"            LOGGER.log(Level.INFO, ""the log dir ("" + logDir + "") is empty. returning empty list"");",matched,780.0,360,862.8,380,821.4,370.0
+aa2d9238-d72a-4105-89bd-5b256d754b64,25,544,379.0,379.0,459,13,return,            return Collections.emptyList();,matched,200.39999999999998,380,255.6,400,228.0,390.0
+4086e1e2-0a5a-436e-aa96-fe164ef59cf0,25,292,1280.0,1280.0,459,17,return,            return Collections.emptyList();,matched,200.39999999999998,380,255.6,400,228.0,390.0
+76fed667-1b60-4ad9-ba30-14d3fef00512,25,568,212.0,212.0,459,19,WHITESPACE,            return Collections.emptyList();,approx_whitespace,476.4,380,485.59999999999997,400,481.0,390.0
+5cb8c0ad-4141-4d05-a753-c2b4cb319206,25,318,887.0,887.0,459,22,Collections,            return Collections.emptyList();,matched,264.79999999999995,380,366.0,400,315.4,390.0
+7e855137-774b-46e7-84e5-7bec19fcca56,25,22,620.0,620.0,459,23,Collections,            return Collections.emptyList();,matched,264.79999999999995,380,366.0,400,315.4,390.0
+9cbf8a9e-2e41-44b0-bdb3-81e2c808c641,25,361,131.0,131.0,459,24,Collections,            return Collections.emptyList();,matched,264.79999999999995,380,366.0,400,315.4,390.0
+19c1d6e5-f23b-4c17-acef-554bc35a20ef,25,574,145.0,145.0,459,25,Collections,            return Collections.emptyList();,matched,264.79999999999995,380,366.0,400,315.4,390.0
+ced5b658-efc4-4d81-83bc-0bbd11a164d6,25,180,200.0,200.0,459,26,Collections,            return Collections.emptyList();,matched,264.79999999999995,380,366.0,400,315.4,390.0
+c51fe59c-258c-4ac7-8ee0-01bf75ba684b,25,771,247.0,247.0,459,28,Collections,            return Collections.emptyList();,matched,264.79999999999995,380,366.0,400,315.4,390.0
+258e2851-0907-40f6-ba10-412e957061ba,25,879,137.0,137.0,459,30,Collections,            return Collections.emptyList();,matched,264.79999999999995,380,366.0,400,315.4,390.0
+3cc76d42-2681-42ff-a175-11c794ee207f,25,461,324.0,324.0,459,33,emptyList,            return Collections.emptyList();,matched,375.2,380,458.0,400,416.6,390.0
+6233ee68-deae-465a-87d4-1a57b25c4f50,25,844,459.0,459.0,459,34,emptyList,            return Collections.emptyList();,matched,375.2,380,458.0,400,416.6,390.0
+ad583de4-91cd-4d15-bc38-1237e835de08,25,859,109.0,109.0,461,11,logFileIds,        logFileIds = new ArrayList<>();,matched,163.6,420,255.6,440,209.6,430.0
+fd400304-3715-45a2-bb85-755b0eb2d07a,25,207,1626.0,1626.0,461,13,logFileIds,        logFileIds = new ArrayList<>();,matched,163.6,420,255.6,440,209.6,430.0
+3aa5701b-f740-417e-985f-e0d3ddae5718,25,858,547.0,547.0,461,13,logFileIds,        logFileIds = new ArrayList<>();,matched,163.6,420,255.6,440,209.6,430.0
+389b750f-2f9c-4636-a12d-c6678669c681,25,876,398.0,398.0,461,13,logFileIds,        logFileIds = new ArrayList<>();,matched,163.6,420,255.6,440,209.6,430.0
+f6b9cffd-ab71-447d-9f38-46ecefc3339f,25,233,482.0,482.0,461,14,logFileIds,        logFileIds = new ArrayList<>();,matched,163.6,420,255.6,440,209.6,430.0
+fa80d438-6bde-4be7-b495-977eed3fc602,25,340,328.0,328.0,461,16,logFileIds,        logFileIds = new ArrayList<>();,matched,163.6,420,255.6,440,209.6,430.0
+dc7fe9fa-3be7-4074-a9da-d7ebab0d55a1,25,450,593.0,593.0,461,16,logFileIds,        logFileIds = new ArrayList<>();,matched,163.6,420,255.6,440,209.6,430.0
+bf85567d-897b-4901-9fc7-33e1cd46427b,25,815,835.0,835.0,461,18,logFileIds,        logFileIds = new ArrayList<>();,matched,163.6,420,255.6,440,209.6,430.0
+fc0ec1a0-2975-464a-80b1-5aedb0e5af21,25,463,101.0,101.0,461,20,=,        logFileIds = new ArrayList<>();,matched,264.79999999999995,420,274.0,440,269.4,430.0
+3d51d41a-91ee-4569-b292-c8e34780c540,25,339,128.0,128.0,461,22,new,        logFileIds = new ArrayList<>();,matched,283.2,420,310.79999999999995,440,297.0,430.0
+6b61090f-1626-48be-9c74-4f6978c42f2e,25,347,223.0,223.0,461,23,new,        logFileIds = new ArrayList<>();,matched,283.2,420,310.79999999999995,440,297.0,430.0
+4ef6909d-183c-4d31-bb7f-783e0b7f06b3,25,719,753.0,753.0,461,23,new,        logFileIds = new ArrayList<>();,matched,283.2,420,310.79999999999995,440,297.0,430.0
+b975f726-69b5-4a16-b67b-1754d7ae1b63,25,359,239.0,239.0,461,24,new,        logFileIds = new ArrayList<>();,matched,283.2,420,310.79999999999995,440,297.0,430.0
+08c63f18-7bfb-4248-a291-883c526501bc,25,510,189.0,189.0,461,26,ArrayList,        logFileIds = new ArrayList<>();,matched,320.0,420,402.79999999999995,440,361.4,430.0
+0c71fdb9-adbf-4215-a594-eeb410f356b2,25,572,242.0,242.0,461,27,ArrayList,        logFileIds = new ArrayList<>();,matched,320.0,420,402.79999999999995,440,361.4,430.0
+89328b29-c6ae-464e-838b-ce69ba153eb6,25,338,491.0,491.0,461,30,ArrayList,        logFileIds = new ArrayList<>();,matched,320.0,420,402.79999999999995,440,361.4,430.0
+58208f03-d493-4a45-951f-cf28f485609a,25,462,233.0,233.0,461,30,ArrayList,        logFileIds = new ArrayList<>();,matched,320.0,420,402.79999999999995,440,361.4,430.0
+531e4dff-e590-4e19-8e9d-678e69e92a70,25,11,159.0,159.0,461,31,ArrayList,        logFileIds = new ArrayList<>();,matched,320.0,420,402.79999999999995,440,361.4,430.0
+64976db0-beab-4073-9be8-f87e32744665,25,232,424.0,424.0,461,31,ArrayList,        logFileIds = new ArrayList<>();,matched,320.0,420,402.79999999999995,440,361.4,430.0
+fc11e4c4-ecb2-4798-a064-6673f76f8f60,25,345,367.0,367.0,461,33,ArrayList,        logFileIds = new ArrayList<>();,matched,320.0,420,402.79999999999995,440,361.4,430.0
+adf16b6f-d164-4a10-aa5f-1a9ca8311c95,25,360,213.0,213.0,461,34,ArrayList,        logFileIds = new ArrayList<>();,matched,320.0,420,402.79999999999995,440,361.4,430.0
+bce9834a-fcec-4322-aacd-68dedf85309a,25,344,531.0,531.0,461,37,lt;,        logFileIds = new ArrayList<>();,matched,402.79999999999995,420,412.0,440,407.4,430.0
+19604964-71c9-4599-9b9d-45bed47e6899,25,346,3654.0,3654.0,461,40,gt;,        logFileIds = new ArrayList<>();,matched,412.0,420,421.2,440,416.6,430.0
+7e5c397f-16ba-4342-9dc4-8e7d9a432cbc,25,537,362.0,362.0,462,11,for,        for (String fileName : logFileNames) {,matched,163.6,440,191.2,460,177.39999999999998,450.0
+8a967ccd-f13f-4971-ac6c-8e75f5a8e920,25,855,270.0,270.0,462,13,(,        for (String fileName : logFileNames) {,matched,200.39999999999998,440,209.6,460,205.0,450.0
+f69ec5e7-bdc3-48b0-99b9-035ccc84daa5,25,532,115.0,115.0,462,14,String,        for (String fileName : logFileNames) {,matched,209.6,440,264.79999999999995,460,237.2,450.0
+df8f65df-d6ff-4a0f-b308-b9464917b1d2,25,878,660.0,660.0,462,14,String,        for (String fileName : logFileNames) {,matched,209.6,440,264.79999999999995,460,237.2,450.0
+db61ee10-4ff2-4d46-8e4f-2fa803941405,25,229,899.0,899.0,462,15,String,        for (String fileName : logFileNames) {,matched,209.6,440,264.79999999999995,460,237.2,450.0
+172470c8-1425-4332-bbe6-0c53cf7276a7,25,10,689.0,689.0,462,16,String,        for (String fileName : logFileNames) {,matched,209.6,440,264.79999999999995,460,237.2,450.0
+305f5bd7-864d-444d-8743-678cd9443eec,25,531,204.0,204.0,462,16,String,        for (String fileName : logFileNames) {,matched,209.6,440,264.79999999999995,460,237.2,450.0
+50fa1d72-5a8b-45b6-8148-f1a487c8cf64,25,319,575.0,575.0,462,17,String,        for (String fileName : logFileNames) {,matched,209.6,440,264.79999999999995,460,237.2,450.0
+fa586a8c-67e1-4b2f-b21b-7722929c4220,25,18,749.0,749.0,462,18,String,        for (String fileName : logFileNames) {,matched,209.6,440,264.79999999999995,460,237.2,450.0
+1e0e4470-de42-411e-aea9-2330c3bd7082,25,357,105.0,105.0,462,18,String,        for (String fileName : logFileNames) {,matched,209.6,440,264.79999999999995,460,237.2,450.0
+4678f81f-dff0-4057-8c8a-3a946e392df3,25,535,278.0,278.0,462,18,String,        for (String fileName : logFileNames) {,matched,209.6,440,264.79999999999995,460,237.2,450.0
+7156eecc-18f7-431f-a758-e2e7ea31daf1,25,875,85.0,85.0,462,18,String,        for (String fileName : logFileNames) {,matched,209.6,440,264.79999999999995,460,237.2,450.0
+ea37b452-3406-46ef-9ae7-d70a663627ac,25,451,327.0,327.0,462,20,WHITESPACE,        for (String fileName : logFileNames) {,approx_whitespace,356.79999999999995,440,366.0,460,361.4,450.0
+d5ea5263-57b4-4dc6-895a-13960cf588ea,25,350,3572.0,3572.0,462,22,fileName,        for (String fileName : logFileNames) {,matched,274.0,440,347.59999999999997,460,310.79999999999995,450.0
+f87bc1e6-6e52-4078-b19d-268c719eb1d2,25,525,274.0,274.0,462,24,fileName,        for (String fileName : logFileNames) {,matched,274.0,440,347.59999999999997,460,310.79999999999995,450.0
+56a8381c-22fe-4110-865b-5e576876917b,25,533,465.0,465.0,462,25,fileName,        for (String fileName : logFileNames) {,matched,274.0,440,347.59999999999997,460,310.79999999999995,450.0
+7c89ac05-1273-460e-825e-9ff1afdff94f,25,398,88.0,88.0,462,26,fileName,        for (String fileName : logFileNames) {,matched,402.79999999999995,440,476.4,460,439.59999999999997,450.0
+1647e02f-0550-4c81-811a-a4d17671dc86,25,539,1203.0,1203.0,462,26,fileName,        for (String fileName : logFileNames) {,matched,402.79999999999995,440,476.4,460,439.59999999999997,450.0
+d904697f-69d6-4cfa-8dc2-90fcbd22c685,25,604,125.0,125.0,462,26,fileName,        for (String fileName : logFileNames) {,matched,402.79999999999995,440,476.4,460,439.59999999999997,450.0
+8100d100-51da-45b9-bc87-675cbdfa467c,25,17,533.0,533.0,462,28,fileName,        for (String fileName : logFileNames) {,matched,402.79999999999995,440,476.4,460,439.59999999999997,450.0
+93747944-d13a-4323-9f79-6195248342cd,25,449,229.0,229.0,462,28,fileName,        for (String fileName : logFileNames) {,matched,402.79999999999995,440,476.4,460,439.59999999999997,450.0
+c8749822-207b-4203-8b05-8d06d64fb738,25,530,474.0,474.0,462,29,WHITESPACE,        for (String fileName : logFileNames) {,approx_whitespace,476.4,440,485.59999999999997,460,481.0,450.0
+4e0ced63-ed65-4a8a-b616-8a0f166f3635,25,524,294.0,294.0,462,30,:,        for (String fileName : logFileNames) {,matched,356.79999999999995,440,366.0,460,361.4,450.0
+57c9d48c-16ac-4f70-90f1-d1aded4bbba9,25,526,146.0,146.0,462,31,WHITESPACE,        for (String fileName : logFileNames) {,approx_whitespace,503.99999999999994,440,513.2,460,508.6,450.0
+3f9f64cd-930c-44a1-96d4-54c12d8dd220,25,538,204.0,204.0,462,31,WHITESPACE,        for (String fileName : logFileNames) {,approx_whitespace,503.99999999999994,440,513.2,460,508.6,450.0
+b3b07f63-f28c-4626-9333-7dbbedfcaa8e,25,369,277.0,277.0,462,32,logFileNames,        for (String fileName : logFileNames) {,matched,375.2,440,485.59999999999997,460,430.4,450.0
+1ba67f31-d469-4336-8ca7-5182666fc499,25,375,269.0,269.0,462,32,logFileNames,        for (String fileName : logFileNames) {,matched,375.2,440,485.59999999999997,460,430.4,450.0
+cc95e5ed-6a13-4918-a6e5-91dbc41bea8b,25,521,206.0,206.0,462,32,logFileNames,        for (String fileName : logFileNames) {,matched,375.2,440,485.59999999999997,460,430.4,450.0
+b8b4ce0b-56b8-4bcc-b0eb-91e962570e2d,25,720,261.0,261.0,462,32,logFileNames,        for (String fileName : logFileNames) {,matched,375.2,440,485.59999999999997,460,430.4,450.0
+07dc1f88-1854-4e39-9a91-18f88bd2d90b,25,341,442.0,442.0,462,33,logFileNames,        for (String fileName : logFileNames) {,matched,375.2,440,485.59999999999997,460,430.4,450.0
+c4ff5a0d-47f5-4ed2-9ac4-bb50e0397019,25,349,1641.0,1641.0,462,33,logFileNames,        for (String fileName : logFileNames) {,matched,375.2,440,485.59999999999997,460,430.4,450.0
+507dcb52-38e9-4add-9544-c0f5eed4e003,25,534,125.0,125.0,462,37,logFileNames,        for (String fileName : logFileNames) {,matched,375.2,440,485.59999999999997,460,430.4,450.0
+0024726a-8723-46b4-a02b-20e2015fc1d8,25,351,4003.0,4003.0,462,42,logFileNames,        for (String fileName : logFileNames) {,matched,375.2,440,485.59999999999997,460,430.4,450.0
+bde2f3f0-7085-4b11-ba2f-fc3635fe6683,25,231,458.0,458.0,463,18,logFileIds,            logFileIds.add(Long.parseLong(fileName.substring(logFilePrefix.length() + 1)));,matched,200.39999999999998,460,292.4,480,246.39999999999998,470.0
+79f4edbc-bde8-40ae-aec0-5e0038981894,25,517,141.0,141.0,463,18,logFileIds,            logFileIds.add(Long.parseLong(fileName.substring(logFilePrefix.length() + 1)));,matched,200.39999999999998,460,292.4,480,246.39999999999998,470.0
+088b4e85-4c10-4adc-abb2-8599208ad050,25,374,90.0,90.0,463,19,logFileIds,            logFileIds.add(Long.parseLong(fileName.substring(logFilePrefix.length() + 1)));,matched,200.39999999999998,460,292.4,480,246.39999999999998,470.0
+bc15c379-329b-4497-8db5-5274db755b98,25,19,170.0,170.0,463,20,logFileIds,            logFileIds.add(Long.parseLong(fileName.substring(logFilePrefix.length() + 1)));,matched,200.39999999999998,460,292.4,480,246.39999999999998,470.0
+ca425c28-4f88-4be1-beed-d307598538d2,25,177,207.0,207.0,463,20,logFileIds,            logFileIds.add(Long.parseLong(fileName.substring(logFilePrefix.length() + 1)));,matched,200.39999999999998,460,292.4,480,246.39999999999998,470.0
+2d8bb868-deb6-4079-bfe3-3f88ababee05,25,322,708.0,708.0,463,20,logFileIds,            logFileIds.add(Long.parseLong(fileName.substring(logFilePrefix.length() + 1)));,matched,200.39999999999998,460,292.4,480,246.39999999999998,470.0
+bb9253e0-18fa-4e59-9b73-c3c097cf081f,25,516,129.0,129.0,463,20,logFileIds,            logFileIds.add(Long.parseLong(fileName.substring(logFilePrefix.length() + 1)));,matched,200.39999999999998,460,292.4,480,246.39999999999998,470.0
+e7e03b6c-e1d5-4e34-903c-6c23be666e4b,25,522,390.0,390.0,463,20,logFileIds,            logFileIds.add(Long.parseLong(fileName.substring(logFilePrefix.length() + 1)));,matched,200.39999999999998,460,292.4,480,246.39999999999998,470.0
+a92ef845-4224-4423-954f-5d88fe1b8802,25,234,153.0,153.0,463,21,logFileIds,            logFileIds.add(Long.parseLong(fileName.substring(logFilePrefix.length() + 1)));,matched,200.39999999999998,460,292.4,480,246.39999999999998,470.0
+06d1b993-f03a-41d9-8052-673e08675a65,25,453,194.0,194.0,463,24,add,            logFileIds.add(Long.parseLong(fileName.substring(logFilePrefix.length() + 1)));,matched,301.6,460,329.2,480,315.4,470.0
+dc825dcc-f53c-45f5-bcc9-caaeee0e7abc,25,320,148.0,148.0,463,25,add,            logFileIds.add(Long.parseLong(fileName.substring(logFilePrefix.length() + 1)));,matched,301.6,460,329.2,480,315.4,470.0
+d2a5c853-0ca3-4339-a12e-9d08deb82c3c,25,513,514.0,514.0,463,25,add,            logFileIds.add(Long.parseLong(fileName.substring(logFilePrefix.length() + 1)));,matched,301.6,460,329.2,480,315.4,470.0
+1a227941-fc50-4085-aa55-cb2cd763a6f3,25,455,490.0,490.0,463,26,add,            logFileIds.add(Long.parseLong(fileName.substring(logFilePrefix.length() + 1)));,matched,301.6,460,329.2,480,315.4,470.0
+fdd78a0f-17c6-4df3-8261-77773b1cd9c7,25,573,985.0,985.0,463,26,add,            logFileIds.add(Long.parseLong(fileName.substring(logFilePrefix.length() + 1)));,matched,301.6,460,329.2,480,315.4,470.0
+7a0643b7-886b-482c-9fd3-6057652db225,25,179,176.0,176.0,463,27,(,            logFileIds.add(Long.parseLong(fileName.substring(logFilePrefix.length() + 1)));,matched,329.2,460,338.4,480,333.79999999999995,470.0
+3b09485e-cf69-4539-9190-c1fc627d1a7b,25,523,214.0,214.0,463,27,(,            logFileIds.add(Long.parseLong(fileName.substring(logFilePrefix.length() + 1)));,matched,329.2,460,338.4,480,333.79999999999995,470.0
+6665b80f-ca4a-4378-bceb-e56ed18f5273,25,793,94.0,94.0,463,28,Long,            logFileIds.add(Long.parseLong(fileName.substring(logFilePrefix.length() + 1)));,matched,338.4,460,375.2,480,356.79999999999995,470.0
+2376c253-7918-4d57-bb12-463bee04575b,25,20,343.0,343.0,463,29,Long,            logFileIds.add(Long.parseLong(fileName.substring(logFilePrefix.length() + 1)));,matched,338.4,460,375.2,480,356.79999999999995,470.0
+4a82ac2d-d0a1-49c5-9321-ef7a9a0e8bee,25,205,319.0,319.0,463,29,Long,            logFileIds.add(Long.parseLong(fileName.substring(logFilePrefix.length() + 1)));,matched,338.4,460,375.2,480,356.79999999999995,470.0
+b6915c75-80f1-41b9-9ef6-ab49da0d18e6,25,235,151.0,151.0,463,29,Long,            logFileIds.add(Long.parseLong(fileName.substring(logFilePrefix.length() + 1)));,matched,338.4,460,375.2,480,356.79999999999995,470.0
+5ff514db-d801-42a8-9442-a0d475100ad6,25,846,237.0,237.0,463,29,Long,            logFileIds.add(Long.parseLong(fileName.substring(logFilePrefix.length() + 1)));,matched,338.4,460,375.2,480,356.79999999999995,470.0
+e53bc002-4aa5-499c-9d2a-5da314c9b90a,25,454,563.0,563.0,463,31,Long,            logFileIds.add(Long.parseLong(fileName.substring(logFilePrefix.length() + 1)));,matched,430.4,460,467.2,480,448.79999999999995,470.0
+7903cbe4-882e-4ba3-8e1d-017d264db23d,25,208,244.0,244.0,463,32,.,            logFileIds.add(Long.parseLong(fileName.substring(logFilePrefix.length() + 1)));,matched,292.4,460,301.6,480,297.0,470.0
+cecf3076-128d-4051-8c2f-1608d4059ef4,25,511,367.0,367.0,463,32,.,            logFileIds.add(Long.parseLong(fileName.substring(logFilePrefix.length() + 1)));,matched,292.4,460,301.6,480,297.0,470.0
+f4d3f02e-4b33-4bb7-98b9-4f48c5021a32,25,13,147.0,147.0,463,34,parseLong,            logFileIds.add(Long.parseLong(fileName.substring(logFilePrefix.length() + 1)));,matched,384.4,460,467.2,480,425.79999999999995,470.0
+4b4b3d4b-6bfe-4b2c-b94b-4bcd47e84130,25,230,189.0,189.0,463,34,parseLong,            logFileIds.add(Long.parseLong(fileName.substring(logFilePrefix.length() + 1)));,matched,384.4,460,467.2,480,425.79999999999995,470.0
+38baadc4-2e70-41fb-b574-132969e19f10,25,542,251.0,251.0,463,34,parseLong,            logFileIds.add(Long.parseLong(fileName.substring(logFilePrefix.length() + 1)));,matched,384.4,460,467.2,480,425.79999999999995,470.0
+03278a3a-e811-488b-bbbf-b93787f266af,25,203,1465.0,1465.0,463,35,parseLong,            logFileIds.add(Long.parseLong(fileName.substring(logFilePrefix.length() + 1)));,matched,384.4,460,467.2,480,425.79999999999995,470.0
+a9b80d2c-0f45-4c83-8e96-d312f87e3b9a,25,236,245.0,245.0,463,35,parseLong,            logFileIds.add(Long.parseLong(fileName.substring(logFilePrefix.length() + 1)));,matched,384.4,460,467.2,480,425.79999999999995,470.0
+38abb902-a3bc-420a-bdae-cbd702f12ec7,25,452,578.0,578.0,463,35,parseLong,            logFileIds.add(Long.parseLong(fileName.substring(logFilePrefix.length() + 1)));,matched,384.4,460,467.2,480,425.79999999999995,470.0
+67d342d9-e921-4cc5-90e5-98d3b48f1fc8,25,512,378.0,378.0,463,35,parseLong,            logFileIds.add(Long.parseLong(fileName.substring(logFilePrefix.length() + 1)));,matched,384.4,460,467.2,480,425.79999999999995,470.0
+0d024b3b-fc06-422a-a7ce-52e8bd8e0d6d,25,794,150.0,150.0,463,35,parseLong,            logFileIds.add(Long.parseLong(fileName.substring(logFilePrefix.length() + 1)));,matched,384.4,460,467.2,480,425.79999999999995,470.0
+95d1f8df-aa58-4db7-b498-ef71d849afbb,25,178,1129.0,1129.0,463,36,parseLong,            logFileIds.add(Long.parseLong(fileName.substring(logFilePrefix.length() + 1)));,matched,384.4,460,467.2,480,425.79999999999995,470.0
+b2032ffd-9114-496e-bd5a-de5fcc9091a3,25,206,228.0,228.0,463,36,parseLong,            logFileIds.add(Long.parseLong(fileName.substring(logFilePrefix.length() + 1)));,matched,384.4,460,467.2,480,425.79999999999995,470.0
+763afe03-dece-4c6f-86c4-bc40f45dcb6b,25,798,185.0,185.0,463,36,parseLong,            logFileIds.add(Long.parseLong(fileName.substring(logFilePrefix.length() + 1)));,matched,384.4,460,467.2,480,425.79999999999995,470.0
+cbde33b1-5d0b-4f3d-ae86-fd85709bd65b,25,321,128.0,128.0,463,37,parseLong,            logFileIds.add(Long.parseLong(fileName.substring(logFilePrefix.length() + 1)));,matched,384.4,460,467.2,480,425.79999999999995,470.0
+5a17c576-45ce-467c-ad86-acb5affa4432,25,847,119.0,119.0,463,37,parseLong,            logFileIds.add(Long.parseLong(fileName.substring(logFilePrefix.length() + 1)));,matched,384.4,460,467.2,480,425.79999999999995,470.0
+ef4bbff8-f615-4d2a-9b5c-957eb564f378,25,456,357.0,357.0,463,38,parseLong,            logFileIds.add(Long.parseLong(fileName.substring(logFilePrefix.length() + 1)));,matched,384.4,460,467.2,480,425.79999999999995,470.0
+8e740122-d8ad-4684-a0a5-6eee591d79fe,25,460,155.0,155.0,463,38,parseLong,            logFileIds.add(Long.parseLong(fileName.substring(logFilePrefix.length() + 1)));,matched,384.4,460,467.2,480,425.79999999999995,470.0
+19982b48-029b-4e61-9a10-9720ddca0c50,25,543,214.0,214.0,463,42,(,            logFileIds.add(Long.parseLong(fileName.substring(logFilePrefix.length() + 1)));,matched,467.2,460,476.4,480,471.79999999999995,470.0
+c6c3bc5a-cf86-4360-aaf1-d3ad033855f5,25,237,213.0,213.0,463,44,fileName,            logFileIds.add(Long.parseLong(fileName.substring(logFilePrefix.length() + 1)));,matched,476.4,460,550.0,480,513.2,470.0
+45034622-069a-437f-84fe-b1ea02230798,25,241,90.0,90.0,463,46,fileName,            logFileIds.add(Long.parseLong(fileName.substring(logFilePrefix.length() + 1)));,matched,476.4,460,550.0,480,513.2,470.0
+7382b82a-99e2-422c-a6e7-ad3c278dd084,25,515,180.0,180.0,463,46,fileName,            logFileIds.add(Long.parseLong(fileName.substring(logFilePrefix.length() + 1)));,matched,476.4,460,550.0,480,513.2,470.0
+7f69bdef-9fc9-4e89-b606-911b5cc7b8c7,25,348,119.0,119.0,463,48,fileName,            logFileIds.add(Long.parseLong(fileName.substring(logFilePrefix.length() + 1)));,matched,476.4,460,550.0,480,513.2,470.0
+9dab99dc-d82b-480e-a90f-2950e9a89900,25,540,437.0,437.0,463,48,fileName,            logFileIds.add(Long.parseLong(fileName.substring(logFilePrefix.length() + 1)));,matched,476.4,460,550.0,480,513.2,470.0
+8bcfdbae-d53d-4f81-b9f1-213e0d2bec9d,25,240,251.0,251.0,463,50,fileName,            logFileIds.add(Long.parseLong(fileName.substring(logFilePrefix.length() + 1)));,matched,476.4,460,550.0,480,513.2,470.0
+7e39eabe-3c7a-42de-b682-12b26dd69460,25,514,139.0,139.0,463,52,substring,            logFileIds.add(Long.parseLong(fileName.substring(logFilePrefix.length() + 1)));,matched,559.2,460,642.0,480,600.6,470.0
+a28d1eab-b138-4682-81c2-e07e8e5bddeb,25,457,208.0,208.0,463,54,substring,            logFileIds.add(Long.parseLong(fileName.substring(logFilePrefix.length() + 1)));,matched,559.2,460,642.0,480,600.6,470.0
+b45d5a83-3154-4b26-992d-22c887060aba,25,238,307.0,307.0,463,55,substring,            logFileIds.add(Long.parseLong(fileName.substring(logFilePrefix.length() + 1)));,matched,559.2,460,642.0,480,600.6,470.0
+4f97544c-4b3b-4b25-ba05-b0f80a368196,25,239,174.0,174.0,463,66,logFilePrefix,            logFileIds.add(Long.parseLong(fileName.substring(logFilePrefix.length() + 1)));,matched,651.1999999999999,460,770.8,480,711.0,470.0
+80549317-c571-401a-8512-6c5ec809613a,25,458,186.0,186.0,463,66,logFilePrefix,            logFileIds.add(Long.parseLong(fileName.substring(logFilePrefix.length() + 1)));,matched,651.1999999999999,460,770.8,480,711.0,470.0
+ad908b3b-1962-44c1-89f1-39a49a002e33,25,459,228.0,228.0,463,83,(),            logFileIds.add(Long.parseLong(fileName.substring(logFilePrefix.length() + 1)));,matched,835.1999999999999,460,853.5999999999999,480,844.3999999999999,470.0
+9dacf53e-2fe8-4bd2-b444-10a52eaa7bc0,25,355,203.0,203.0,465,14,logFileIds,        logFileIds.sort(Long::compareTo);,matched,163.6,500,255.6,520,209.6,510.0
+951088eb-393e-402d-91d8-6ecc214a68c9,25,468,6427.0,5000.0,465,15,logFileIds,        logFileIds.sort(Long::compareTo);,matched,163.6,500,255.6,520,209.6,510.0
+e2bfa0b8-1cc5-447d-b021-a3010377a390,25,608,1778.0,1778.0,465,15,logFileIds,        logFileIds.sort(Long::compareTo);,matched,163.6,500,255.6,520,209.6,510.0
+e6432d0f-17d9-43cb-bcb0-a627ad8304d9,25,176,433.0,433.0,465,17,logFileIds,        logFileIds.sort(Long::compareTo);,matched,163.6,500,255.6,520,209.6,510.0
+908eb44a-e85c-4e39-b2ff-9cf80b834e30,25,204,1034.0,1034.0,465,17,logFileIds,        logFileIds.sort(Long::compareTo);,matched,163.6,500,255.6,520,209.6,510.0
+08063da6-753a-4b31-92cb-a7bb5f9435b5,25,605,308.0,308.0,465,18,logFileIds,        logFileIds.sort(Long::compareTo);,matched,163.6,500,255.6,520,209.6,510.0
+21152fa6-996c-41b2-846b-9071f7922e01,25,12,120.0,120.0,465,19,.,        logFileIds.sort(Long::compareTo);,matched,255.6,500,264.79999999999995,520,260.2,510.0
+141392c6-bd74-4fd7-b74c-360c0d620966,25,518,231.0,231.0,465,24,(,        logFileIds.sort(Long::compareTo);,matched,301.6,500,310.79999999999995,520,306.2,510.0
+776c810f-f49e-4228-ad35-7cd109ad848c,25,172,164.0,164.0,465,25,Long,        logFileIds.sort(Long::compareTo);,matched,310.79999999999995,500,347.59999999999997,520,329.19999999999993,510.0
+0139779b-996d-468e-9d72-34a92f5f0bd6,25,209,310.0,310.0,465,25,Long,        logFileIds.sort(Long::compareTo);,matched,310.79999999999995,500,347.59999999999997,520,329.19999999999993,510.0
+38f45734-bac2-4ef5-b257-98e3fb4b1e09,25,607,314.0,314.0,465,25,Long,        logFileIds.sort(Long::compareTo);,matched,310.79999999999995,500,347.59999999999997,520,329.19999999999993,510.0
+a45e7e5e-c230-4636-994b-fa3209511ea5,25,799,561.0,561.0,465,25,Long,        logFileIds.sort(Long::compareTo);,matched,310.79999999999995,500,347.59999999999997,520,329.19999999999993,510.0
+f799e157-c00a-4f6d-a129-27b840acfa38,25,877,718.0,718.0,465,25,Long,        logFileIds.sort(Long::compareTo);,matched,310.79999999999995,500,347.59999999999997,520,329.19999999999993,510.0
+4e7c8e50-f092-46f8-8f39-245ca4ac3f8a,25,606,460.0,460.0,465,26,Long,        logFileIds.sort(Long::compareTo);,matched,310.79999999999995,500,347.59999999999997,520,329.19999999999993,510.0
+4f741ff3-96a5-49be-a0ac-52577ab3293f,25,174,618.0,618.0,465,27,Long,        logFileIds.sort(Long::compareTo);,matched,310.79999999999995,500,347.59999999999997,520,329.19999999999993,510.0
+58a7bec8-d24a-42b4-92c0-cc28dd72f9f2,25,211,343.0,343.0,465,27,Long,        logFileIds.sort(Long::compareTo);,matched,310.79999999999995,500,347.59999999999997,520,329.19999999999993,510.0
+5ca774b7-5a3b-4108-a132-6f51cc589d83,25,768,123.0,123.0,465,27,Long,        logFileIds.sort(Long::compareTo);,matched,310.79999999999995,500,347.59999999999997,520,329.19999999999993,510.0
+8bd2227c-6f55-4899-b0d5-68d132004aa7,25,849,178.0,178.0,465,27,Long,        logFileIds.sort(Long::compareTo);,matched,310.79999999999995,500,347.59999999999997,520,329.19999999999993,510.0
+ac38b840-af78-4737-940c-a1900bd12494,25,797,335.0,335.0,465,29,::,        logFileIds.sort(Long::compareTo);,matched,347.59999999999997,500,366.0,520,356.79999999999995,510.0
+07af165a-5f03-4db2-86cd-bc4ba3907d44,25,353,286.0,286.0,465,30,::,        logFileIds.sort(Long::compareTo);,matched,347.59999999999997,500,366.0,520,356.79999999999995,510.0
+0c8c3179-c908-4d73-9e59-8d9a39ad88ed,25,175,151.0,151.0,465,31,compareTo,        logFileIds.sort(Long::compareTo);,matched,366.0,500,448.79999999999995,520,407.4,510.0
+d469b3f2-36c4-4a38-a954-3e6bb388c0d4,25,372,113.0,113.0,465,31,compareTo,        logFileIds.sort(Long::compareTo);,matched,366.0,500,448.79999999999995,520,407.4,510.0
+78ccff43-41af-4c58-b707-45185836b80b,25,519,353.0,353.0,465,32,compareTo,        logFileIds.sort(Long::compareTo);,matched,366.0,500,448.79999999999995,520,407.4,510.0
+5494a9b1-5e99-406f-9be7-b8e2374fbd71,25,210,149.0,149.0,465,33,compareTo,        logFileIds.sort(Long::compareTo);,matched,366.0,500,448.79999999999995,520,407.4,510.0
+cccd4cd9-18a0-4e63-8819-ec10ac88459c,25,609,804.0,804.0,465,35,compareTo,        logFileIds.sort(Long::compareTo);,matched,366.0,500,448.79999999999995,520,407.4,510.0
+84c8c059-2ea0-47cc-8a1f-9f0c55e9e43e,25,354,159.0,159.0,465,37,compareTo,        logFileIds.sort(Long::compareTo);,matched,366.0,500,448.79999999999995,520,407.4,510.0
+b908f97b-403b-4519-93cb-350ca391070e,25,610,10097.0,5000.0,465,37,compareTo,        logFileIds.sort(Long::compareTo);,matched,366.0,500,448.79999999999995,520,407.4,510.0
+c1705b9b-be14-46ee-84b1-ef23c61fdf25,25,467,5113.0,5000.0,466,12,return,        return logFileIds;,matched,163.6,520,218.79999999999998,540,191.2,530.0
+520e48f4-7547-40ed-882f-12e22637d7d1,25,373,143.0,143.0,466,13,return,        return logFileIds;,matched,163.6,520,218.79999999999998,540,191.2,530.0
+2f2ccf5e-3e77-4637-9167-9616618d149a,25,352,304.0,304.0,466,14,return,        return logFileIds;,matched,163.6,520,218.79999999999998,540,191.2,530.0
+5b4b98e7-57f7-4f23-b96b-fc6bccf93397,25,723,426.0,426.0,466,16,logFileIds;,        return logFileIds;,matched,228.0,520,329.2,540,278.6,530.0
+a028994f-bab2-4137-97ec-61ea95fac84f,25,173,153.0,153.0,466,17,logFileIds;,        return logFileIds;,matched,228.0,520,329.2,540,278.6,530.0
+3d9d1813-a14f-4233-b0c3-2d62d0afcb1b,25,520,120.0,120.0,466,17,logFileIds;,        return logFileIds;,matched,228.0,520,329.2,540,278.6,530.0
+fbffd3ab-accd-4e3e-824e-29d61933613c,25,212,349.0,349.0,466,20,logFileIds;,        return logFileIds;,matched,228.0,520,329.2,540,278.6,530.0
+b12dbee1-4d79-40eb-abf6-8f165b5c463a,25,399,123.0,123.0,466,20,logFileIds;,        return logFileIds;,matched,228.0,520,329.2,540,278.6,530.0
+84237ad6-6e3f-41cb-bd8c-163b8bc4d8b6,25,536,196.0,196.0,466,21,logFileIds;,        return logFileIds;,matched,228.0,520,329.2,540,278.6,530.0
+14bec318-6d03-485e-811a-b656219925f4,25,722,371.0,371.0,466,22,logFileIds;,        return logFileIds;,matched,228.0,520,329.2,540,278.6,530.0
+7ac219f4-3049-42f7-99e3-cbca0c383e91,25,611,5680.0,5000.0,466,23,logFileIds;,        return logFileIds;,matched,228.0,520,329.2,540,278.6,530.0
+4a34890f-81fa-4e78-adb7-2afce594098b,25,792,369.0,369.0,466,25,logFileIds;,        return logFileIds;,matched,228.0,520,329.2,540,278.6,530.0
+e15b056d-86b4-4b79-839d-15ac4d74908e,25,726,144.0,144.0,469,8,private,    private String getLogFilePath(long fileId) {,matched,126.8,580,191.2,600,159.0,590.0
+69bfdbe3-1449-4c0c-a976-a110aea13160,25,851,500.0,500.0,469,11,private,    private String getLogFilePath(long fileId) {,matched,126.8,580,191.2,600,159.0,590.0
+db7333d0-cdd1-4877-9b62-660cc32070a6,25,862,202.0,202.0,469,11,private,    private String getLogFilePath(long fileId) {,matched,126.8,580,191.2,600,159.0,590.0
+f06739b8-569c-4480-91cb-d710cabf6833,25,868,8982.0,5000.0,469,11,private,    private String getLogFilePath(long fileId) {,matched,126.8,580,191.2,600,159.0,590.0
+32c3ba81-a934-4651-a206-be25f9d2ea4e,25,765,534.0,534.0,469,12,WHITESPACE,    private String getLogFilePath(long fileId) {,approx_whitespace,522.4,580,531.5999999999999,600,527.0,590.0
+1a24aee4-377f-4a01-a3eb-8e2564c3baac,25,867,378.0,378.0,469,12,WHITESPACE,    private String getLogFilePath(long fileId) {,approx_whitespace,522.4,580,531.5999999999999,600,527.0,590.0
+df20cf7a-646d-4350-92ed-c191d82f6550,25,801,173.0,173.0,469,13,String,    private String getLogFilePath(long fileId) {,matched,200.39999999999998,580,255.6,600,228.0,590.0
+567f7230-9dea-48fb-8699-76cbd5478241,25,869,1149.0,1149.0,469,13,String,    private String getLogFilePath(long fileId) {,matched,200.39999999999998,580,255.6,600,228.0,590.0
+fe689940-054c-4bf2-b0a9-cadd8cc76aca,25,872,130.0,130.0,469,13,String,    private String getLogFilePath(long fileId) {,matched,200.39999999999998,580,255.6,600,228.0,590.0
+11dde12c-dd25-4e0c-9a55-663c286aed3a,25,861,1868.0,1868.0,469,16,String,    private String getLogFilePath(long fileId) {,matched,200.39999999999998,580,255.6,600,228.0,590.0
+2c886c8b-27d8-476f-886a-9aebc787bb1a,25,854,1402.0,1402.0,469,17,String,    private String getLogFilePath(long fileId) {,matched,200.39999999999998,580,255.6,600,228.0,590.0
+acf339fe-77ca-4c04-ab76-cc317d6890fe,25,870,8962.0,5000.0,469,17,String,    private String getLogFilePath(long fileId) {,matched,200.39999999999998,580,255.6,600,228.0,590.0
+8c820322-a415-4c6c-a606-06233bb229fa,25,871,639.0,639.0,469,17,String,    private String getLogFilePath(long fileId) {,matched,200.39999999999998,580,255.6,600,228.0,590.0
+b7de72e6-9f5e-4d54-88ed-fc745691e85e,25,796,676.0,676.0,469,18,String,    private String getLogFilePath(long fileId) {,matched,200.39999999999998,580,255.6,600,228.0,590.0
+c27b4f96-a09c-4cfb-8f2d-812f0bb8d412,25,853,691.0,691.0,469,21,getLogFilePath,    private String getLogFilePath(long fileId) {,matched,264.79999999999995,580,393.59999999999997,600,329.19999999999993,590.0
+88baebc0-5911-4e1b-8afd-bcd7b44f4c5f,25,856,939.0,939.0,469,22,getLogFilePath,    private String getLogFilePath(long fileId) {,matched,264.79999999999995,580,393.59999999999997,600,329.19999999999993,590.0
+b42ba0cb-ea61-43be-8340-e2e4a8f8026b,25,860,365.0,365.0,469,22,getLogFilePath,    private String getLogFilePath(long fileId) {,matched,264.79999999999995,580,393.59999999999997,600,329.19999999999993,590.0
+0da6b6c4-efae-484e-afd8-40118b78c37a,25,725,716.0,716.0,469,23,getLogFilePath,    private String getLogFilePath(long fileId) {,matched,264.79999999999995,580,393.59999999999997,600,329.19999999999993,590.0
+48237a4a-1cb0-461b-a32b-72b4933e2d54,25,852,307.0,307.0,469,23,getLogFilePath,    private String getLogFilePath(long fileId) {,matched,264.79999999999995,580,393.59999999999997,600,329.19999999999993,590.0
+08aff70d-bd27-4253-9247-3372cf9b4c94,25,802,145.0,145.0,469,25,getLogFilePath,    private String getLogFilePath(long fileId) {,matched,264.79999999999995,580,393.59999999999997,600,329.19999999999993,590.0
+ee4c0951-d9f2-492a-9053-a2313b46161c,25,730,764.0,764.0,469,26,getLogFilePath,    private String getLogFilePath(long fileId) {,matched,264.79999999999995,580,393.59999999999997,600,329.19999999999993,590.0
+e5bcf3b7-f1b7-48c5-8052-27f22d117b95,25,764,410.0,410.0,469,26,getLogFilePath,    private String getLogFilePath(long fileId) {,matched,264.79999999999995,580,393.59999999999997,600,329.19999999999993,590.0
+5e6bfda3-99f0-47f9-8e5d-2feed76ac472,25,734,437.0,437.0,469,27,getLogFilePath,    private String getLogFilePath(long fileId) {,matched,264.79999999999995,580,393.59999999999997,600,329.19999999999993,590.0
+104c2cf9-feb9-41a1-8a3d-a39bb28f5f31,25,767,462.0,462.0,469,27,getLogFilePath,    private String getLogFilePath(long fileId) {,matched,264.79999999999995,580,393.59999999999997,600,329.19999999999993,590.0
+8fd7f2ff-934d-423a-b393-01f91ea75986,25,848,701.0,701.0,469,28,getLogFilePath,    private String getLogFilePath(long fileId) {,matched,264.79999999999995,580,393.59999999999997,600,329.19999999999993,590.0
+be3c6bb9-52c3-48f5-92f3-e74d010aaff6,25,763,129.0,129.0,469,32,getLogFilePath,    private String getLogFilePath(long fileId) {,matched,264.79999999999995,580,393.59999999999997,600,329.19999999999993,590.0
+3d3d7ed2-7c3b-4001-9c3d-766aa55490ec,25,873,144.0,144.0,469,34,(,    private String getLogFilePath(long fileId) {,matched,393.59999999999997,580,402.79999999999995,600,398.19999999999993,590.0
+01bd3357-33b0-489a-9970-2b06e00a2e51,25,874,833.0,833.0,469,37,long,    private String getLogFilePath(long fileId) {,matched,402.79999999999995,580,439.59999999999997,600,421.19999999999993,590.0
+ae387086-c8ba-4606-bbba-6b19dcb23d46,25,735,477.0,477.0,469,41,fileId,    private String getLogFilePath(long fileId) {,matched,448.79999999999995,580,503.99999999999994,600,476.4,590.0
+52f1ae65-38a2-42c6-b0eb-2717018d04ae,25,541,150.0,150.0,469,43,fileId,    private String getLogFilePath(long fileId) {,matched,448.79999999999995,580,503.99999999999994,600,476.4,590.0
+3f81081f-689b-40ec-87c2-965c34d4139a,25,850,762.0,762.0,469,45,fileId,    private String getLogFilePath(long fileId) {,matched,448.79999999999995,580,503.99999999999994,600,476.4,590.0
+a2a01ce4-837f-48ab-8f46-c64f99f0a7b0,25,742,1224.0,1224.0,470,10,return,"        return logDir + File.separator + logFilePrefix + ""_"" + fileId;",matched,163.6,600,218.79999999999998,620,191.2,610.0
+e6d4d5f1-5c6d-44ad-a7a1-0c0f286d516b,25,804,146.0,146.0,470,12,return,"        return logDir + File.separator + logFilePrefix + ""_"" + fileId;",matched,163.6,600,218.79999999999998,620,191.2,610.0
+0429ed3e-aeae-4d8b-9048-6d41219d0e6c,25,371,136.0,136.0,470,14,return,"        return logDir + File.separator + logFilePrefix + ""_"" + fileId;",matched,163.6,600,218.79999999999998,620,191.2,610.0
+258cabb1-0f44-44c7-9a26-a018944c3f45,25,724,636.0,636.0,470,17,logDir,"        return logDir + File.separator + logFilePrefix + ""_"" + fileId;",matched,228.0,600,283.2,620,255.6,610.0
+f7014ec6-e3e4-47f5-b627-8df378a4c70b,25,740,496.0,496.0,470,19,logDir,"        return logDir + File.separator + logFilePrefix + ""_"" + fileId;",matched,228.0,600,283.2,620,255.6,610.0
+57f202d2-ec54-4b87-91d0-cf5d63aaac15,25,808,411.0,411.0,470,19,logDir,"        return logDir + File.separator + logFilePrefix + ""_"" + fileId;",matched,228.0,600,283.2,620,255.6,610.0
+2042c498-3b86-4a58-9eca-37cc35e9bfcb,25,728,507.0,507.0,470,21,logDir,"        return logDir + File.separator + logFilePrefix + ""_"" + fileId;",matched,228.0,600,283.2,620,255.6,610.0
+b5090cb8-5adb-4103-afdd-645b8009b369,25,766,554.0,554.0,470,21,logDir,"        return logDir + File.separator + logFilePrefix + ""_"" + fileId;",matched,228.0,600,283.2,620,255.6,610.0
+fe130ddc-0e1a-4991-adc9-881e3b38553f,25,769,518.0,518.0,470,21,logDir,"        return logDir + File.separator + logFilePrefix + ""_"" + fileId;",matched,228.0,600,283.2,620,255.6,610.0
+59ec578b-d4d9-43a3-9b1d-7816740c536c,25,795,167.0,167.0,470,22,WHITESPACE,"        return logDir + File.separator + logFilePrefix + ""_"" + fileId;",approx_whitespace,310.79999999999995,600,320.0,620,315.4,610.0
+99a8d71e-c634-4588-b676-c7b2b973b9e6,25,800,478.0,478.0,470,23,+,"        return logDir + File.separator + logFilePrefix + ""_"" + fileId;",matched,292.4,600,301.6,620,297.0,610.0
+9668276c-c34c-488b-ae57-7b49bc79baf9,25,400,280.0,280.0,470,26,File,"        return logDir + File.separator + logFilePrefix + ""_"" + fileId;",matched,310.79999999999995,600,347.59999999999997,620,329.19999999999993,610.0
+52c43756-15d9-47a3-808a-7611dc812b45,25,807,232.0,232.0,470,28,File,"        return logDir + File.separator + logFilePrefix + ""_"" + fileId;",matched,494.79999999999995,600,531.5999999999999,620,513.1999999999999,610.0
+2679f3ac-9594-4e37-8f11-9cb019210f1d,25,812,387.0,387.0,470,28,File,"        return logDir + File.separator + logFilePrefix + ""_"" + fileId;",matched,494.79999999999995,600,531.5999999999999,620,513.1999999999999,610.0
+7081ad95-b816-4bfb-baeb-feac00f4938b,25,759,523.0,523.0,470,29,.,"        return logDir + File.separator + logFilePrefix + ""_"" + fileId;",matched,347.59999999999997,600,356.79999999999995,620,352.19999999999993,610.0
+7cdd7ba5-581e-425c-90bf-ca9cc1762c63,25,731,1421.0,1421.0,470,31,separator,"        return logDir + File.separator + logFilePrefix + ""_"" + fileId;",matched,356.79999999999995,600,439.59999999999997,620,398.19999999999993,610.0
+674ab73e-a8ee-4f6d-bc99-dfbc4b193302,25,739,205.0,205.0,470,33,separator,"        return logDir + File.separator + logFilePrefix + ""_"" + fileId;",matched,356.79999999999995,600,439.59999999999997,620,398.19999999999993,610.0
+9069f60d-bab6-48ae-958d-89ed186d4be8,25,809,146.0,146.0,470,33,separator,"        return logDir + File.separator + logFilePrefix + ""_"" + fileId;",matched,356.79999999999995,600,439.59999999999997,620,398.19999999999993,610.0
+21ad0eeb-88da-4c79-8888-614f20e23ec7,25,401,183.0,183.0,470,34,separator,"        return logDir + File.separator + logFilePrefix + ""_"" + fileId;",matched,356.79999999999995,600,439.59999999999997,620,398.19999999999993,610.0
+f1333370-1649-41b5-92bf-389e6047ce93,25,729,290.0,290.0,470,34,separator,"        return logDir + File.separator + logFilePrefix + ""_"" + fileId;",matched,356.79999999999995,600,439.59999999999997,620,398.19999999999993,610.0
+158b20b3-0ead-4c66-b813-e3222b7ae5f5,25,806,194.0,194.0,470,34,separator,"        return logDir + File.separator + logFilePrefix + ""_"" + fileId;",matched,356.79999999999995,600,439.59999999999997,620,398.19999999999993,610.0
+a293f285-7f31-4f67-b995-efc91ad67a0c,25,733,166.0,166.0,470,36,separator,"        return logDir + File.separator + logFilePrefix + ""_"" + fileId;",matched,356.79999999999995,600,439.59999999999997,620,398.19999999999993,610.0
+8d998758-3272-430a-9a8b-b61e314b17da,25,803,705.0,705.0,470,40,+,"        return logDir + File.separator + logFilePrefix + ""_"" + fileId;",matched,448.79999999999995,600,458.0,620,453.4,610.0
+3d7531db-ad2b-4e76-8964-3feb82beaa1d,25,805,621.0,621.0,470,42,logFilePrefix,"        return logDir + File.separator + logFilePrefix + ""_"" + fileId;",matched,467.2,600,586.8,620,527.0,610.0
+79f115d3-b4d3-481b-9516-e1ee1336037a,25,813,720.0,720.0,470,44,logFilePrefix,"        return logDir + File.separator + logFilePrefix + ""_"" + fileId;",matched,467.2,600,586.8,620,527.0,610.0
+b6ce14df-bc58-4386-ae0b-afb30c147232,25,760,652.0,652.0,470,45,logFilePrefix,"        return logDir + File.separator + logFilePrefix + ""_"" + fileId;",matched,467.2,600,586.8,620,527.0,610.0
+eb152471-0c23-44bd-b3f1-f5425b6008e6,25,810,126.0,126.0,470,46,logFilePrefix,"        return logDir + File.separator + logFilePrefix + ""_"" + fileId;",matched,467.2,600,586.8,620,527.0,610.0
+d3be1951-fd2a-4a36-a017-30e233ee5287,25,811,267.0,267.0,470,46,logFilePrefix,"        return logDir + File.separator + logFilePrefix + ""_"" + fileId;",matched,467.2,600,586.8,620,527.0,610.0
+24b7b3c0-e40a-47b5-b64a-bcf48b21a535,25,402,97.0,97.0,470,47,logFilePrefix,"        return logDir + File.separator + logFilePrefix + ""_"" + fileId;",matched,467.2,600,586.8,620,527.0,610.0
+9aea993d-8680-48cb-8786-92d77b548c80,25,738,390.0,390.0,470,48,logFilePrefix,"        return logDir + File.separator + logFilePrefix + ""_"" + fileId;",matched,467.2,600,586.8,620,527.0,610.0
+3454fbb5-b380-4f92-9257-3fa35400df42,25,762,359.0,359.0,470,48,logFilePrefix,"        return logDir + File.separator + logFilePrefix + ""_"" + fileId;",matched,467.2,600,586.8,620,527.0,610.0
+6910c71c-a668-4fb6-8ed1-ec7bf5fb870c,25,732,588.0,588.0,470,50,logFilePrefix,"        return logDir + File.separator + logFilePrefix + ""_"" + fileId;",matched,467.2,600,586.8,620,527.0,610.0
+9b69eac0-74b5-4df1-85fd-edbb6936a9b6,25,814,144.0,144.0,470,51,logFilePrefix,"        return logDir + File.separator + logFilePrefix + ""_"" + fileId;",matched,467.2,600,586.8,620,527.0,610.0
+2fc9f188-dbec-4011-92c4-e3e7cdb44a58,25,741,153.0,153.0,470,54,logFilePrefix,"        return logDir + File.separator + logFilePrefix + ""_"" + fileId;",matched,467.2,600,586.8,620,527.0,610.0
+993b6207-5175-4f3c-b7b7-10e3f06573d5,25,737,141.0,141.0,470,56,+,"        return logDir + File.separator + logFilePrefix + ""_"" + fileId;",matched,596.0,600,605.1999999999999,620,600.5999999999999,610.0
+8827e6d7-e742-4e34-a755-e2996c85a1f0,25,736,175.0,175.0,470,63,WHITESPACE,"        return logDir + File.separator + logFilePrefix + ""_"" + fileId;",approx_whitespace,724.8,600,734.0,620,729.4,610.0
+b037f407-0c1f-4aeb-9647-7ae7d7e8f3ad,25,761,150.0,150.0,470,63,WHITESPACE,"        return logDir + File.separator + logFilePrefix + ""_"" + fileId;",approx_whitespace,724.8,600,734.0,620,729.4,610.0

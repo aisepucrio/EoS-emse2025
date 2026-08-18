@@ -1,0 +1,14 @@
+fixation_id,experiment,fixation_order_number,duration,duration_clipped,source_file_line,source_file_col,token,line_text,match_type,bbox_x1,bbox_y1,bbox_x2,bbox_y2,center_x,center_y
+a5f9d1cb-8c1e-430e-b34a-b370947a4222,7,4,256.0,256.0,443,37,null;,        String[] logFileNames = null;,matched,384.4,60,430.4,80,407.4,70.0
+abd737ab-ecff-48ab-b4b0-2542a9ab9795,7,10,380.0,380.0,444,16,lt;Long,        List<Long> logFileIds = null;,matched,200.39999999999998,80,246.39999999999998,100,223.39999999999998,90.0
+8a5d9ff2-5164-48ad-b746-5d227a53b82c,7,8,551.0,551.0,444,20,lt;Long,        List<Long> logFileIds = null;,matched,200.39999999999998,80,246.39999999999998,100,223.39999999999998,90.0
+57ec0eb1-b9a1-4f96-87cc-a909807a1868,7,11,178.0,178.0,444,22,gt;,        List<Long> logFileIds = null;,matched,246.39999999999998,80,255.6,100,251.0,90.0
+4c3a5b93-be65-4ab7-a590-bfc934fefce7,7,5,127.0,127.0,444,28,logFileIds,        List<Long> logFileIds = null;,matched,264.79999999999995,80,356.79999999999995,100,310.79999999999995,90.0
+3adc49c5-e0c5-4596-804e-ad0bad9f67cf,7,7,125.0,125.0,444,29,logFileIds,        List<Long> logFileIds = null;,matched,264.79999999999995,80,356.79999999999995,100,310.79999999999995,90.0
+0d7a524f-b2c6-4cc8-88cf-7f1ff1fda7e0,7,6,339.0,339.0,444,38,WHITESPACE,        List<Long> logFileIds = null;,approx_whitespace,421.2,80,430.4,100,425.79999999999995,90.0
+f7b18932-c8e2-4f63-b590-146766db0336,7,12,348.0,348.0,445,33,()),        if (!fileLogDir.exists()) {,matched,366.0,100,393.59999999999997,120,379.79999999999995,110.0
+2fa4cc5c-de3e-4da0-bac8-151c173a0527,7,9,116.0,116.0,447,34,emptyList,            return Collections.emptyList();,matched,375.2,140,458.0,160,416.6,150.0
+bd3f994f-7960-4c85-80f5-358792012385,7,13,1104.0,1104.0,449,34,isDirectory,        if (!fileLogDir.isDirectory()) {,matched,310.79999999999995,180,412.0,200,361.4,190.0
+573f6210-0295-4fb0-9033-a564e0e08ce3,7,3,496.0,496.0,458,21,log,"            LOGGER.log(Level.INFO, ""the log dir ("" + logDir + "") is empty. returning empty list"");",matched,200.39999999999998,360,228.0,380,214.2,370.0
+d3146586-f4b5-47a7-bdfe-7d07c1ff6a77,7,1,149.0,149.0,458,29,.,"            LOGGER.log(Level.INFO, ""the log dir ("" + logDir + "") is empty. returning empty list"");",matched,255.6,360,264.79999999999995,380,260.2,370.0
+dc19f421-11d5-456b-8067-d5da0df2cdba,7,2,91.0,91.0,458,35,WHITESPACE,"            LOGGER.log(Level.INFO, ""the log dir ("" + logDir + "") is empty. returning empty list"");",approx_whitespace,982.4,360,991.5999999999999,380,987.0,370.0

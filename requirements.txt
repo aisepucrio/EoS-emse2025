@@ -6,3 +6,5 @@ seaborn
 scipy
 statsmodels
 openpyxl
+ipykernel
+Pillow

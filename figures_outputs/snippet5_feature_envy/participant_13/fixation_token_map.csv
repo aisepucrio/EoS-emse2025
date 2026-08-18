@@ -1,0 +1,4 @@
+fixation_id,experiment,fixation_order_number,duration,duration_clipped,source_file_line,source_file_col,token,line_text,match_type,bbox_x1,bbox_y1,bbox_x2,bbox_y2,center_x,center_y
+70f40614-9d46-44c9-ac04-9e2555043282,13,3,533.0,533.0,225,7,WHITESPACE,        return false;,approx_whitespace,274.0,720,283.2,740,278.6,730.0
+0ab49bde-dfb8-4d1d-b608-f16b02f5f925,13,31,528.0,528.0,225,10,return,        return false;,matched,163.6,720,218.79999999999998,740,191.2,730.0
+6626a84d-8d52-44ff-bbea-94b27cf40545,13,4,184.0,184.0,225,19,false;,        return false;,matched,228.0,720,283.2,740,255.6,730.0

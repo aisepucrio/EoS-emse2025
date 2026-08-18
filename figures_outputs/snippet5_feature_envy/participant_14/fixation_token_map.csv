@@ -1,0 +1,168 @@
+fixation_id,experiment,fixation_order_number,duration,duration_clipped,source_file_line,source_file_col,token,line_text,match_type,bbox_x1,bbox_y1,bbox_x2,bbox_y2,center_x,center_y
+19366584-6aa6-442c-a01f-380325525e50,14,74,270.0,270.0,190,14,static,"    private static boolean resolveGenericRef(GenericRef ref, Class<?> clazz, Type type)",matched,200.39999999999998,20,255.6,40,228.0,30.0
+7bdf5649-d9c3-48f7-882f-1eeb0cb7ef23,14,127,89.0,89.0,190,17,static,"    private static boolean resolveGenericRef(GenericRef ref, Class<?> clazz, Type type)",matched,200.39999999999998,20,255.6,40,228.0,30.0
+4072e782-e667-47bd-ab20-8e6fbcf864fc,14,71,173.0,173.0,190,25,boolean,"    private static boolean resolveGenericRef(GenericRef ref, Class<?> clazz, Type type)",matched,264.79999999999995,20,329.2,40,297.0,30.0
+843e70f5-0c9c-46e4-bed3-76ccac17e195,14,27,319.0,319.0,190,33,resolveGenericRef,"    private static boolean resolveGenericRef(GenericRef ref, Class<?> clazz, Type type)",matched,338.4,20,494.79999999999995,40,416.59999999999997,30.0
+7b02f403-c81b-40a7-8857-5380117efb15,14,72,380.0,380.0,190,34,resolveGenericRef,"    private static boolean resolveGenericRef(GenericRef ref, Class<?> clazz, Type type)",matched,338.4,20,494.79999999999995,40,416.59999999999997,30.0
+0e458362-e312-45cf-a42d-f8a2a46969b7,14,129,456.0,456.0,190,44,resolveGenericRef,"    private static boolean resolveGenericRef(GenericRef ref, Class<?> clazz, Type type)",matched,338.4,20,494.79999999999995,40,416.59999999999997,30.0
+14c4548d-dbd3-4d81-a069-9dd8a9e9ff78,14,34,394.0,394.0,190,48,GenericRef,"    private static boolean resolveGenericRef(GenericRef ref, Class<?> clazz, Type type)",matched,402.79999999999995,20,494.79999999999995,40,448.79999999999995,30.0
+56f7c38e-e728-4df5-b9ae-bd95636be381,14,70,364.0,364.0,190,51,GenericRef,"    private static boolean resolveGenericRef(GenericRef ref, Class<?> clazz, Type type)",matched,402.79999999999995,20,494.79999999999995,40,448.79999999999995,30.0
+b8f6bfe1-e463-45e9-a20d-ad507e240170,14,40,892.0,892.0,190,52,GenericRef,"    private static boolean resolveGenericRef(GenericRef ref, Class<?> clazz, Type type)",matched,503.99999999999994,20,596.0,40,550.0,30.0
+a46cc003-e578-4924-98d0-a7a16569f16c,14,51,107.0,107.0,190,58,ref,"    private static boolean resolveGenericRef(GenericRef ref, Class<?> clazz, Type type)",matched,467.2,20,494.79999999999995,40,481.0,30.0
+b9d10a23-cc53-427f-94b8-cd3e15332e66,14,36,2624.0,2624.0,190,65,Class,"    private static boolean resolveGenericRef(GenericRef ref, Class<?> clazz, Type type)",matched,651.1999999999999,20,697.1999999999999,40,674.1999999999999,30.0
+4079f593-35e2-4d07-a6e5-54f533f65cae,14,42,242.0,242.0,190,70,lt;,"    private static boolean resolveGenericRef(GenericRef ref, Class<?> clazz, Type type)",matched,697.1999999999999,20,706.4,40,701.8,30.0
+ed4f5075-00bf-4539-aa9a-7c2f5425e659,14,41,1712.0,1712.0,190,79,clazz,"    private static boolean resolveGenericRef(GenericRef ref, Class<?> clazz, Type type)",matched,734.0,20,780.0,40,757.0,30.0
+d7dc8f31-e919-4d87-99d3-e41ec82a57ca,14,43,618.0,618.0,190,80,clazz,"    private static boolean resolveGenericRef(GenericRef ref, Class<?> clazz, Type type)",matched,734.0,20,780.0,40,757.0,30.0
+219548b3-03b3-448d-85c4-939295a9100c,14,45,506.0,506.0,192,16,type,        if (type instanceof Class),matched,200.39999999999998,60,237.2,80,218.79999999999998,70.0
+70a338b2-b9d7-4f3f-b167-5fd2f39fbde5,14,44,431.0,431.0,192,18,instanceof,        if (type instanceof Class),matched,246.39999999999998,60,338.4,80,292.4,70.0
+a031e4aa-f340-404c-972e-347654775c85,14,79,174.0,174.0,192,19,instanceof,        if (type instanceof Class),matched,246.39999999999998,60,338.4,80,292.4,70.0
+e5e7155e-c196-419f-9c26-5ccf5406161a,14,46,1073.0,1073.0,192,20,instanceof,        if (type instanceof Class),matched,246.39999999999998,60,338.4,80,292.4,70.0
+d28249e2-cc3b-42b1-a8ad-df8384148a52,14,137,858.0,858.0,192,32,Class,        if (type instanceof Class),matched,347.59999999999997,60,393.59999999999997,80,370.59999999999997,70.0
+d9a2e577-c563-473a-8cad-41084ec6df61,14,191,160.0,160.0,193,10,WHITESPACE,        {,approx_whitespace,163.6,80,172.8,100,168.2,90.0
+996052f1-988f-4dde-90aa-fc644b9529cb,14,196,360.0,360.0,194,10,WHITESPACE,            if (type == ref.ifaceClass),approx_whitespace,412.0,100,421.2,120,416.6,110.0
+95f9de04-e099-46ab-b3f0-839ae134beb3,14,189,370.0,370.0,194,11,WHITESPACE,            if (type == ref.ifaceClass),approx_whitespace,439.59999999999997,100,448.79999999999995,120,444.19999999999993,110.0
+bf260b8e-0dfd-492b-84aa-5f01c83e9935,14,47,236.0,236.0,194,13,if,            if (type == ref.ifaceClass),matched,200.39999999999998,100,218.79999999999998,120,209.59999999999997,110.0
+16332975-5c06-4fe1-ba43-c12cab62112a,14,214,143.0,143.0,194,14,if,            if (type == ref.ifaceClass),matched,347.59999999999997,100,366.0,120,356.79999999999995,110.0
+d3a0daa6-b323-4692-96fe-a3a58d57f4c9,14,185,438.0,438.0,194,17,type,            if (type == ref.ifaceClass),matched,237.2,100,274.0,120,255.6,110.0
+461e57c9-628c-44db-b168-fea7602de3c7,14,58,411.0,411.0,194,18,type,            if (type == ref.ifaceClass),matched,237.2,100,274.0,120,255.6,110.0
+38920f82-6447-4e2c-b3b7-2239d21630a1,14,48,478.0,478.0,194,20,type,            if (type == ref.ifaceClass),matched,237.2,100,274.0,120,255.6,110.0
+aad5a71d-9bb4-4371-aece-3fe6ac14614c,14,167,512.0,512.0,194,22,==,            if (type == ref.ifaceClass),matched,283.2,100,301.6,120,292.4,110.0
+752d9979-b1b3-45e2-97c5-4ab22d7e0626,14,197,299.0,299.0,194,23,==,            if (type == ref.ifaceClass),matched,283.2,100,301.6,120,292.4,110.0
+cb8341c3-9644-4250-bd8e-5fb8cf92c14e,14,50,4322.0,4322.0,194,27,ref,            if (type == ref.ifaceClass),matched,310.79999999999995,100,338.4,120,324.59999999999997,110.0
+580a92b1-c99a-4744-8046-5b80bfda48c0,14,78,604.0,604.0,194,27,ref,            if (type == ref.ifaceClass),matched,310.79999999999995,100,338.4,120,324.59999999999997,110.0
+006e7721-93bf-4947-8e16-fb9d84258c3f,14,49,888.0,888.0,194,30,ifaceClass,            if (type == ref.ifaceClass),matched,347.59999999999997,100,439.59999999999997,120,393.59999999999997,110.0
+391c1b79-68dd-40a7-a70c-4fde20aaf432,14,168,727.0,727.0,194,31,ifaceClass,            if (type == ref.ifaceClass),matched,347.59999999999997,100,439.59999999999997,120,393.59999999999997,110.0
+8b2866b5-86be-4852-a98e-221da47fc915,14,165,666.0,666.0,194,32,ifaceClass,            if (type == ref.ifaceClass),matched,347.59999999999997,100,439.59999999999997,120,393.59999999999997,110.0
+91f25da4-335d-48cb-81de-33877211c662,14,200,160.0,160.0,194,32,ifaceClass,            if (type == ref.ifaceClass),matched,347.59999999999997,100,439.59999999999997,120,393.59999999999997,110.0
+b28d5902-e786-4ced-b0cc-194b21a7a300,14,166,1223.0,1223.0,194,33,ifaceClass,            if (type == ref.ifaceClass),matched,347.59999999999997,100,439.59999999999997,120,393.59999999999997,110.0
+86121fbc-fed5-4f4e-87fd-2983373774a9,14,198,200.0,200.0,194,36,ifaceClass,            if (type == ref.ifaceClass),matched,347.59999999999997,100,439.59999999999997,120,393.59999999999997,110.0
+0e5e1e77-d3a4-46c2-ab3a-ce1b0f651f44,14,153,264.0,264.0,196,22,WHITESPACE,                // is this a straight ref or a TypeVariable?,approx_whitespace,503.99999999999994,140,513.2,160,508.6,150.0
+12cfa386-ba58-4c0c-9d8a-28dfdd6527ed,14,118,776.0,776.0,196,25,this,                // is this a straight ref or a TypeVariable?,matched,292.4,140,329.2,160,310.79999999999995,150.0
+cbcbb1eb-b944-41e3-b28b-7f6f8e91084d,14,63,164.0,164.0,196,28,a,                // is this a straight ref or a TypeVariable?,matched,338.4,140,347.59999999999997,160,343.0,150.0
+9a0db0cd-5687-4f34-8cae-2133f60f5dcb,14,164,476.0,476.0,196,29,WHITESPACE,                // is this a straight ref or a TypeVariable?,approx_whitespace,632.8,140,642.0,160,637.4,150.0
+dc2cf21f-23dd-420e-a616-8473269248df,14,175,164.0,164.0,196,33,straight,                // is this a straight ref or a TypeVariable?,matched,356.79999999999995,140,430.4,160,393.59999999999997,150.0
+fc757edc-e73d-40bd-97ec-c99524296990,14,52,5966.0,5000.0,196,35,straight,                // is this a straight ref or a TypeVariable?,matched,356.79999999999995,140,430.4,160,393.59999999999997,150.0
+f917090c-0c88-4f0a-bb39-d7944d3dcfb4,14,66,153.0,153.0,196,40,ref,                // is this a straight ref or a TypeVariable?,matched,439.59999999999997,140,467.2,160,453.4,150.0
+91573f0d-f189-4466-ad5e-027f209743a4,14,65,135.0,135.0,196,48,TypeVariable?,                // is this a straight ref or a TypeVariable?,matched,522.4,140,642.0,160,582.2,150.0
+74b98489-be20-4ef4-ac05-8239cd7f3c5f,14,177,279.0,279.0,196,53,TypeVariable?,                // is this a straight ref or a TypeVariable?,matched,522.4,140,642.0,160,582.2,150.0
+46d8cfe5-b7f2-45ac-b74f-e82679fd6b29,14,53,444.0,444.0,196,58,TypeVariable?,                // is this a straight ref or a TypeVariable?,matched,522.4,140,642.0,160,582.2,150.0
+bf42baed-a7fa-4451-8c9f-9051a804eda7,14,64,209.0,209.0,196,59,TypeVariable?,                // is this a straight ref or a TypeVariable?,matched,522.4,140,642.0,160,582.2,150.0
+bd7c6a6e-eb17-4c12-9537-afcfd95c4bd1,14,59,420.0,420.0,197,32,WHITESPACE,"                // debug(""Found ref (as class): %s"",toShortName(type));",approx_whitespace,605.1999999999999,160,614.4,180,609.8,170.0
+4e49ae49-0f7f-4787-8f36-173dbcc98494,14,154,150.0,150.0,197,33,ref,"                // debug(""Found ref (as class): %s"",toShortName(type));",matched,384.4,160,412.0,180,398.2,170.0
+7a3ff135-38e2-42de-a93a-3019ad3898bf,14,61,575.0,575.0,197,34,ref,"                // debug(""Found ref (as class): %s"",toShortName(type));",matched,384.4,160,412.0,180,398.2,170.0
+98e86b69-1558-4c4e-b08b-5089ccd25c60,14,133,567.0,567.0,197,35,ref,"                // debug(""Found ref (as class): %s"",toShortName(type));",matched,384.4,160,412.0,180,398.2,170.0
+72913d95-3de5-4f2c-8742-13878d089143,14,131,708.0,708.0,197,36,WHITESPACE,"                // debug(""Found ref (as class): %s"",toShortName(type));",approx_whitespace,669.5999999999999,160,678.8,180,674.1999999999999,170.0
+62452f54-e3b4-4676-b493-4fdfd18f7b09,14,121,414.0,414.0,197,40,WHITESPACE,"                // debug(""Found ref (as class): %s"",toShortName(type));",approx_whitespace,734.0,160,743.1999999999999,180,738.5999999999999,170.0
+9da4908c-090e-4bc5-8acc-054f0474fb4a,14,62,893.0,893.0,197,41,class):,"                // debug(""Found ref (as class): %s"",toShortName(type));",matched,458.0,160,522.4,180,490.2,170.0
+c9efad4e-bf10-45c7-b4a3-6d820f3508db,14,57,783.0,783.0,197,42,class):,"                // debug(""Found ref (as class): %s"",toShortName(type));",matched,458.0,160,522.4,180,490.2,170.0
+6d54f188-5390-4e83-bd73-737257701aaf,14,122,425.0,425.0,198,21,setGenericFromType,"                ref.setGenericFromType(type,0);",matched,274.0,180,439.59999999999997,200,356.79999999999995,190.0
+a66b73da-5b54-46e8-bae0-f808877aca01,14,67,382.0,382.0,198,22,setGenericFromType,"                ref.setGenericFromType(type,0);",matched,274.0,180,439.59999999999997,200,356.79999999999995,190.0
+41ee0586-4e5e-4c4f-97d6-5ec3c7a9715c,14,212,791.0,791.0,199,10,WHITESPACE,                return true;,approx_whitespace,246.39999999999998,200,255.6,220,251.0,210.0
+d8af0bea-339d-49ad-abc1-40fca0dbc47b,14,176,377.0,377.0,199,16,WHITESPACE,                return true;,approx_whitespace,338.4,200,347.59999999999997,220,343.0,210.0
+8e3ec994-e6b5-4ecc-a2b9-c08040eec4a4,14,217,271.0,271.0,199,18,return,                return true;,matched,237.2,200,292.4,220,264.79999999999995,210.0
+b8bcaadd-af9d-4a6b-99ad-12e0d88b7c0e,14,116,441.0,441.0,199,22,return,                return true;,matched,237.2,200,292.4,220,264.79999999999995,210.0
+7ef53941-a559-4fc2-9a41-c6ae4b27ba7c,14,213,173.0,173.0,199,26,true;,                return true;,matched,301.6,200,347.59999999999997,220,324.6,210.0
+912eac3d-9cdc-4f26-8e1d-62e405d2c10f,14,68,320.0,320.0,201,17,WHITESPACE,            else,approx_whitespace,228.0,240,237.2,260,232.6,250.0
+7b9b1f4f-6238-426a-a3fc-1ed7b059c953,14,190,294.0,294.0,203,11,WHITESPACE,                // Keep digging,approx_whitespace,182.0,280,191.2,300,186.6,290.0
+129e7dca-2dde-48a2-9c6a-f4ac8b53c15b,14,174,2127.0,2127.0,203,12,WHITESPACE,                // Keep digging,approx_whitespace,191.2,280,200.39999999999998,300,195.79999999999998,290.0
+43cc8c1f-90fa-4d94-8e11-ede21e5c7eea,14,219,15489.0,5000.0,203,12,WHITESPACE,                // Keep digging,approx_whitespace,191.2,280,200.39999999999998,300,195.79999999999998,290.0
+7c6ddadc-1805-4213-9b40-8b006aa3feb6,14,208,527.0,527.0,203,14,WHITESPACE,                // Keep digging,approx_whitespace,209.6,280,218.79999999999998,300,214.2,290.0
+411b5167-e847-41a2-9e89-84b1160a2a36,14,187,324.0,324.0,203,17,//,                // Keep digging,matched,237.2,280,255.6,300,246.39999999999998,290.0
+d046081c-4b90-47ef-8be8-9f114966542b,14,20,1018.0,1018.0,203,21,Keep,                // Keep digging,matched,264.79999999999995,280,301.6,300,283.2,290.0
+be04b962-3822-4ce6-85ff-30cfcd9073e6,14,119,184.0,184.0,203,21,Keep,                // Keep digging,matched,264.79999999999995,280,301.6,300,283.2,290.0
+4f0c40bd-3594-4544-b3eb-434edf64c0ea,14,188,98.0,98.0,203,23,Keep,                // Keep digging,matched,264.79999999999995,280,301.6,300,283.2,290.0
+97b3335f-ae53-4041-97d8-5070819c0326,14,77,261.0,261.0,203,25,digging,                // Keep digging,matched,310.79999999999995,280,375.2,300,343.0,290.0
+bec5394b-5a3a-402a-97fa-5c5cf9ae5ca7,14,117,287.0,287.0,203,26,digging,                // Keep digging,matched,310.79999999999995,280,375.2,300,343.0,290.0
+a773ad66-c9b0-4936-9cdc-74c797ffe690,14,183,1103.0,1103.0,203,26,digging,                // Keep digging,matched,310.79999999999995,280,375.2,300,343.0,290.0
+816e2e9c-0314-48fc-8df1-7dc0aaa4fe50,14,80,646.0,646.0,203,30,digging,                // Keep digging,matched,310.79999999999995,280,375.2,300,343.0,290.0
+c0cead84-d670-420e-90d1-3e0c1983e418,14,69,398.0,398.0,203,32,WHITESPACE,                // Keep digging,approx_whitespace,366.0,280,375.2,300,370.6,290.0
+f8d3b6f8-9eb7-4e9b-8e7a-d0a47b3b5b43,14,216,277.0,277.0,204,12,WHITESPACE,"                return resolveGenericRef(ref,type);",approx_whitespace,485.59999999999997,300,494.79999999999995,320,490.19999999999993,310.0
+850595c7-084c-48eb-afba-190800b1ae27,14,201,185.0,185.0,204,14,WHITESPACE,"                return resolveGenericRef(ref,type);",approx_whitespace,550.0,300,559.2,320,554.6,310.0
+b238cdc4-364d-4890-aee6-f635628c5b79,14,147,163.0,163.0,204,18,return,"                return resolveGenericRef(ref,type);",matched,237.2,300,292.4,320,264.79999999999995,310.0
+cf51a7f9-74dc-4ee0-a549-94a6443a5c32,14,81,290.0,290.0,204,20,return,"                return resolveGenericRef(ref,type);",matched,237.2,300,292.4,320,264.79999999999995,310.0
+4d899669-cc20-409e-a9b8-b726cb0c8be4,14,184,116.0,116.0,204,26,resolveGenericRef,"                return resolveGenericRef(ref,type);",matched,301.6,300,458.0,320,379.8,310.0
+267e99db-dd60-4b81-ab5a-62d8c4c9542e,14,139,217.0,217.0,204,27,resolveGenericRef,"                return resolveGenericRef(ref,type);",matched,301.6,300,458.0,320,379.8,310.0
+750d25c8-18e5-433f-82c2-5c4a9f39ecee,14,76,128.0,128.0,204,34,resolveGenericRef,"                return resolveGenericRef(ref,type);",matched,301.6,300,458.0,320,379.8,310.0
+c2fabfc9-0daa-440e-b5ed-9140fd5d58ad,14,205,836.0,836.0,205,10,WHITESPACE,            },approx_whitespace,182.0,320,191.2,340,186.6,330.0
+bd08ec09-51e1-4268-9ff5-a1773625cf91,14,192,402.0,402.0,205,11,WHITESPACE,            },approx_whitespace,191.2,320,200.39999999999998,340,195.79999999999998,330.0
+4713bf52-4e9c-46e9-89e1-2acac31be3fc,14,207,367.0,367.0,205,11,WHITESPACE,            },approx_whitespace,191.2,320,200.39999999999998,340,195.79999999999998,330.0
+41a6449f-4e2b-4e00-beaf-fa12a01e4850,14,218,244.0,244.0,205,11,WHITESPACE,            },approx_whitespace,191.2,320,200.39999999999998,340,195.79999999999998,330.0
+a64dee56-abb9-4801-824f-90d763947b53,14,210,431.0,431.0,205,12,WHITESPACE,            },approx_whitespace,200.39999999999998,320,209.6,340,205.0,330.0
+d1b40fcc-6a7c-423d-997e-4b510a9d2547,14,211,181.0,181.0,205,12,WHITESPACE,            },approx_whitespace,200.39999999999998,320,209.6,340,205.0,330.0
+2a171315-b01f-4c32-ad45-d846f55f6dbc,14,179,2272.0,2272.0,205,13,},            },matched,200.39999999999998,320,209.6,340,205.0,330.0
+2e6853d8-8cf9-4e51-a672-388cec0b1ecf,14,215,781.0,781.0,205,13,},            },matched,200.39999999999998,320,209.6,340,205.0,330.0
+97467a7a-deae-44d2-ae1c-28f7892c572c,14,82,968.0,968.0,208,14,type,        if (type instanceof ParameterizedType),matched,200.39999999999998,380,237.2,400,218.79999999999998,390.0
+d453d45c-db05-4e1f-a39b-ada6579e13f9,14,186,111.0,111.0,208,14,type,        if (type instanceof ParameterizedType),matched,200.39999999999998,380,237.2,400,218.79999999999998,390.0
+241a06d2-b6e8-4215-8b7c-73e55e6a689a,14,181,682.0,682.0,208,15,type,        if (type instanceof ParameterizedType),matched,467.2,380,503.99999999999994,400,485.59999999999997,390.0
+38cf90ba-1f0f-46cd-9a05-65d68241dcc5,14,182,91.0,91.0,208,15,type,        if (type instanceof ParameterizedType),matched,467.2,380,503.99999999999994,400,485.59999999999997,390.0
+a4f1aa6a-8cf3-433d-a65a-0ad5178ee5a0,14,85,311.0,311.0,208,20,instanceof,        if (type instanceof ParameterizedType),matched,246.39999999999998,380,338.4,400,292.4,390.0
+42097421-a0fd-494e-a333-3c1fa2d89c5d,14,84,284.0,284.0,208,21,instanceof,        if (type instanceof ParameterizedType),matched,246.39999999999998,380,338.4,400,292.4,390.0
+f407631d-d3fd-4ace-ab7f-74dcd038af5d,14,123,188.0,188.0,208,22,instanceof,        if (type instanceof ParameterizedType),matched,246.39999999999998,380,338.4,400,292.4,390.0
+c9f3534a-8bd4-4cb9-9eee-f88d9e73b601,14,141,1467.0,1467.0,208,22,instanceof,        if (type instanceof ParameterizedType),matched,246.39999999999998,380,338.4,400,292.4,390.0
+5dbbecc9-cdfa-4035-b9e8-8b198c3f8066,14,169,172.0,172.0,208,23,instanceof,        if (type instanceof ParameterizedType),matched,246.39999999999998,380,338.4,400,292.4,390.0
+8649631a-b431-472f-bfa0-f69f651165dd,14,178,126.0,126.0,208,26,instanceof,        if (type instanceof ParameterizedType),matched,246.39999999999998,380,338.4,400,292.4,390.0
+4849ca6b-331e-4913-94be-7dafe0d0be78,14,158,150.0,150.0,208,27,instanceof,        if (type instanceof ParameterizedType),matched,246.39999999999998,380,338.4,400,292.4,390.0
+6edfae9a-fbe0-46bf-8987-32db3688d0e5,14,150,181.0,181.0,208,30,ParameterizedType,        if (type instanceof ParameterizedType),matched,347.59999999999997,380,503.99999999999994,400,425.79999999999995,390.0
+f6c1bc0e-ced7-4ed7-a673-1c07882141b1,14,148,148.0,148.0,208,32,ParameterizedType,        if (type instanceof ParameterizedType),matched,347.59999999999997,380,503.99999999999994,400,425.79999999999995,390.0
+ca785171-9206-4c87-960e-a31d2d0e04f7,14,140,224.0,224.0,208,42,ParameterizedType,        if (type instanceof ParameterizedType),matched,347.59999999999997,380,503.99999999999994,400,425.79999999999995,390.0
+354014b2-d620-4560-9597-901c4f3ef3da,14,83,191.0,191.0,208,43,ParameterizedType,        if (type instanceof ParameterizedType),matched,347.59999999999997,380,503.99999999999994,400,425.79999999999995,390.0
+08d66df5-baba-42de-9b32-95f13de86773,14,149,169.0,169.0,208,45,ParameterizedType,        if (type instanceof ParameterizedType),matched,347.59999999999997,380,503.99999999999994,400,425.79999999999995,390.0
+8784b41f-64c7-41d6-a90d-a01851e76d3f,14,159,110.0,110.0,208,45,ParameterizedType,        if (type instanceof ParameterizedType),matched,347.59999999999997,380,503.99999999999994,400,425.79999999999995,390.0
+9ab3b1b8-cc9c-48cd-b07a-1eb79fb5b46c,14,89,1870.0,1870.0,210,15,ParameterizedType,            ParameterizedType ptype = (ParameterizedType)type;,matched,200.39999999999998,420,356.79999999999995,440,278.59999999999997,430.0
+6f9b0e45-9809-4c12-b6ba-b3948054ab82,14,115,306.0,306.0,210,16,ParameterizedType,            ParameterizedType ptype = (ParameterizedType)type;,matched,200.39999999999998,420,356.79999999999995,440,278.59999999999997,430.0
+3a848ba8-e190-4eea-b91a-f44e1c4469d1,14,204,212.0,212.0,210,20,ParameterizedType,            ParameterizedType ptype = (ParameterizedType)type;,matched,200.39999999999998,420,356.79999999999995,440,278.59999999999997,430.0
+0dde6aeb-f993-46c5-9fdc-1d931e60a998,14,86,1056.0,1056.0,210,33,ptype,            ParameterizedType ptype = (ParameterizedType)type;,matched,366.0,420,412.0,440,389.0,430.0
+4e6f05fe-eb03-40ac-937a-9bf1ca0e3ca6,14,90,2175.0,2175.0,210,38,WHITESPACE,            ParameterizedType ptype = (ParameterizedType)type;,approx_whitespace,651.1999999999999,420,660.4,440,655.8,430.0
+bb1133ea-361a-46b6-947b-c0561e059284,14,87,127.0,127.0,210,43,ParameterizedType,            ParameterizedType ptype = (ParameterizedType)type;,matched,448.79999999999995,420,605.1999999999999,440,527.0,430.0
+ce9144e6-4f11-401a-915e-d3ee5ea5e785,14,203,7873.0,5000.0,210,44,ParameterizedType,            ParameterizedType ptype = (ParameterizedType)type;,matched,448.79999999999995,420,605.1999999999999,440,527.0,430.0
+30138199-80f1-4327-98e4-f39321111e4a,14,88,328.0,328.0,210,59,type;,            ParameterizedType ptype = (ParameterizedType)type;,matched,614.4,420,660.4,440,637.4,430.0
+a279c2ea-cec0-4c13-b16a-3f41a75dd143,14,195,249.0,249.0,211,14,Type,            Type rawType = ptype.getRawType();,matched,200.39999999999998,440,237.2,460,218.79999999999998,450.0
+d295baa7-3e2c-40e9-a912-0eb421aa405b,14,180,159.0,159.0,211,15,Type,            Type rawType = ptype.getRawType();,matched,274.0,440,310.79999999999995,460,292.4,450.0
+76ff8574-b7e2-49cc-82e0-2cd146200bb4,14,193,283.0,283.0,211,15,Type,            Type rawType = ptype.getRawType();,matched,274.0,440,310.79999999999995,460,292.4,450.0
+30ce5940-ad65-4ed1-ab46-6e0df276b9fd,14,91,620.0,620.0,211,16,Type,            Type rawType = ptype.getRawType();,matched,347.59999999999997,440,384.4,460,366.0,450.0
+59a9e431-6dac-49d2-a490-84f3cc58479a,14,194,330.0,330.0,211,16,Type,            Type rawType = ptype.getRawType();,matched,347.59999999999997,440,384.4,460,366.0,450.0
+507383f5-726c-48a9-a4b7-db5fc4fbbc51,14,155,113.0,113.0,211,23,rawType,            Type rawType = ptype.getRawType();,matched,246.39999999999998,440,310.79999999999995,460,278.59999999999997,450.0
+1134d67b-d900-4fce-a3a3-f513466f7c6d,14,152,163.0,163.0,211,24,rawType,            Type rawType = ptype.getRawType();,matched,421.2,440,485.59999999999997,460,453.4,450.0
+3c15c6a1-ea1c-49c7-bd9a-855ce1af3af7,14,92,583.0,583.0,211,30,ptype,            Type rawType = ptype.getRawType();,matched,338.4,440,384.4,460,361.4,450.0
+ca4ae43c-9d15-48e4-80d1-3258b1447cb8,14,156,170.0,170.0,211,35,getRawType,            Type rawType = ptype.getRawType();,matched,393.59999999999997,440,485.59999999999997,460,439.59999999999997,450.0
+f713d077-4707-4dd3-8776-d851e7033c09,14,93,363.0,363.0,211,36,getRawType,            Type rawType = ptype.getRawType();,matched,393.59999999999997,440,485.59999999999997,460,439.59999999999997,450.0
+899ce571-5b43-4dcc-a25b-57b693f1077f,14,107,350.0,350.0,211,36,getRawType,            Type rawType = ptype.getRawType();,matched,393.59999999999997,440,485.59999999999997,460,439.59999999999997,450.0
+5f1a244d-44fd-4ed8-882f-c7d1a731bb86,14,170,99.0,99.0,212,5,WHITESPACE,            if (rawType == ref.ifaceClass),approx_whitespace,246.39999999999998,460,255.6,480,251.0,470.0
+198b1b69-1ae1-4f7f-8a8b-0b2c18f76eb7,14,171,245.0,245.0,212,12,WHITESPACE,            if (rawType == ref.ifaceClass),approx_whitespace,467.2,460,476.4,480,471.79999999999995,470.0
+024185d6-c78f-4448-8281-7d059e85bbb8,14,110,954.0,954.0,212,16,(,            if (rawType == ref.ifaceClass),matched,228.0,460,237.2,480,232.6,470.0
+dca8c20b-36f5-497b-98de-a0c9b83e41e2,14,161,367.0,367.0,212,16,(,            if (rawType == ref.ifaceClass),matched,228.0,460,237.2,480,232.6,470.0
+66506342-264d-4d21-9035-06131ac97ba1,14,209,1199.0,1199.0,212,17,rawType,            if (rawType == ref.ifaceClass),matched,237.2,460,301.6,480,269.4,470.0
+2625c760-eaa6-4e24-9c78-f9affe0573ff,14,172,200.0,200.0,212,19,rawType,            if (rawType == ref.ifaceClass),matched,237.2,460,301.6,480,269.4,470.0
+85204fb7-94c1-4765-8cd6-6ab01c23e995,14,206,451.0,451.0,212,22,rawType,            if (rawType == ref.ifaceClass),matched,237.2,460,301.6,480,269.4,470.0
+9a5cc918-f898-4b0b-8f37-81fa07726c60,14,162,916.0,916.0,212,23,rawType,            if (rawType == ref.ifaceClass),matched,237.2,460,301.6,480,269.4,470.0
+a736a469-b64d-4283-9f38-b840ccb46faf,14,202,17909.0,5000.0,212,25,==,            if (rawType == ref.ifaceClass),matched,310.79999999999995,460,329.2,480,320.0,470.0
+72896348-5717-4333-9e5f-163e361d47a9,14,94,723.0,723.0,212,26,==,            if (rawType == ref.ifaceClass),matched,310.79999999999995,460,329.2,480,320.0,470.0
+80424374-3aa9-459c-9e50-77dabaea5777,14,157,497.0,497.0,212,26,==,            if (rawType == ref.ifaceClass),matched,310.79999999999995,460,329.2,480,320.0,470.0
+9efad83f-f76c-4d34-bd38-b660ea5db4ce,14,160,171.0,171.0,212,28,ref,            if (rawType == ref.ifaceClass),matched,338.4,460,366.0,480,352.2,470.0
+f007f4fb-310a-41eb-a49d-bcb29e97e7c1,14,163,1654.0,1654.0,212,29,ref,            if (rawType == ref.ifaceClass),matched,338.4,460,366.0,480,352.2,470.0
+546cb0a9-3223-422c-b5e2-538a4693a49c,14,151,18378.0,5000.0,212,32,ifaceClass,            if (rawType == ref.ifaceClass),matched,375.2,460,467.2,480,421.2,470.0
+b42fb9c4-4349-4c10-b204-2d2d825a72a5,14,173,6544.0,5000.0,212,37,ifaceClass,            if (rawType == ref.ifaceClass),matched,375.2,460,467.2,480,421.2,470.0
+496e81e9-92cc-49c1-914a-8fc2c3cc55d7,14,19,424.0,424.0,214,13,WHITESPACE,"                // debug(""Found ref on [%s] as ParameterizedType [%s]"",toShortName(clazz),toShortName(ptype));",approx_whitespace,1092.8,500,1102.0,520,1097.4,510.0
+b7e77833-9bd3-4610-88de-089a20b690f2,14,103,319.0,319.0,214,38,on,"                // debug(""Found ref on [%s] as ParameterizedType [%s]"",toShortName(clazz),toShortName(ptype));",matched,421.2,500,439.59999999999997,520,430.4,510.0
+41e034a4-4d88-459e-b3df-6931bec59991,14,109,155.0,155.0,215,24,Always,"                // Always get the raw type parameter, let unwrap() solve for what it is",matched,264.79999999999995,520,320.0,540,292.4,530.0
+acc71aff-2980-4e5d-b5d3-26979b56bbf1,14,101,608.0,608.0,215,42,type,"                // Always get the raw type parameter, let unwrap() solve for what it is",matched,439.59999999999997,520,476.4,540,458.0,530.0
+57f0b488-37f2-4789-a020-959bebb499c9,14,98,587.0,587.0,215,43,WHITESPACE,"                // Always get the raw type parameter, let unwrap() solve for what it is",approx_whitespace,881.1999999999999,520,890.4,540,885.8,530.0
+cef4cd88-674f-4f70-9383-09eaa9260a36,14,96,205.0,205.0,215,44,"parameter,","                // Always get the raw type parameter, let unwrap() solve for what it is",matched,485.59999999999997,520,577.5999999999999,540,531.5999999999999,530.0
+1ca843ed-cb7a-4551-b359-f2c75ca1ab1b,14,104,245.0,245.0,215,48,"parameter,","                // Always get the raw type parameter, let unwrap() solve for what it is",matched,485.59999999999997,520,577.5999999999999,540,531.5999999999999,530.0
+3ada7aed-ae68-41be-97d8-810947302c0b,14,97,164.0,164.0,215,51,"parameter,","                // Always get the raw type parameter, let unwrap() solve for what it is",matched,485.59999999999997,520,577.5999999999999,540,531.5999999999999,530.0
+3f7c8840-e9d1-4c26-9960-4359a0c5e68e,14,105,808.0,808.0,215,55,let,"                // Always get the raw type parameter, let unwrap() solve for what it is",matched,586.8,520,614.4,540,600.5999999999999,530.0
+e6ce1925-ac82-4b54-b815-2cc8c9b1bd26,14,106,575.0,575.0,215,55,let,"                // Always get the raw type parameter, let unwrap() solve for what it is",matched,586.8,520,614.4,540,600.5999999999999,530.0
+d4a4f158-ceb9-4b6d-be40-e4f4ebd0e982,14,99,1191.0,1191.0,215,60,unwrap(),"                // Always get the raw type parameter, let unwrap() solve for what it is",matched,623.5999999999999,520,697.1999999999999,540,660.3999999999999,530.0
+42c294f8-39bf-4175-8264-1bd32a4cfc27,14,100,877.0,877.0,215,60,unwrap(),"                // Always get the raw type parameter, let unwrap() solve for what it is",matched,623.5999999999999,520,697.1999999999999,540,660.3999999999999,530.0
+9fbbf544-c48d-4cee-b9a9-a0c833024367,14,102,2036.0,2036.0,215,68,solve,"                // Always get the raw type parameter, let unwrap() solve for what it is",matched,706.4,520,752.4,540,729.4,530.0
+326974cb-24eb-4f9b-a7b0-2c481b5417c3,14,108,967.0,967.0,217,16,WHITESPACE,                return true;,approx_whitespace,264.79999999999995,560,274.0,580,269.4,570.0
+a676c42f-646e-4d42-b607-591d1c31aef0,14,142,128.0,128.0,217,23,WHITESPACE,                return true;,approx_whitespace,338.4,560,347.59999999999997,580,343.0,570.0
+82638eaf-9fbe-463c-9c76-7153090f2614,14,113,120.0,120.0,217,24,true;,                return true;,matched,301.6,560,347.59999999999997,580,324.6,570.0
+1493a90b-59f6-4081-af73-70dcd090d2e6,14,112,3360.0,3360.0,221,26,digging,                // Keep digging,matched,310.79999999999995,640,375.2,660,343.0,650.0
+02080fb6-278a-46ba-a467-a87c2de7ae8a,14,111,1056.0,1056.0,221,28,digging,                // Keep digging,matched,310.79999999999995,640,375.2,660,343.0,650.0
+f28f4e99-7c1e-45c5-9cb7-6e23d677338f,14,124,468.0,468.0,222,20,return,"                return resolveGenericRef(ref,rawType);",matched,237.2,660,292.4,680,264.79999999999995,670.0
+a5ce0256-dc2f-4bc2-ba62-e8dd49e862a3,14,17,640.0,640.0,224,4,WHITESPACE,        },approx_whitespace,163.6,700,172.8,720,168.2,710.0
+7d8e7297-2b2e-4d3d-a3e8-536bcfb29181,14,114,227.0,227.0,225,12,return,        return false;,matched,163.6,720,218.79999999999998,740,191.2,730.0
+4bf98c86-13c1-4b59-9636-b89f192ab3db,14,143,100.0,100.0,225,13,return,        return false;,matched,163.6,720,218.79999999999998,740,191.2,730.0
+b502484f-a032-422f-b449-a593b655a401,14,18,544.0,544.0,225,16,false;,        return false;,matched,228.0,720,283.2,740,255.6,730.0
+a0df66a8-ab8d-4b54-a941-dddbab2e568d,14,144,122.0,122.0,226,3,WHITESPACE,    },approx_whitespace,126.8,740,136.0,760,131.4,750.0

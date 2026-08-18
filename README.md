@@ -31,11 +31,23 @@ The repository consists of the following files and directories:
         - *General_Table_Structured*: Refined structure of the general table, facilitating programmatic analyses.
     - Reference Tables for Analysis:
         - The other tables presented, such as *Total_Compre_Yes*, *Analysis_Total_Compre_Yes*, *Total_Compre_No* and similar ones, represent intermediate data used for building the final tables. They contain segmentations of responses by comprehension levels (e.g., Total Comprehension, No Comprehension) and associated qualitative analyses. Although not directly presented in the paper, they document the analytical process and are available for future exploration.
-  
+
+- `Code_Snippet/`: Contains the 13 Java code snippets reviewed by participants, organized into one subfolder per code smell type:
+  - `long_method/`, `data_class/`, `feature_envy/`: the reviewed snippets for each smell (severity/metadata in `supplementary/code_snippets.xlsx`).
+  - `none/`: the familiarization snippet shown before the real trials (no smell).
+  - Each `.java` file wraps the exact reviewed method/class with the literal markers `///* CODE SNIPPET STARTS HERE *///` and `///* CODE SNIPPET ENDS HERE *///`, which the HEATMAP notebooks (see `notebooks/`) use to auto-detect the method boundaries.
+  - `code_snippets_metadata.csv`: CSV export of the same snippet metadata found in `supplementary/code_snippets.xlsx` (id, smell, severity, class/method name, repository, line range, etc.), kept here for convenience alongside the `.java` files.
+
 - `notebooks/`: Contains the Jupyter Notebooks for data analysis.
   - `fixation_analysisRQ2.ipynb`: Cognitive effort analysis (RQ2).
   - `fixation_analysisRQ3.ipynb`: Reading behavior analysis (RQ3).
-  
+  - `HEATMAP1_LogManager_getOrderedLogFileIds_notebook.ipynb`, `HEATMAP2_XelatexRunner_notebook.ipynb`, `HEATMAP3_ReflectUtils_resolveGenericRef_notebook.ipynb`: generate, for one representative snippet per code smell (Long Method, Data Class, and Feature Envy respectively), a per-participant gaze heatmap plus a "scarf/regression plot" scanpath chart (fixation order vs. code line, with regressions highlighted) from raw per-participant eye-tracking data at token/column granularity (not included in this repository). Each notebook is self-contained and reproducible — changing `SNIPPET_ID` in its configuration cell regenerates everything for any of the 12 analyzed snippets. Output is written to `figures_outputs/`.
+
+- `figures_outputs/`: Generated output of the HEATMAP notebooks (not raw data — reproducible by re-running the notebooks). One subfolder per snippet, named `snippet<ID>_<smell_type>/`:
+  - `participant_<NN>/`: per participant, `fixation_token_map.csv` plus four images — `overlay_diagnostico.png`, `heatmap_final.png`, `heatmap_com_pontos.png`, and `scanpath.png`.
+  - `all_participants_combined/`: the same set of images aggregated across all participants.
+  - `summary_by_participant.csv`: one row per participant (fixation count, dwell time, regression count, most-attended line/token).
+
 - `supplementary/`: Contains additional resources.
   - `answers_experiments.tsv`: Developers' answers during the experiment.
   - `code_snippets.xlsx`: Description of the 13 analyzed code snippets.
@@ -51,7 +63,7 @@ The reviewer should have a basic understanding of Java programming to review and
 The artifacts can be reviewed and executed on any standard computer system. There are no specific hardware requirements. The artifacts are compatible with any operating system. The following software is required to run the notebooks:
 
 - Python 3.10+
-- Required packages: `pandas`, `polars`, `numpy`, `matplotlib`, `seaborn`, `scipy`, `statsmodels`, `openpyxl`
+- Required packages: `pandas`, `polars`, `numpy`, `matplotlib`, `seaborn`, `scipy`, `statsmodels`, `openpyxl`, `Pillow`, `ipykernel` (the last two are needed to run the `HEATMAP*` notebooks)
 
 Install dependencies with:
 
